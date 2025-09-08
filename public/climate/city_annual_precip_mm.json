@@ -1,0 +1,1702 @@
+[
+  {
+    "city":"Chicago",
+    "year":1940,
+    "precip_mm":697.2
+  },
+  {
+    "city":"Chicago",
+    "year":1941,
+    "precip_mm":794.2
+  },
+  {
+    "city":"Chicago",
+    "year":1942,
+    "precip_mm":850.7
+  },
+  {
+    "city":"Chicago",
+    "year":1943,
+    "precip_mm":827.0
+  },
+  {
+    "city":"Chicago",
+    "year":1944,
+    "precip_mm":750.2
+  },
+  {
+    "city":"Chicago",
+    "year":1945,
+    "precip_mm":1030.0
+  },
+  {
+    "city":"Chicago",
+    "year":1946,
+    "precip_mm":848.6
+  },
+  {
+    "city":"Chicago",
+    "year":1947,
+    "precip_mm":905.1
+  },
+  {
+    "city":"Chicago",
+    "year":1948,
+    "precip_mm":899.0
+  },
+  {
+    "city":"Chicago",
+    "year":1949,
+    "precip_mm":901.1
+  },
+  {
+    "city":"Chicago",
+    "year":1950,
+    "precip_mm":1045.1
+  },
+  {
+    "city":"Chicago",
+    "year":1951,
+    "precip_mm":1187.8
+  },
+  {
+    "city":"Chicago",
+    "year":1952,
+    "precip_mm":792.2
+  },
+  {
+    "city":"Chicago",
+    "year":1953,
+    "precip_mm":682.6
+  },
+  {
+    "city":"Chicago",
+    "year":1954,
+    "precip_mm":843.3
+  },
+  {
+    "city":"Chicago",
+    "year":1955,
+    "precip_mm":800.1
+  },
+  {
+    "city":"Chicago",
+    "year":1956,
+    "precip_mm":764.4
+  },
+  {
+    "city":"Chicago",
+    "year":1957,
+    "precip_mm":963.2
+  },
+  {
+    "city":"Chicago",
+    "year":1958,
+    "precip_mm":702.4
+  },
+  {
+    "city":"Chicago",
+    "year":1959,
+    "precip_mm":984.5
+  },
+  {
+    "city":"Chicago",
+    "year":1960,
+    "precip_mm":889.1
+  },
+  {
+    "city":"Chicago",
+    "year":1961,
+    "precip_mm":1031.0
+  },
+  {
+    "city":"Chicago",
+    "year":1962,
+    "precip_mm":688.7
+  },
+  {
+    "city":"Chicago",
+    "year":1963,
+    "precip_mm":572.7
+  },
+  {
+    "city":"Chicago",
+    "year":1964,
+    "precip_mm":715.6
+  },
+  {
+    "city":"Chicago",
+    "year":1965,
+    "precip_mm":1032.0
+  },
+  {
+    "city":"Chicago",
+    "year":1966,
+    "precip_mm":816.9
+  },
+  {
+    "city":"Chicago",
+    "year":1967,
+    "precip_mm":885.9
+  },
+  {
+    "city":"Chicago",
+    "year":1968,
+    "precip_mm":678.5
+  },
+  {
+    "city":"Chicago",
+    "year":1969,
+    "precip_mm":886.8
+  },
+  {
+    "city":"Chicago",
+    "year":1970,
+    "precip_mm":908.4
+  },
+  {
+    "city":"Chicago",
+    "year":1971,
+    "precip_mm":616.6
+  },
+  {
+    "city":"Chicago",
+    "year":1972,
+    "precip_mm":998.2
+  },
+  {
+    "city":"Chicago",
+    "year":1973,
+    "precip_mm":1075.7
+  },
+  {
+    "city":"Chicago",
+    "year":1974,
+    "precip_mm":999.1
+  },
+  {
+    "city":"Chicago",
+    "year":1975,
+    "precip_mm":1003.6
+  },
+  {
+    "city":"Chicago",
+    "year":1976,
+    "precip_mm":832.0
+  },
+  {
+    "city":"Chicago",
+    "year":1977,
+    "precip_mm":856.0
+  },
+  {
+    "city":"Chicago",
+    "year":1978,
+    "precip_mm":831.6
+  },
+  {
+    "city":"Chicago",
+    "year":1979,
+    "precip_mm":822.6
+  },
+  {
+    "city":"Chicago",
+    "year":1980,
+    "precip_mm":996.8
+  },
+  {
+    "city":"Chicago",
+    "year":1981,
+    "precip_mm":856.3
+  },
+  {
+    "city":"Chicago",
+    "year":1982,
+    "precip_mm":846.7
+  },
+  {
+    "city":"Chicago",
+    "year":1983,
+    "precip_mm":915.7
+  },
+  {
+    "city":"Chicago",
+    "year":1984,
+    "precip_mm":872.9
+  },
+  {
+    "city":"Chicago",
+    "year":1985,
+    "precip_mm":1089.1
+  },
+  {
+    "city":"Chicago",
+    "year":1986,
+    "precip_mm":951.2
+  },
+  {
+    "city":"Chicago",
+    "year":1987,
+    "precip_mm":996.1
+  },
+  {
+    "city":"Chicago",
+    "year":1988,
+    "precip_mm":781.3
+  },
+  {
+    "city":"Chicago",
+    "year":1989,
+    "precip_mm":704.9
+  },
+  {
+    "city":"Chicago",
+    "year":1990,
+    "precip_mm":1257.0
+  },
+  {
+    "city":"Chicago",
+    "year":1991,
+    "precip_mm":960.4
+  },
+  {
+    "city":"Chicago",
+    "year":1992,
+    "precip_mm":941.6
+  },
+  {
+    "city":"Chicago",
+    "year":1993,
+    "precip_mm":1057.5
+  },
+  {
+    "city":"Chicago",
+    "year":1994,
+    "precip_mm":879.1
+  },
+  {
+    "city":"Chicago",
+    "year":1995,
+    "precip_mm":924.3
+  },
+  {
+    "city":"Chicago",
+    "year":1996,
+    "precip_mm":899.1
+  },
+  {
+    "city":"Chicago",
+    "year":1997,
+    "precip_mm":830.6
+  },
+  {
+    "city":"Chicago",
+    "year":1998,
+    "precip_mm":942.0
+  },
+  {
+    "city":"Chicago",
+    "year":1999,
+    "precip_mm":813.6
+  },
+  {
+    "city":"Chicago",
+    "year":2000,
+    "precip_mm":955.8
+  },
+  {
+    "city":"Chicago",
+    "year":2001,
+    "precip_mm":876.9
+  },
+  {
+    "city":"Chicago",
+    "year":2002,
+    "precip_mm":815.9
+  },
+  {
+    "city":"Chicago",
+    "year":2003,
+    "precip_mm":759.7
+  },
+  {
+    "city":"Chicago",
+    "year":2004,
+    "precip_mm":892.6
+  },
+  {
+    "city":"Chicago",
+    "year":2005,
+    "precip_mm":642.6
+  },
+  {
+    "city":"Chicago",
+    "year":2006,
+    "precip_mm":982.9
+  },
+  {
+    "city":"Chicago",
+    "year":2007,
+    "precip_mm":853.9
+  },
+  {
+    "city":"Chicago",
+    "year":2008,
+    "precip_mm":1118.2
+  },
+  {
+    "city":"Chicago",
+    "year":2009,
+    "precip_mm":1060.1
+  },
+  {
+    "city":"Chicago",
+    "year":2010,
+    "precip_mm":945.7
+  },
+  {
+    "city":"Chicago",
+    "year":2011,
+    "precip_mm":1088.0
+  },
+  {
+    "city":"Chicago",
+    "year":2012,
+    "precip_mm":664.0
+  },
+  {
+    "city":"Chicago",
+    "year":2013,
+    "precip_mm":862.9
+  },
+  {
+    "city":"Chicago",
+    "year":2014,
+    "precip_mm":975.2
+  },
+  {
+    "city":"Chicago",
+    "year":2015,
+    "precip_mm":1041.8
+  },
+  {
+    "city":"Chicago",
+    "year":2016,
+    "precip_mm":904.1
+  },
+  {
+    "city":"Chicago",
+    "year":2017,
+    "precip_mm":1297.2
+  },
+  {
+    "city":"Chicago",
+    "year":2018,
+    "precip_mm":1387.7
+  },
+  {
+    "city":"Chicago",
+    "year":2019,
+    "precip_mm":1399.9
+  },
+  {
+    "city":"Chicago",
+    "year":2020,
+    "precip_mm":1089.5
+  },
+  {
+    "city":"Chicago",
+    "year":2021,
+    "precip_mm":1142.8
+  },
+  {
+    "city":"Chicago",
+    "year":2022,
+    "precip_mm":1117.4
+  },
+  {
+    "city":"Chicago",
+    "year":2023,
+    "precip_mm":1245.7
+  },
+  {
+    "city":"Chicago",
+    "year":2024,
+    "precip_mm":1030.6
+  },
+  {
+    "city":"Los Angeles",
+    "year":1940,
+    "precip_mm":574.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":1941,
+    "precip_mm":652.8
+  },
+  {
+    "city":"Los Angeles",
+    "year":1942,
+    "precip_mm":133.6
+  },
+  {
+    "city":"Los Angeles",
+    "year":1943,
+    "precip_mm":458.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":1944,
+    "precip_mm":359.1
+  },
+  {
+    "city":"Los Angeles",
+    "year":1945,
+    "precip_mm":440.1
+  },
+  {
+    "city":"Los Angeles",
+    "year":1946,
+    "precip_mm":373.2
+  },
+  {
+    "city":"Los Angeles",
+    "year":1947,
+    "precip_mm":149.2
+  },
+  {
+    "city":"Los Angeles",
+    "year":1948,
+    "precip_mm":256.4
+  },
+  {
+    "city":"Los Angeles",
+    "year":1949,
+    "precip_mm":278.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":1950,
+    "precip_mm":217.1
+  },
+  {
+    "city":"Los Angeles",
+    "year":1951,
+    "precip_mm":259.2
+  },
+  {
+    "city":"Los Angeles",
+    "year":1952,
+    "precip_mm":689.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":1953,
+    "precip_mm":133.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":1954,
+    "precip_mm":281.7
+  },
+  {
+    "city":"Los Angeles",
+    "year":1955,
+    "precip_mm":308.7
+  },
+  {
+    "city":"Los Angeles",
+    "year":1956,
+    "precip_mm":176.6
+  },
+  {
+    "city":"Los Angeles",
+    "year":1957,
+    "precip_mm":387.7
+  },
+  {
+    "city":"Los Angeles",
+    "year":1958,
+    "precip_mm":572.1
+  },
+  {
+    "city":"Los Angeles",
+    "year":1959,
+    "precip_mm":291.4
+  },
+  {
+    "city":"Los Angeles",
+    "year":1960,
+    "precip_mm":290.7
+  },
+  {
+    "city":"Los Angeles",
+    "year":1961,
+    "precip_mm":213.4
+  },
+  {
+    "city":"Los Angeles",
+    "year":1962,
+    "precip_mm":428.7
+  },
+  {
+    "city":"Los Angeles",
+    "year":1963,
+    "precip_mm":303.1
+  },
+  {
+    "city":"Los Angeles",
+    "year":1964,
+    "precip_mm":175.4
+  },
+  {
+    "city":"Los Angeles",
+    "year":1965,
+    "precip_mm":560.5
+  },
+  {
+    "city":"Los Angeles",
+    "year":1966,
+    "precip_mm":329.8
+  },
+  {
+    "city":"Los Angeles",
+    "year":1967,
+    "precip_mm":436.1
+  },
+  {
+    "city":"Los Angeles",
+    "year":1968,
+    "precip_mm":161.8
+  },
+  {
+    "city":"Los Angeles",
+    "year":1969,
+    "precip_mm":686.3
+  },
+  {
+    "city":"Los Angeles",
+    "year":1970,
+    "precip_mm":394.3
+  },
+  {
+    "city":"Los Angeles",
+    "year":1971,
+    "precip_mm":278.7
+  },
+  {
+    "city":"Los Angeles",
+    "year":1972,
+    "precip_mm":123.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":1973,
+    "precip_mm":353.8
+  },
+  {
+    "city":"Los Angeles",
+    "year":1974,
+    "precip_mm":362.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":1975,
+    "precip_mm":281.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":1976,
+    "precip_mm":311.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":1977,
+    "precip_mm":323.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":1978,
+    "precip_mm":856.7
+  },
+  {
+    "city":"Los Angeles",
+    "year":1979,
+    "precip_mm":366.5
+  },
+  {
+    "city":"Los Angeles",
+    "year":1980,
+    "precip_mm":521.2
+  },
+  {
+    "city":"Los Angeles",
+    "year":1981,
+    "precip_mm":309.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":1982,
+    "precip_mm":412.4
+  },
+  {
+    "city":"Los Angeles",
+    "year":1983,
+    "precip_mm":820.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":1984,
+    "precip_mm":192.2
+  },
+  {
+    "city":"Los Angeles",
+    "year":1985,
+    "precip_mm":204.6
+  },
+  {
+    "city":"Los Angeles",
+    "year":1986,
+    "precip_mm":414.5
+  },
+  {
+    "city":"Los Angeles",
+    "year":1987,
+    "precip_mm":306.4
+  },
+  {
+    "city":"Los Angeles",
+    "year":1988,
+    "precip_mm":300.5
+  },
+  {
+    "city":"Los Angeles",
+    "year":1989,
+    "precip_mm":122.6
+  },
+  {
+    "city":"Los Angeles",
+    "year":1990,
+    "precip_mm":172.7
+  },
+  {
+    "city":"Los Angeles",
+    "year":1991,
+    "precip_mm":354.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":1992,
+    "precip_mm":562.1
+  },
+  {
+    "city":"Los Angeles",
+    "year":1993,
+    "precip_mm":705.2
+  },
+  {
+    "city":"Los Angeles",
+    "year":1994,
+    "precip_mm":263.5
+  },
+  {
+    "city":"Los Angeles",
+    "year":1995,
+    "precip_mm":641.4
+  },
+  {
+    "city":"Los Angeles",
+    "year":1996,
+    "precip_mm":416.6
+  },
+  {
+    "city":"Los Angeles",
+    "year":1997,
+    "precip_mm":314.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":1998,
+    "precip_mm":580.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":1999,
+    "precip_mm":152.4
+  },
+  {
+    "city":"Los Angeles",
+    "year":2000,
+    "precip_mm":271.3
+  },
+  {
+    "city":"Los Angeles",
+    "year":2001,
+    "precip_mm":452.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":2002,
+    "precip_mm":149.2
+  },
+  {
+    "city":"Los Angeles",
+    "year":2003,
+    "precip_mm":307.8
+  },
+  {
+    "city":"Los Angeles",
+    "year":2004,
+    "precip_mm":401.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":2005,
+    "precip_mm":617.5
+  },
+  {
+    "city":"Los Angeles",
+    "year":2006,
+    "precip_mm":283.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":2007,
+    "precip_mm":125.8
+  },
+  {
+    "city":"Los Angeles",
+    "year":2008,
+    "precip_mm":353.2
+  },
+  {
+    "city":"Los Angeles",
+    "year":2009,
+    "precip_mm":227.6
+  },
+  {
+    "city":"Los Angeles",
+    "year":2010,
+    "precip_mm":544.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":2011,
+    "precip_mm":254.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":2012,
+    "precip_mm":196.0
+  },
+  {
+    "city":"Los Angeles",
+    "year":2013,
+    "precip_mm":84.5
+  },
+  {
+    "city":"Los Angeles",
+    "year":2014,
+    "precip_mm":254.5
+  },
+  {
+    "city":"Los Angeles",
+    "year":2015,
+    "precip_mm":132.5
+  },
+  {
+    "city":"Los Angeles",
+    "year":2016,
+    "precip_mm":249.4
+  },
+  {
+    "city":"Los Angeles",
+    "year":2017,
+    "precip_mm":360.8
+  },
+  {
+    "city":"Los Angeles",
+    "year":2018,
+    "precip_mm":303.7
+  },
+  {
+    "city":"Los Angeles",
+    "year":2019,
+    "precip_mm":571.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":2020,
+    "precip_mm":285.9
+  },
+  {
+    "city":"Los Angeles",
+    "year":2021,
+    "precip_mm":358.3
+  },
+  {
+    "city":"Los Angeles",
+    "year":2022,
+    "precip_mm":270.8
+  },
+  {
+    "city":"Los Angeles",
+    "year":2023,
+    "precip_mm":980.8
+  },
+  {
+    "city":"Los Angeles",
+    "year":2024,
+    "precip_mm":523.2
+  },
+  {
+    "city":"New York City",
+    "year":1940,
+    "precip_mm":1169.3
+  },
+  {
+    "city":"New York City",
+    "year":1941,
+    "precip_mm":906.0
+  },
+  {
+    "city":"New York City",
+    "year":1942,
+    "precip_mm":1194.5
+  },
+  {
+    "city":"New York City",
+    "year":1943,
+    "precip_mm":961.0
+  },
+  {
+    "city":"New York City",
+    "year":1944,
+    "precip_mm":1223.6
+  },
+  {
+    "city":"New York City",
+    "year":1945,
+    "precip_mm":1335.8
+  },
+  {
+    "city":"New York City",
+    "year":1946,
+    "precip_mm":906.5
+  },
+  {
+    "city":"New York City",
+    "year":1947,
+    "precip_mm":998.8
+  },
+  {
+    "city":"New York City",
+    "year":1948,
+    "precip_mm":1178.5
+  },
+  {
+    "city":"New York City",
+    "year":1949,
+    "precip_mm":939.3
+  },
+  {
+    "city":"New York City",
+    "year":1950,
+    "precip_mm":1031.5
+  },
+  {
+    "city":"New York City",
+    "year":1951,
+    "precip_mm":1112.0
+  },
+  {
+    "city":"New York City",
+    "year":1952,
+    "precip_mm":1153.1
+  },
+  {
+    "city":"New York City",
+    "year":1953,
+    "precip_mm":1152.6
+  },
+  {
+    "city":"New York City",
+    "year":1954,
+    "precip_mm":1047.6
+  },
+  {
+    "city":"New York City",
+    "year":1955,
+    "precip_mm":1033.8
+  },
+  {
+    "city":"New York City",
+    "year":1956,
+    "precip_mm":1075.8
+  },
+  {
+    "city":"New York City",
+    "year":1957,
+    "precip_mm":874.4
+  },
+  {
+    "city":"New York City",
+    "year":1958,
+    "precip_mm":1211.7
+  },
+  {
+    "city":"New York City",
+    "year":1959,
+    "precip_mm":1149.4
+  },
+  {
+    "city":"New York City",
+    "year":1960,
+    "precip_mm":1158.1
+  },
+  {
+    "city":"New York City",
+    "year":1961,
+    "precip_mm":1211.5
+  },
+  {
+    "city":"New York City",
+    "year":1962,
+    "precip_mm":941.1
+  },
+  {
+    "city":"New York City",
+    "year":1963,
+    "precip_mm":922.3
+  },
+  {
+    "city":"New York City",
+    "year":1964,
+    "precip_mm":905.1
+  },
+  {
+    "city":"New York City",
+    "year":1965,
+    "precip_mm":710.1
+  },
+  {
+    "city":"New York City",
+    "year":1966,
+    "precip_mm":956.8
+  },
+  {
+    "city":"New York City",
+    "year":1967,
+    "precip_mm":1090.6
+  },
+  {
+    "city":"New York City",
+    "year":1968,
+    "precip_mm":986.4
+  },
+  {
+    "city":"New York City",
+    "year":1969,
+    "precip_mm":1167.6
+  },
+  {
+    "city":"New York City",
+    "year":1970,
+    "precip_mm":930.3
+  },
+  {
+    "city":"New York City",
+    "year":1971,
+    "precip_mm":1109.1
+  },
+  {
+    "city":"New York City",
+    "year":1972,
+    "precip_mm":1506.1
+  },
+  {
+    "city":"New York City",
+    "year":1973,
+    "precip_mm":1339.2
+  },
+  {
+    "city":"New York City",
+    "year":1974,
+    "precip_mm":1025.8
+  },
+  {
+    "city":"New York City",
+    "year":1975,
+    "precip_mm":1220.4
+  },
+  {
+    "city":"New York City",
+    "year":1976,
+    "precip_mm":978.2
+  },
+  {
+    "city":"New York City",
+    "year":1977,
+    "precip_mm":1287.7
+  },
+  {
+    "city":"New York City",
+    "year":1978,
+    "precip_mm":1184.5
+  },
+  {
+    "city":"New York City",
+    "year":1979,
+    "precip_mm":1334.2
+  },
+  {
+    "city":"New York City",
+    "year":1980,
+    "precip_mm":847.2
+  },
+  {
+    "city":"New York City",
+    "year":1981,
+    "precip_mm":906.5
+  },
+  {
+    "city":"New York City",
+    "year":1982,
+    "precip_mm":869.7
+  },
+  {
+    "city":"New York City",
+    "year":1983,
+    "precip_mm":1469.8
+  },
+  {
+    "city":"New York City",
+    "year":1984,
+    "precip_mm":1215.5
+  },
+  {
+    "city":"New York City",
+    "year":1985,
+    "precip_mm":880.6
+  },
+  {
+    "city":"New York City",
+    "year":1986,
+    "precip_mm":1087.0
+  },
+  {
+    "city":"New York City",
+    "year":1987,
+    "precip_mm":1119.0
+  },
+  {
+    "city":"New York City",
+    "year":1988,
+    "precip_mm":955.3
+  },
+  {
+    "city":"New York City",
+    "year":1989,
+    "precip_mm":1416.2
+  },
+  {
+    "city":"New York City",
+    "year":1990,
+    "precip_mm":1158.7
+  },
+  {
+    "city":"New York City",
+    "year":1991,
+    "precip_mm":1116.9
+  },
+  {
+    "city":"New York City",
+    "year":1992,
+    "precip_mm":1069.7
+  },
+  {
+    "city":"New York City",
+    "year":1993,
+    "precip_mm":1081.5
+  },
+  {
+    "city":"New York City",
+    "year":1994,
+    "precip_mm":1243.0
+  },
+  {
+    "city":"New York City",
+    "year":1995,
+    "precip_mm":907.8
+  },
+  {
+    "city":"New York City",
+    "year":1996,
+    "precip_mm":1379.6
+  },
+  {
+    "city":"New York City",
+    "year":1997,
+    "precip_mm":975.2
+  },
+  {
+    "city":"New York City",
+    "year":1998,
+    "precip_mm":972.2
+  },
+  {
+    "city":"New York City",
+    "year":1999,
+    "precip_mm":1052.6
+  },
+  {
+    "city":"New York City",
+    "year":2000,
+    "precip_mm":980.9
+  },
+  {
+    "city":"New York City",
+    "year":2001,
+    "precip_mm":809.6
+  },
+  {
+    "city":"New York City",
+    "year":2002,
+    "precip_mm":994.2
+  },
+  {
+    "city":"New York City",
+    "year":2003,
+    "precip_mm":1381.6
+  },
+  {
+    "city":"New York City",
+    "year":2004,
+    "precip_mm":1203.3
+  },
+  {
+    "city":"New York City",
+    "year":2005,
+    "precip_mm":1170.6
+  },
+  {
+    "city":"New York City",
+    "year":2006,
+    "precip_mm":1212.8
+  },
+  {
+    "city":"New York City",
+    "year":2007,
+    "precip_mm":1058.9
+  },
+  {
+    "city":"New York City",
+    "year":2008,
+    "precip_mm":1212.8
+  },
+  {
+    "city":"New York City",
+    "year":2009,
+    "precip_mm":1226.7
+  },
+  {
+    "city":"New York City",
+    "year":2010,
+    "precip_mm":1048.3
+  },
+  {
+    "city":"New York City",
+    "year":2011,
+    "precip_mm":1451.2
+  },
+  {
+    "city":"New York City",
+    "year":2012,
+    "precip_mm":936.5
+  },
+  {
+    "city":"New York City",
+    "year":2013,
+    "precip_mm":1014.2
+  },
+  {
+    "city":"New York City",
+    "year":2014,
+    "precip_mm":992.4
+  },
+  {
+    "city":"New York City",
+    "year":2015,
+    "precip_mm":980.1
+  },
+  {
+    "city":"New York City",
+    "year":2016,
+    "precip_mm":898.5
+  },
+  {
+    "city":"New York City",
+    "year":2017,
+    "precip_mm":1160.6
+  },
+  {
+    "city":"New York City",
+    "year":2018,
+    "precip_mm":1736.5
+  },
+  {
+    "city":"New York City",
+    "year":2019,
+    "precip_mm":1363.6
+  },
+  {
+    "city":"New York City",
+    "year":2020,
+    "precip_mm":1237.5
+  },
+  {
+    "city":"New York City",
+    "year":2021,
+    "precip_mm":1411.6
+  },
+  {
+    "city":"New York City",
+    "year":2022,
+    "precip_mm":1381.2
+  },
+  {
+    "city":"New York City",
+    "year":2023,
+    "precip_mm":1524.3
+  },
+  {
+    "city":"New York City",
+    "year":2024,
+    "precip_mm":1286.0
+  },
+  {
+    "city":"Seattle",
+    "year":1940,
+    "precip_mm":1165.0
+  },
+  {
+    "city":"Seattle",
+    "year":1941,
+    "precip_mm":983.8
+  },
+  {
+    "city":"Seattle",
+    "year":1942,
+    "precip_mm":1027.8
+  },
+  {
+    "city":"Seattle",
+    "year":1943,
+    "precip_mm":892.7
+  },
+  {
+    "city":"Seattle",
+    "year":1944,
+    "precip_mm":972.3
+  },
+  {
+    "city":"Seattle",
+    "year":1945,
+    "precip_mm":1449.1
+  },
+  {
+    "city":"Seattle",
+    "year":1946,
+    "precip_mm":1482.3
+  },
+  {
+    "city":"Seattle",
+    "year":1947,
+    "precip_mm":1461.3
+  },
+  {
+    "city":"Seattle",
+    "year":1948,
+    "precip_mm":1689.8
+  },
+  {
+    "city":"Seattle",
+    "year":1949,
+    "precip_mm":1366.2
+  },
+  {
+    "city":"Seattle",
+    "year":1950,
+    "precip_mm":1806.2
+  },
+  {
+    "city":"Seattle",
+    "year":1951,
+    "precip_mm":1380.6
+  },
+  {
+    "city":"Seattle",
+    "year":1952,
+    "precip_mm":921.0
+  },
+  {
+    "city":"Seattle",
+    "year":1953,
+    "precip_mm":2063.2
+  },
+  {
+    "city":"Seattle",
+    "year":1954,
+    "precip_mm":1701.5
+  },
+  {
+    "city":"Seattle",
+    "year":1955,
+    "precip_mm":1646.1
+  },
+  {
+    "city":"Seattle",
+    "year":1956,
+    "precip_mm":1501.4
+  },
+  {
+    "city":"Seattle",
+    "year":1957,
+    "precip_mm":1231.6
+  },
+  {
+    "city":"Seattle",
+    "year":1958,
+    "precip_mm":1510.0
+  },
+  {
+    "city":"Seattle",
+    "year":1959,
+    "precip_mm":1854.1
+  },
+  {
+    "city":"Seattle",
+    "year":1960,
+    "precip_mm":1526.2
+  },
+  {
+    "city":"Seattle",
+    "year":1961,
+    "precip_mm":1697.3
+  },
+  {
+    "city":"Seattle",
+    "year":1962,
+    "precip_mm":1352.8
+  },
+  {
+    "city":"Seattle",
+    "year":1963,
+    "precip_mm":1397.0
+  },
+  {
+    "city":"Seattle",
+    "year":1964,
+    "precip_mm":1717.7
+  },
+  {
+    "city":"Seattle",
+    "year":1965,
+    "precip_mm":1419.5
+  },
+  {
+    "city":"Seattle",
+    "year":1966,
+    "precip_mm":1443.5
+  },
+  {
+    "city":"Seattle",
+    "year":1967,
+    "precip_mm":1623.5
+  },
+  {
+    "city":"Seattle",
+    "year":1968,
+    "precip_mm":1891.9
+  },
+  {
+    "city":"Seattle",
+    "year":1969,
+    "precip_mm":1398.7
+  },
+  {
+    "city":"Seattle",
+    "year":1970,
+    "precip_mm":1527.8
+  },
+  {
+    "city":"Seattle",
+    "year":1971,
+    "precip_mm":1774.7
+  },
+  {
+    "city":"Seattle",
+    "year":1972,
+    "precip_mm":1900.1
+  },
+  {
+    "city":"Seattle",
+    "year":1973,
+    "precip_mm":1424.3
+  },
+  {
+    "city":"Seattle",
+    "year":1974,
+    "precip_mm":1604.9
+  },
+  {
+    "city":"Seattle",
+    "year":1975,
+    "precip_mm":1700.7
+  },
+  {
+    "city":"Seattle",
+    "year":1976,
+    "precip_mm":1102.9
+  },
+  {
+    "city":"Seattle",
+    "year":1977,
+    "precip_mm":1361.8
+  },
+  {
+    "city":"Seattle",
+    "year":1978,
+    "precip_mm":1242.6
+  },
+  {
+    "city":"Seattle",
+    "year":1979,
+    "precip_mm":1253.4
+  },
+  {
+    "city":"Seattle",
+    "year":1980,
+    "precip_mm":1301.9
+  },
+  {
+    "city":"Seattle",
+    "year":1981,
+    "precip_mm":1368.3
+  },
+  {
+    "city":"Seattle",
+    "year":1982,
+    "precip_mm":1409.3
+  },
+  {
+    "city":"Seattle",
+    "year":1983,
+    "precip_mm":1509.2
+  },
+  {
+    "city":"Seattle",
+    "year":1984,
+    "precip_mm":1358.7
+  },
+  {
+    "city":"Seattle",
+    "year":1985,
+    "precip_mm":1000.7
+  },
+  {
+    "city":"Seattle",
+    "year":1986,
+    "precip_mm":1290.0
+  },
+  {
+    "city":"Seattle",
+    "year":1987,
+    "precip_mm":970.8
+  },
+  {
+    "city":"Seattle",
+    "year":1988,
+    "precip_mm":1243.9
+  },
+  {
+    "city":"Seattle",
+    "year":1989,
+    "precip_mm":1212.0
+  },
+  {
+    "city":"Seattle",
+    "year":1990,
+    "precip_mm":1740.0
+  },
+  {
+    "city":"Seattle",
+    "year":1991,
+    "precip_mm":1276.6
+  },
+  {
+    "city":"Seattle",
+    "year":1992,
+    "precip_mm":1161.7
+  },
+  {
+    "city":"Seattle",
+    "year":1993,
+    "precip_mm":1055.1
+  },
+  {
+    "city":"Seattle",
+    "year":1994,
+    "precip_mm":1336.5
+  },
+  {
+    "city":"Seattle",
+    "year":1995,
+    "precip_mm":1451.4
+  },
+  {
+    "city":"Seattle",
+    "year":1996,
+    "precip_mm":1772.7
+  },
+  {
+    "city":"Seattle",
+    "year":1997,
+    "precip_mm":1525.0
+  },
+  {
+    "city":"Seattle",
+    "year":1998,
+    "precip_mm":1349.7
+  },
+  {
+    "city":"Seattle",
+    "year":1999,
+    "precip_mm":1614.3
+  },
+  {
+    "city":"Seattle",
+    "year":2000,
+    "precip_mm":1021.0
+  },
+  {
+    "city":"Seattle",
+    "year":2001,
+    "precip_mm":1252.0
+  },
+  {
+    "city":"Seattle",
+    "year":2002,
+    "precip_mm":1096.0
+  },
+  {
+    "city":"Seattle",
+    "year":2003,
+    "precip_mm":1235.3
+  },
+  {
+    "city":"Seattle",
+    "year":2004,
+    "precip_mm":1193.3
+  },
+  {
+    "city":"Seattle",
+    "year":2005,
+    "precip_mm":1197.6
+  },
+  {
+    "city":"Seattle",
+    "year":2006,
+    "precip_mm":1395.1
+  },
+  {
+    "city":"Seattle",
+    "year":2007,
+    "precip_mm":1253.6
+  },
+  {
+    "city":"Seattle",
+    "year":2008,
+    "precip_mm":1130.4
+  },
+  {
+    "city":"Seattle",
+    "year":2009,
+    "precip_mm":1266.0
+  },
+  {
+    "city":"Seattle",
+    "year":2010,
+    "precip_mm":1430.3
+  },
+  {
+    "city":"Seattle",
+    "year":2011,
+    "precip_mm":1305.5
+  },
+  {
+    "city":"Seattle",
+    "year":2012,
+    "precip_mm":1551.4
+  },
+  {
+    "city":"Seattle",
+    "year":2013,
+    "precip_mm":1068.6
+  },
+  {
+    "city":"Seattle",
+    "year":2014,
+    "precip_mm":1515.6
+  },
+  {
+    "city":"Seattle",
+    "year":2015,
+    "precip_mm":1286.5
+  },
+  {
+    "city":"Seattle",
+    "year":2016,
+    "precip_mm":1364.7
+  },
+  {
+    "city":"Seattle",
+    "year":2017,
+    "precip_mm":1406.7
+  },
+  {
+    "city":"Seattle",
+    "year":2018,
+    "precip_mm":1154.7
+  },
+  {
+    "city":"Seattle",
+    "year":2019,
+    "precip_mm":1012.1
+  },
+  {
+    "city":"Seattle",
+    "year":2020,
+    "precip_mm":1192.9
+  },
+  {
+    "city":"Seattle",
+    "year":2021,
+    "precip_mm":1311.2
+  },
+  {
+    "city":"Seattle",
+    "year":2022,
+    "precip_mm":1131.1
+  },
+  {
+    "city":"Seattle",
+    "year":2023,
+    "precip_mm":1006.8
+  },
+  {
+    "city":"Seattle",
+    "year":2024,
+    "precip_mm":1161.6
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "year": 1908,
+    "title": "Panic of 1907",
+    "description": "Banking crisis triggers creation of the Fed in 1913; severe market selloff.",
+    "tags": [
+      "financial-crisis"
+    ]
+  },
+  {
+    "year": 1914,
+    "title": "Federal Reserve Act",
+    "description": "Creates the Federal Reserve System; reshapes monetary policy framework.",
+    "tags": [
+      "monetary",
+      "law"
+    ]
+  },
+  {
+    "year": 1917,
+    "title": "U.S. Enters World War I",
+    "description": "Congress declares war on Germany; defense mobilization ramps.",
+    "tags": [
+      "war"
+    ]
+  },
+  {
+    "year": 1930,
+    "title": "Stock Market Crash of 1929",
+    "description": "Black Tuesday; onset of the Great Depression.",
+    "tags": [
+      "financial-crisis",
+      "recession"
+    ]
+  },
+  {
+    "year": 1933,
+    "title": "Emergency Banking Act / New Deal Launch",
+    "description": "Bank holiday and early New Deal\u2014large fiscal interventions begin.",
+    "tags": [
+      "fiscal-policy",
+      "law"
+    ]
+  },
+  {
+    "year": 1936,
+    "title": "Social Security Act",
+    "description": "Establishes old-age benefits and unemployment insurance.",
+    "tags": [
+      "social-insurance",
+      "law"
+    ]
+  },
+  {
+    "year": 1942,
+    "title": "Pearl Harbor",
+    "description": "U.S. enters World War II; defense outlays surge.",
+    "tags": [
+      "war"
+    ]
+  },
+  {
+    "year": 1950,
+    "title": "Korean War Begins",
+    "description": "U.S. commits forces under UN; defense spending increases.",
+    "tags": [
+      "war"
+    ]
+  },
+  {
+    "year": 1956,
+    "title": "Interstate Highway Act",
+    "description": "Launches Federal-Aid Highway Program; long-run infrastructure outlays.",
+    "tags": [
+      "infrastructure",
+      "law"
+    ]
+  },
+  {
+    "year": 1966,
+    "title": "Medicare & Medicaid Enacted",
+    "description": "Large new mandatory programs established.",
+    "tags": [
+      "health",
+      "law"
+    ]
+  },
+  {
+    "year": 1972,
+    "title": "Nixon Ends Gold Convertibility",
+    "description": "\u2018Nixon shock\u2019\u2014Bretton Woods effectively ends; macro regime shift.",
+    "tags": [
+      "monetary"
+    ]
+  },
+  {
+    "year": 1974,
+    "title": "OPEC Oil Embargo",
+    "description": "First oil shock; inflation spikes; recession follows.",
+    "tags": [
+      "energy-shock",
+      "recession"
+    ]
+  },
+  {
+    "year": 1979,
+    "title": "Second Oil Shock",
+    "description": "Iranian Revolution drives energy prices higher.",
+    "tags": [
+      "energy-shock",
+      "inflation"
+    ]
+  },
+  {
+    "year": 1981,
+    "title": "Economic Recovery Tax Act (ERTA)",
+    "description": "Large tax cuts; supply-side era begins.",
+    "tags": [
+      "tax-law"
+    ]
+  },
+  {
+    "year": 1987,
+    "title": "Tax Reform Act of 1986",
+    "description": "Broaden base, lower rates; major code overhaul.",
+    "tags": [
+      "tax-law"
+    ]
+  },
+  {
+    "year": 1990,
+    "title": "Gulf Crisis / Desert Shield",
+    "description": "Iraq invades Kuwait; U.S. mobilization begins.",
+    "tags": [
+      "war"
+    ]
+  },
+  {
+    "year": 2001,
+    "title": "9/11 Attacks",
+    "description": "Terror attacks; homeland security spending rises.",
+    "tags": [
+      "war",
+      "security"
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "Lehman Brothers Collapse",
+    "description": "Acute phase of Global Financial Crisis.",
+    "tags": [
+      "financial-crisis"
+    ]
+  },
+  {
+    "year": 2009,
+    "title": "American Recovery and Reinvestment Act",
+    "description": "Fiscal stimulus for post-crisis recovery.",
+    "tags": [
+      "stimulus",
+      "law"
+    ]
+  },
+  {
+    "year": 2011,
+    "title": "Budget Control Act",
+    "description": "Spending caps and sequestration framework.",
+    "tags": [
+      "fiscal-law"
+    ]
+  },
+  {
+    "year": 2018,
+    "title": "Tax Cuts and Jobs Act (TCJA)",
+    "description": "Corporate and individual rate changes; base broadening.",
+    "tags": [
+      "tax-law"
+    ]
+  },
+  {
+    "year": 2020,
+    "title": "CARES Act",
+    "description": "COVID-19 relief: direct payments, PPP, expanded UI.",
+    "tags": [
+      "pandemic",
+      "stimulus",
+      "law"
+    ]
+  },
+  {
+    "year": 2022,
+    "title": "Inflation Reduction Act",
+    "description": "Energy/climate investments; health and tax provisions.",
+    "tags": [
+      "fiscal-law",
+      "climate"
+    ]
+  },
+  {
+    "year": 2022,
+    "title": "Russia Invades Ukraine",
+    "description": "War in Europe; defense and aid outlays increase.",
+    "tags": [
+      "war"
+    ]
+  }
+]

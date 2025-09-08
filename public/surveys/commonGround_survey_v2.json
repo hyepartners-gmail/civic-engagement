@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "status": "draft",
+  "topics": [
+    {
+      "id": "healthcare",
+      "name": "Healthcare",
+      "categoryId": 2,
+      "version": "v2",
+      "questions": [
+        {
+          "id": "q2-healthcare-system",
+          "topicId": "healthcare",
+          "prompt": "What kind of healthcare system should the US have?",
+          "version": "v2",
+          "options": [
+            { "id": "q2-opt1", "questionId": "q2-healthcare-system", "label": "Fully private", "score": -100, "version": "v2" },
+            { "id": "q2-opt2", "questionId": "q2-healthcare-system", "label": "Private with public option", "score": -33, "version": "v2" },
+            { "id": "q2-opt3", "questionId": "q2-healthcare-system", "label": "Single-payer system", "score": 33, "version": "v2" },
+            { "id": "q2-opt4", "questionId": "q2-healthcare-system", "label": "Fully nationalized healthcare", "score": 100, "version": "v2" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1721 @@
+{
+  "units": {
+    "currency": "USD",
+    "rates": "decimal"
+  },
+  "history": {
+    "1913": {
+      "exemptions": {
+        "single": 3000.0,
+        "marriedJoint": 4000.0,
+        "dependents": null
+      },
+      "lowestBracket": {
+        "rate": 0.01,
+        "thresholdMarriedJoint_under": 20000.0
+      },
+      "highestBracket": {
+        "rate": 0.07,
+        "thresholdMarriedJoint_over": 500000.0
+      }
+    },
+    "1914": {
+      "exemptions": {
+        "single": 3000.0,
+        "marriedJoint": 4000.0,
+        "dependents": null
+      },
+      "lowestBracket": {
+        "rate": 0.01,
+        "thresholdMarriedJoint_under": 20000.0
+      },
+      "highestBracket": {
+        "rate": 0.07,
+        "thresholdMarriedJoint_over": 500000.0
+      }
+    },
+    "1915": {
+      "exemptions": {
+        "single": 3000.0,
+        "marriedJoint": 4000.0,
+        "dependents": null
+      },
+      "lowestBracket": {
+        "rate": 0.01,
+        "thresholdMarriedJoint_under": 20000.0
+      },
+      "highestBracket": {
+        "rate": 0.07,
+        "thresholdMarriedJoint_over": 500000.0
+      }
+    },
+    "1916": {
+      "exemptions": {
+        "single": 3000.0,
+        "marriedJoint": 4000.0,
+        "dependents": null
+      },
+      "lowestBracket": {
+        "rate": 0.02,
+        "thresholdMarriedJoint_under": 20000.0
+      },
+      "highestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_over": 2000000.0
+      }
+    },
+    "1917": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 200.0
+      },
+      "lowestBracket": {
+        "rate": 0.02,
+        "thresholdMarriedJoint_under": 2000.0
+      },
+      "highestBracket": {
+        "rate": 0.67,
+        "thresholdMarriedJoint_over": 2000000.0
+      }
+    },
+    "1918": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 200.0
+      },
+      "lowestBracket": {
+        "rate": 0.06,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.77,
+        "thresholdMarriedJoint_over": 1000000.0
+      }
+    },
+    "1919": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 200.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.73,
+        "thresholdMarriedJoint_over": 1000000.0
+      }
+    },
+    "1920": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 200.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.73,
+        "thresholdMarriedJoint_over": 1000000.0
+      }
+    },
+    "1921": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.73,
+        "thresholdMarriedJoint_over": 1000000.0
+      }
+    },
+    "1922": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.58,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1923": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.03,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.435,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1924": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.015,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.46,
+        "thresholdMarriedJoint_over": 500000.0
+      }
+    },
+    "1925": {
+      "exemptions": {
+        "single": 1500.0,
+        "marriedJoint": 3500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.01125,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.25,
+        "thresholdMarriedJoint_over": 100000.0
+      }
+    },
+    "1926": {
+      "exemptions": {
+        "single": 1500.0,
+        "marriedJoint": 3500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.01125,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.25,
+        "thresholdMarriedJoint_over": 100000.0
+      }
+    },
+    "1927": {
+      "exemptions": {
+        "single": 1500.0,
+        "marriedJoint": 3500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.01125,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.25,
+        "thresholdMarriedJoint_over": 100000.0
+      }
+    },
+    "1928": {
+      "exemptions": {
+        "single": 1500.0,
+        "marriedJoint": 3500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.01125,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.25,
+        "thresholdMarriedJoint_over": 100000.0
+      }
+    },
+    "1929": {
+      "exemptions": {
+        "single": 1500.0,
+        "marriedJoint": 3500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.00375,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.24,
+        "thresholdMarriedJoint_over": 100000.0
+      }
+    },
+    "1930": {
+      "exemptions": {
+        "single": 1500.0,
+        "marriedJoint": 3500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.01125,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.25,
+        "thresholdMarriedJoint_over": 100000.0
+      }
+    },
+    "1931": {
+      "exemptions": {
+        "single": 1500.0,
+        "marriedJoint": 3500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.01125,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.25,
+        "thresholdMarriedJoint_over": 100000.0
+      }
+    },
+    "1932": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.63,
+        "thresholdMarriedJoint_over": 1000000.0
+      }
+    },
+    "1933": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.63,
+        "thresholdMarriedJoint_over": 1000000.0
+      }
+    },
+    "1934": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.63,
+        "thresholdMarriedJoint_over": 1000000.0
+      }
+    },
+    "1935": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.63,
+        "thresholdMarriedJoint_over": 1000000.0
+      }
+    },
+    "1936": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.79,
+        "thresholdMarriedJoint_over": 5000000.0
+      }
+    },
+    "1937": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.79,
+        "thresholdMarriedJoint_over": 5000000.0
+      }
+    },
+    "1938": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.79,
+        "thresholdMarriedJoint_over": 5000000.0
+      }
+    },
+    "1939": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.04,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.79,
+        "thresholdMarriedJoint_over": 5000000.0
+      }
+    },
+    "1940": {
+      "exemptions": {
+        "single": 800.0,
+        "marriedJoint": 2000.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.044000000000000004,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.8109999999999999,
+        "thresholdMarriedJoint_over": 5000000.0
+      }
+    },
+    "1941": {
+      "exemptions": {
+        "single": 750.0,
+        "marriedJoint": 1500.0,
+        "dependents": 400.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 2000.0
+      },
+      "highestBracket": {
+        "rate": 0.81,
+        "thresholdMarriedJoint_over": 5000000.0
+      }
+    },
+    "1942": {
+      "exemptions": {
+        "single": 500.0,
+        "marriedJoint": 1200.0,
+        "dependents": 350.0
+      },
+      "lowestBracket": {
+        "rate": 0.19,
+        "thresholdMarriedJoint_under": 2000.0
+      },
+      "highestBracket": {
+        "rate": 0.88,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1943": {
+      "exemptions": {
+        "single": 500.0,
+        "marriedJoint": 1200.0,
+        "dependents": 350.0
+      },
+      "lowestBracket": {
+        "rate": 0.19,
+        "thresholdMarriedJoint_under": 2000.0
+      },
+      "highestBracket": {
+        "rate": 0.88,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1944": {
+      "exemptions": {
+        "single": 500.0,
+        "marriedJoint": 1000.0,
+        "dependents": 500.0
+      },
+      "lowestBracket": {
+        "rate": 0.23,
+        "thresholdMarriedJoint_under": 2000.0
+      },
+      "highestBracket": {
+        "rate": 0.94,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1945": {
+      "exemptions": {
+        "single": 500.0,
+        "marriedJoint": 1000.0,
+        "dependents": 500.0
+      },
+      "lowestBracket": {
+        "rate": 0.23,
+        "thresholdMarriedJoint_under": 2000.0
+      },
+      "highestBracket": {
+        "rate": 0.94,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1946": {
+      "exemptions": {
+        "single": 500.0,
+        "marriedJoint": 1000.0,
+        "dependents": 500.0
+      },
+      "lowestBracket": {
+        "rate": 0.19,
+        "thresholdMarriedJoint_under": 2000.0
+      },
+      "highestBracket": {
+        "rate": 0.8645,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1947": {
+      "exemptions": {
+        "single": 500.0,
+        "marriedJoint": 1000.0,
+        "dependents": 500.0
+      },
+      "lowestBracket": {
+        "rate": 0.19,
+        "thresholdMarriedJoint_under": 2000.0
+      },
+      "highestBracket": {
+        "rate": 0.8645,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1948": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.166,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.8212999999999999,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1949": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.166,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.8212999999999999,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1950": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.174,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.8436,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1951": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.204,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1952": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.222,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.92,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1953": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.222,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.92,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1954": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.2,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1955": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.2,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1956": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.2,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1957": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.2,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1958": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.2,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1959": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.2,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1960": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.2,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1961": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.2,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1962": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.2,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1963": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.2,
+        "thresholdMarriedJoint_under": 4000.0
+      },
+      "highestBracket": {
+        "rate": 0.91,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1964": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.16,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.77,
+        "thresholdMarriedJoint_over": 400000.0
+      }
+    },
+    "1965": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1966": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1967": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1968": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7525,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1969": {
+      "exemptions": {
+        "single": 600.0,
+        "marriedJoint": 1200.0,
+        "dependents": 600.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.77,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1970": {
+      "exemptions": {
+        "single": 625.0,
+        "marriedJoint": 1250.0,
+        "dependents": 625.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7175,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1971": {
+      "exemptions": {
+        "single": 675.0,
+        "marriedJoint": 1350.0,
+        "dependents": 675.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1972": {
+      "exemptions": {
+        "single": 750.0,
+        "marriedJoint": 1500.0,
+        "dependents": 750.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1973": {
+      "exemptions": {
+        "single": 750.0,
+        "marriedJoint": 1500.0,
+        "dependents": 750.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1974": {
+      "exemptions": {
+        "single": 750.0,
+        "marriedJoint": 1500.0,
+        "dependents": 750.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1975": {
+      "exemptions": {
+        "single": 750.0,
+        "marriedJoint": 1500.0,
+        "dependents": 750.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1976": {
+      "exemptions": {
+        "single": 750.0,
+        "marriedJoint": 1500.0,
+        "dependents": 750.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 1000.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 200000.0
+      }
+    },
+    "1977": {
+      "exemptions": {
+        "single": 750.0,
+        "marriedJoint": 1500.0,
+        "dependents": 750.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 3200.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 203200.0
+      }
+    },
+    "1978": {
+      "exemptions": {
+        "single": 750.0,
+        "marriedJoint": 1500.0,
+        "dependents": 750.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 3200.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 203200.0
+      }
+    },
+    "1979": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 1000.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 3400.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 215400.0
+      }
+    },
+    "1980": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 1000.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 3400.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 215400.0
+      }
+    },
+    "1981": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 1000.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 3400.0
+      },
+      "highestBracket": {
+        "rate": 0.69125,
+        "thresholdMarriedJoint_over": 215400.0
+      }
+    },
+    "1982": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 1000.0
+      },
+      "lowestBracket": {
+        "rate": 0.12,
+        "thresholdMarriedJoint_under": 3400.0
+      },
+      "highestBracket": {
+        "rate": 0.5,
+        "thresholdMarriedJoint_over": 85600.0
+      }
+    },
+    "1983": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 1000.0
+      },
+      "lowestBracket": {
+        "rate": 0.11,
+        "thresholdMarriedJoint_under": 3400.0
+      },
+      "highestBracket": {
+        "rate": 0.5,
+        "thresholdMarriedJoint_over": 109400.0
+      }
+    },
+    "1984": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 1000.0
+      },
+      "lowestBracket": {
+        "rate": 0.11,
+        "thresholdMarriedJoint_under": 3400.0
+      },
+      "highestBracket": {
+        "rate": 0.5,
+        "thresholdMarriedJoint_over": 162400.0
+      }
+    },
+    "1985": {
+      "exemptions": {
+        "single": 1040.0,
+        "marriedJoint": 2080.0,
+        "dependents": 1040.0
+      },
+      "lowestBracket": {
+        "rate": 0.11,
+        "thresholdMarriedJoint_under": 3540.0
+      },
+      "highestBracket": {
+        "rate": 0.5,
+        "thresholdMarriedJoint_over": 169020.0
+      }
+    },
+    "1986": {
+      "exemptions": {
+        "single": 1080.0,
+        "marriedJoint": 2160.0,
+        "dependents": 1080.0
+      },
+      "lowestBracket": {
+        "rate": 0.11,
+        "thresholdMarriedJoint_under": 3670.0
+      },
+      "highestBracket": {
+        "rate": 0.5,
+        "thresholdMarriedJoint_over": 175250.0
+      }
+    },
+    "1987": {
+      "exemptions": {
+        "single": 1900.0,
+        "marriedJoint": 3800.0,
+        "dependents": 1900.0
+      },
+      "lowestBracket": {
+        "rate": 0.11,
+        "thresholdMarriedJoint_under": 3000.0
+      },
+      "highestBracket": {
+        "rate": 0.385,
+        "thresholdMarriedJoint_over": 90000.0
+      }
+    },
+    "1988": {
+      "exemptions": {
+        "single": 1950.0,
+        "marriedJoint": 3900.0,
+        "dependents": 1950.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 29750.0
+      },
+      "highestBracket": {
+        "rate": 0.28,
+        "thresholdMarriedJoint_over": 29750.0
+      }
+    },
+    "1989": {
+      "exemptions": {
+        "single": 2000.0,
+        "marriedJoint": 4000.0,
+        "dependents": 2000.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 30950.0
+      },
+      "highestBracket": {
+        "rate": 0.28,
+        "thresholdMarriedJoint_over": 30950.0
+      }
+    },
+    "1990": {
+      "exemptions": {
+        "single": 2050.0,
+        "marriedJoint": 4100.0,
+        "dependents": 2050.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 32450.0
+      },
+      "highestBracket": {
+        "rate": 0.28,
+        "thresholdMarriedJoint_over": 32450.0
+      }
+    },
+    "1991": {
+      "exemptions": {
+        "single": 2150.0,
+        "marriedJoint": 4300.0,
+        "dependents": 2150.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 34000.0
+      },
+      "highestBracket": {
+        "rate": 0.31,
+        "thresholdMarriedJoint_over": 82150.0
+      }
+    },
+    "1992": {
+      "exemptions": {
+        "single": 2300.0,
+        "marriedJoint": 4600.0,
+        "dependents": 2300.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 35800.0
+      },
+      "highestBracket": {
+        "rate": 0.31,
+        "thresholdMarriedJoint_over": 86500.0
+      }
+    },
+    "1993": {
+      "exemptions": {
+        "single": 2350.0,
+        "marriedJoint": 4700.0,
+        "dependents": 2350.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 36900.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 250000.0
+      }
+    },
+    "1994": {
+      "exemptions": {
+        "single": 2450.0,
+        "marriedJoint": 4900.0,
+        "dependents": 2450.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 38000.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 250000.0
+      }
+    },
+    "1995": {
+      "exemptions": {
+        "single": 2500.0,
+        "marriedJoint": 5000.0,
+        "dependents": 2500.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 39000.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 256500.0
+      }
+    },
+    "1996": {
+      "exemptions": {
+        "single": 2550.0,
+        "marriedJoint": 5100.0,
+        "dependents": 2550.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 40100.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 263750.0
+      }
+    },
+    "1997": {
+      "exemptions": {
+        "single": 2650.0,
+        "marriedJoint": 5300.0,
+        "dependents": 2650.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 41200.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 271050.0
+      }
+    },
+    "1998": {
+      "exemptions": {
+        "single": 2700.0,
+        "marriedJoint": 5400.0,
+        "dependents": 2700.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 42350.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 278450.0
+      }
+    },
+    "1999": {
+      "exemptions": {
+        "single": 2750.0,
+        "marriedJoint": 5500.0,
+        "dependents": 2750.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 43050.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 283150.0
+      }
+    },
+    "2000": {
+      "exemptions": {
+        "single": 2800.0,
+        "marriedJoint": 5600.0,
+        "dependents": 2800.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 43850.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 288350.0
+      }
+    },
+    "2001": {
+      "exemptions": {
+        "single": 2900.0,
+        "marriedJoint": 5800.0,
+        "dependents": 2900.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 6000.0
+      },
+      "highestBracket": {
+        "rate": 0.391,
+        "thresholdMarriedJoint_over": 297350.0
+      }
+    },
+    "2002": {
+      "exemptions": {
+        "single": 3000.0,
+        "marriedJoint": 6000.0,
+        "dependents": 3000.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 12000.0
+      },
+      "highestBracket": {
+        "rate": 0.386,
+        "thresholdMarriedJoint_over": 307050.0
+      }
+    },
+    "2003": {
+      "exemptions": {
+        "single": 3050.0,
+        "marriedJoint": 6100.0,
+        "dependents": 3050.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 14000.0
+      },
+      "highestBracket": {
+        "rate": 0.35,
+        "thresholdMarriedJoint_over": 311950.0
+      }
+    },
+    "2004": {
+      "exemptions": {
+        "single": 3100.0,
+        "marriedJoint": 6200.0,
+        "dependents": 3100.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 14300.0
+      },
+      "highestBracket": {
+        "rate": 0.35,
+        "thresholdMarriedJoint_over": 319100.0
+      }
+    },
+    "2005": {
+      "exemptions": {
+        "single": 3200.0,
+        "marriedJoint": 6400.0,
+        "dependents": 3200.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 14600.0
+      },
+      "highestBracket": {
+        "rate": 0.35,
+        "thresholdMarriedJoint_over": 326450.0
+      }
+    },
+    "2006": {
+      "exemptions": {
+        "single": 3300.0,
+        "marriedJoint": 6600.0,
+        "dependents": 3300.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 15100.0
+      },
+      "highestBracket": {
+        "rate": 0.35,
+        "thresholdMarriedJoint_over": 336550.0
+      }
+    },
+    "2007": {
+      "exemptions": {
+        "single": 3400.0,
+        "marriedJoint": 6800.0,
+        "dependents": 3400.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 15650.0
+      },
+      "highestBracket": {
+        "rate": 0.35,
+        "thresholdMarriedJoint_over": 349700.0
+      }
+    },
+    "2008": {
+      "exemptions": {
+        "single": 3500.0,
+        "marriedJoint": 7000.0,
+        "dependents": 3500.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 16050.0
+      },
+      "highestBracket": {
+        "rate": 0.35,
+        "thresholdMarriedJoint_over": 357700.0
+      }
+    },
+    "2009": {
+      "exemptions": {
+        "single": 3650.0,
+        "marriedJoint": 7300.0,
+        "dependents": 3650.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 16700.0
+      },
+      "highestBracket": {
+        "rate": 0.35,
+        "thresholdMarriedJoint_over": 372950.0
+      }
+    },
+    "2010": {
+      "exemptions": {
+        "single": 3650.0,
+        "marriedJoint": 7300.0,
+        "dependents": 3650.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 16750.0
+      },
+      "highestBracket": {
+        "rate": 0.35,
+        "thresholdMarriedJoint_over": 373650.0
+      }
+    },
+    "2011": {
+      "exemptions": {
+        "single": 3700.0,
+        "marriedJoint": 7400.0,
+        "dependents": 3700.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 17000.0
+      },
+      "highestBracket": {
+        "rate": 0.35,
+        "thresholdMarriedJoint_over": 379150.0
+      }
+    },
+    "2012": {
+      "exemptions": {
+        "single": 3800.0,
+        "marriedJoint": 7600.0,
+        "dependents": 3800.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 17400.0
+      },
+      "highestBracket": {
+        "rate": 0.35,
+        "thresholdMarriedJoint_over": 388350.0
+      }
+    },
+    "2013": {
+      "exemptions": {
+        "single": 3900.0,
+        "marriedJoint": 7800.0,
+        "dependents": 3900.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 17850.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 450000.0
+      }
+    },
+    "2014": {
+      "exemptions": {
+        "single": 3950.0,
+        "marriedJoint": 7900.0,
+        "dependents": 3950.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 18150.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 457600.0
+      }
+    },
+    "2015": {
+      "exemptions": {
+        "single": 4000.0,
+        "marriedJoint": 8000.0,
+        "dependents": 4000.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 18450.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 464850.0
+      }
+    },
+    "2016": {
+      "exemptions": {
+        "single": 4050.0,
+        "marriedJoint": 8100.0,
+        "dependents": 4050.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 18550.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 466951.0
+      }
+    },
+    "2017": {
+      "exemptions": {
+        "single": 4050.0,
+        "marriedJoint": 8100.0,
+        "dependents": 4050.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 18650.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 470700.0
+      }
+    },
+    "2018": {
+      "exemptions": {
+        "single": null,
+        "marriedJoint": null,
+        "dependents": null
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 19050.0
+      },
+      "highestBracket": {
+        "rate": 0.37,
+        "thresholdMarriedJoint_over": 600001.0
+      }
+    },
+    "2019": {
+      "exemptions": {
+        "single": null,
+        "marriedJoint": null,
+        "dependents": null
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 19400.0
+      },
+      "highestBracket": {
+        "rate": 0.37,
+        "thresholdMarriedJoint_over": 612350.0
+      }
+    },
+    "2020": {
+      "exemptions": {
+        "single": null,
+        "marriedJoint": null,
+        "dependents": null
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 19750.0
+      },
+      "highestBracket": {
+        "rate": 0.37,
+        "thresholdMarriedJoint_over": 622050.0
+      }
+    },
+    "2021": {
+      "exemptions": {
+        "single": null,
+        "marriedJoint": null,
+        "dependents": null
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 19900.0
+      },
+      "highestBracket": {
+        "rate": 0.37,
+        "thresholdMarriedJoint_over": 628300.0
+      }
+    },
+    "2022": {
+      "exemptions": {
+        "single": null,
+        "marriedJoint": null,
+        "dependents": null
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 20550.0
+      },
+      "highestBracket": {
+        "rate": 0.37,
+        "thresholdMarriedJoint_over": 647850.0
+      }
+    },
+    "2023": {
+      "exemptions": {
+        "single": null,
+        "marriedJoint": null,
+        "dependents": null
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 22000.0
+      },
+      "highestBracket": {
+        "rate": 0.37,
+        "thresholdMarriedJoint_over": 693750.0
+      }
+    }
+  },
+  "presets": {
+    "1980": {
+      "exemptions": {
+        "single": 1000.0,
+        "marriedJoint": 2000.0,
+        "dependents": 1000.0
+      },
+      "lowestBracket": {
+        "rate": 0.14,
+        "thresholdMarriedJoint_under": 3400.0
+      },
+      "highestBracket": {
+        "rate": 0.7,
+        "thresholdMarriedJoint_over": 215400.0
+      }
+    },
+    "1999": {
+      "exemptions": {
+        "single": 2750.0,
+        "marriedJoint": 5500.0,
+        "dependents": 2750.0
+      },
+      "lowestBracket": {
+        "rate": 0.15,
+        "thresholdMarriedJoint_under": 43050.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 283150.0
+      }
+    },
+    "2017": {
+      "exemptions": {
+        "single": 4050.0,
+        "marriedJoint": 8100.0,
+        "dependents": 4050.0
+      },
+      "lowestBracket": {
+        "rate": 0.1,
+        "thresholdMarriedJoint_under": 18650.0
+      },
+      "highestBracket": {
+        "rate": 0.396,
+        "thresholdMarriedJoint_over": 470700.0
+      }
+    }
+  },
+  "currentLawYear": 2023
+}

@@ -1,0 +1,327 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heat Economy Components HeatEconomyScatter should render no data message when no points 1`] = `
+<div>
+  <div
+    class="h-80 flex items-center justify-center text-gray-500"
+  >
+    <p>
+      No data available for scatter plot
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Heat Economy Components QuadrantLegend should render correctly with custom labels 1`] = `
+<div>
+  <div
+    class="grid grid-cols-2 gap-4 mt-4"
+  >
+    <div
+      class="p-3 border rounded-lg bg-red-100 border-red-300"
+    >
+      <h4
+        class="font-semibold text-sm"
+      >
+        Hotter & Worse
+      </h4>
+      <p
+        class="text-xs text-gray-600 mt-1"
+      >
+        Above average temp anomaly and below average construction hours
+      </p>
+      <div
+        class="flex items-center mt-2 text-xs"
+      >
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Temp Anomaly
+          : 
+          ≥ 0°C
+        </span>
+        <span
+          class="mx-1"
+        >
+          ·
+        </span>
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Construction Hours
+          : 
+          &lt; 85.0
+        </span>
+      </div>
+    </div>
+    <div
+      class="p-3 border rounded-lg bg-orange-100 border-orange-300"
+    >
+      <h4
+        class="font-semibold text-sm"
+      >
+        Hotter & Better
+      </h4>
+      <p
+        class="text-xs text-gray-600 mt-1"
+      >
+        Above average temp anomaly and above average construction hours
+      </p>
+      <div
+        class="flex items-center mt-2 text-xs"
+      >
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Temp Anomaly
+          : 
+          ≥ 0°C
+        </span>
+        <span
+          class="mx-1"
+        >
+          ·
+        </span>
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Construction Hours
+          : 
+          ≥ 85.0
+        </span>
+      </div>
+    </div>
+    <div
+      class="p-3 border rounded-lg bg-blue-100 border-blue-300"
+    >
+      <h4
+        class="font-semibold text-sm"
+      >
+        Cooler & Worse
+      </h4>
+      <p
+        class="text-xs text-gray-600 mt-1"
+      >
+        Below average temp anomaly and below average construction hours
+      </p>
+      <div
+        class="flex items-center mt-2 text-xs"
+      >
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Temp Anomaly
+          : 
+          ≥ 0°C
+        </span>
+        <span
+          class="mx-1"
+        >
+          ·
+        </span>
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Construction Hours
+          : 
+          &lt; 85.0
+        </span>
+      </div>
+    </div>
+    <div
+      class="p-3 border rounded-lg bg-green-100 border-green-300"
+    >
+      <h4
+        class="font-semibold text-sm"
+      >
+        Cooler & Better
+      </h4>
+      <p
+        class="text-xs text-gray-600 mt-1"
+      >
+        Below average temp anomaly and above average construction hours
+      </p>
+      <div
+        class="flex items-center mt-2 text-xs"
+      >
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Temp Anomaly
+          : 
+          ≥ 0°C
+        </span>
+        <span
+          class="mx-1"
+        >
+          ·
+        </span>
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Construction Hours
+          : 
+          ≥ 85.0
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Heat Economy Components QuadrantLegend should render correctly with default labels 1`] = `
+<div>
+  <div
+    class="grid grid-cols-2 gap-4 mt-4"
+  >
+    <div
+      class="p-3 border rounded-lg bg-red-100 border-red-300"
+    >
+      <h4
+        class="font-semibold text-sm"
+      >
+        Hotter & Worse
+      </h4>
+      <p
+        class="text-xs text-gray-600 mt-1"
+      >
+        Above average temperature anomaly and below average productivity proxy
+      </p>
+      <div
+        class="flex items-center mt-2 text-xs"
+      >
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Temperature Anomaly
+          : 
+          ≥ 0°C
+        </span>
+        <span
+          class="mx-1"
+        >
+          ·
+        </span>
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Productivity Proxy
+          : 
+          &lt; 85.0
+        </span>
+      </div>
+    </div>
+    <div
+      class="p-3 border rounded-lg bg-orange-100 border-orange-300"
+    >
+      <h4
+        class="font-semibold text-sm"
+      >
+        Hotter & Better
+      </h4>
+      <p
+        class="text-xs text-gray-600 mt-1"
+      >
+        Above average temperature anomaly and above average productivity proxy
+      </p>
+      <div
+        class="flex items-center mt-2 text-xs"
+      >
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Temperature Anomaly
+          : 
+          ≥ 0°C
+        </span>
+        <span
+          class="mx-1"
+        >
+          ·
+        </span>
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Productivity Proxy
+          : 
+          ≥ 85.0
+        </span>
+      </div>
+    </div>
+    <div
+      class="p-3 border rounded-lg bg-blue-100 border-blue-300"
+    >
+      <h4
+        class="font-semibold text-sm"
+      >
+        Cooler & Worse
+      </h4>
+      <p
+        class="text-xs text-gray-600 mt-1"
+      >
+        Below average temperature anomaly and below average productivity proxy
+      </p>
+      <div
+        class="flex items-center mt-2 text-xs"
+      >
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Temperature Anomaly
+          : 
+          ≥ 0°C
+        </span>
+        <span
+          class="mx-1"
+        >
+          ·
+        </span>
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Productivity Proxy
+          : 
+          &lt; 85.0
+        </span>
+      </div>
+    </div>
+    <div
+      class="p-3 border rounded-lg bg-green-100 border-green-300"
+    >
+      <h4
+        class="font-semibold text-sm"
+      >
+        Cooler & Better
+      </h4>
+      <p
+        class="text-xs text-gray-600 mt-1"
+      >
+        Below average temperature anomaly and above average productivity proxy
+      </p>
+      <div
+        class="flex items-center mt-2 text-xs"
+      >
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Temperature Anomaly
+          : 
+          ≥ 0°C
+        </span>
+        <span
+          class="mx-1"
+        >
+          ·
+        </span>
+        <span
+          class="bg-gray-200 px-1 py-0.5 rounded"
+        >
+          Productivity Proxy
+          : 
+          ≥ 85.0
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

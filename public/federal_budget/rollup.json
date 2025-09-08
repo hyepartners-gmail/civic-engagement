@@ -1,0 +1,676 @@
+{
+  "unitMeta": {
+    "outlaysDerived": "USD_thousands",
+    "receiptsDerived": "USD_thousands",
+    "debt": "USD",
+    "notes": "OMB series assumed in specified units; Treasury debt in USD."
+  },
+  "years": {
+    "1962": {
+      "outlays": 106821232.0,
+      "receipts": 99675605.0,
+      "deficit": 7145627.0,
+      "mandatory": 27857018.0,
+      "discretionary": 72074949.0,
+      "netInterest": 6889265.0
+    },
+    "1963": {
+      "outlays": 111315892.0,
+      "receipts": 106560254.0,
+      "deficit": 4755638.0,
+      "mandatory": 28282658.0,
+      "discretionary": 75293536.0,
+      "netInterest": 7739698.0
+    },
+    "1964": {
+      "outlays": 118528080.0,
+      "receipts": 112613480.0,
+      "deficit": 5914600.0,
+      "mandatory": 31193396.0,
+      "discretionary": 79136003.0,
+      "netInterest": 8198681.0
+    },
+    "1965": {
+      "outlays": 118227799.0,
+      "receipts": 116817254.0,
+      "deficit": 1410545.0,
+      "mandatory": 31843650.0,
+      "discretionary": 77793284.0,
+      "netInterest": 8590865.0
+    },
+    "1966": {
+      "outlays": 134532243.0,
+      "receipts": 130834668.0,
+      "deficit": 3697575.0,
+      "mandatory": 35002480.0,
+      "discretionary": 90143334.0,
+      "netInterest": 9386429.0
+    },
+    "1967": {
+      "outlays": 157464255.0,
+      "receipts": 148821740.0,
+      "deficit": 8642515.0,
+      "mandatory": 40722693.0,
+      "discretionary": 106473310.0,
+      "netInterest": 10268252.0
+    },
+    "1968": {
+      "outlays": 178134188.0,
+      "receipts": 152972959.0,
+      "deficit": 25161229.0,
+      "mandatory": 49066275.0,
+      "discretionary": 117978057.0,
+      "netInterest": 11089856.0
+    },
+    "1969": {
+      "outlays": 183640004.0,
+      "receipts": 186881642.0,
+      "deficit": -3241638.0,
+      "mandatory": 53622613.0,
+      "discretionary": 117317982.0,
+      "netInterest": 12699409.0
+    },
+    "1970": {
+      "outlays": 195649234.0,
+      "receipts": 192807251.0,
+      "deficit": 2841983.0,
+      "mandatory": 61014788.0,
+      "discretionary": 120254220.0,
+      "netInterest": 14380226.0
+    },
+    "1971": {
+      "outlays": 210172092.0,
+      "receipts": 187138924.0,
+      "deficit": 23033168.0,
+      "mandatory": 72800083.0,
+      "discretionary": 122530739.0,
+      "netInterest": 14841270.0
+    },
+    "1972": {
+      "outlays": 230681036.0,
+      "receipts": 207308507.0,
+      "deficit": 23372529.0,
+      "mandatory": 86659500.0,
+      "discretionary": 128543712.0,
+      "netInterest": 15477824.0
+    },
+    "1973": {
+      "outlays": 245707235.0,
+      "receipts": 230798865.0,
+      "deficit": 14908370.0,
+      "mandatory": 97964189.0,
+      "discretionary": 130394455.0,
+      "netInterest": 17348591.0
+    },
+    "1974": {
+      "outlays": 269358812.0,
+      "receipts": 263223745.0,
+      "deficit": 6135067.0,
+      "mandatory": 109702753.0,
+      "discretionary": 138207012.0,
+      "netInterest": 21449047.0
+    },
+    "1975": {
+      "outlays": 332332274.0,
+      "receipts": 279090268.0,
+      "deficit": 53242006.0,
+      "mandatory": 151123425.0,
+      "discretionary": 157964603.0,
+      "netInterest": 23244246.0
+    },
+    "1976": {
+      "outlays": 371792378.0,
+      "receipts": 298060083.0,
+      "deficit": 73732295.0,
+      "mandatory": 169487779.0,
+      "discretionary": 175577335.0,
+      "netInterest": 26727264.0
+    },
+    "1977": {
+      "outlays": 409218164.0,
+      "receipts": 355558803.0,
+      "deficit": 53659361.0,
+      "mandatory": 182244314.0,
+      "discretionary": 197073161.0,
+      "netInterest": 29900689.0
+    },
+    "1978": {
+      "outlays": 458745873.0,
+      "receipts": 399560612.0,
+      "deficit": 59185261.0,
+      "mandatory": 204578280.0,
+      "discretionary": 218709731.0,
+      "netInterest": 35457862.0
+    },
+    "1979": {
+      "outlays": 504028282.0,
+      "receipts": 463302303.0,
+      "deficit": 40725979.0,
+      "mandatory": 221397519.0,
+      "discretionary": 239998177.0,
+      "netInterest": 42632586.0
+    },
+    "1980": {
+      "outlays": 590941459.0,
+      "receipts": 517111735.0,
+      "deficit": 73829724.0,
+      "mandatory": 262084671.0,
+      "discretionary": 276323647.0,
+      "netInterest": 52533141.0
+    },
+    "1981": {
+      "outlays": 678240573.0,
+      "receipts": 599272441.0,
+      "deficit": 78968132.0,
+      "mandatory": 301561690.0,
+      "discretionary": 307912756.0,
+      "netInterest": 68766127.0
+    },
+    "1982": {
+      "outlays": 745742758.0,
+      "receipts": 617765868.0,
+      "deficit": 127976890.0,
+      "mandatory": 334758643.0,
+      "discretionary": 325952412.0,
+      "netInterest": 85031703.0
+    },
+    "1983": {
+      "outlays": 808364434.0,
+      "receipts": 600562295.0,
+      "deficit": 207802139.0,
+      "mandatory": 365246603.0,
+      "discretionary": 353310014.0,
+      "netInterest": 89807817.0
+    },
+    "1984": {
+      "outlays": 851805044.0,
+      "receipts": 666437704.0,
+      "deficit": 185367340.0,
+      "mandatory": 361256581.0,
+      "discretionary": 379446776.0,
+      "netInterest": 111101687.0
+    },
+    "1985": {
+      "outlays": 946344354.0,
+      "receipts": 734036763.0,
+      "deficit": 212307591.0,
+      "mandatory": 401074143.0,
+      "discretionary": 415792512.0,
+      "netInterest": 129477699.0
+    },
+    "1986": {
+      "outlays": 990381746.0,
+      "receipts": 769154903.0,
+      "deficit": 221226843.0,
+      "mandatory": 415845023.0,
+      "discretionary": 438519850.0,
+      "netInterest": 136016873.0
+    },
+    "1987": {
+      "outlays": 1004016927.0,
+      "receipts": 854287415.0,
+      "deficit": 149729512.0,
+      "mandatory": 421244814.0,
+      "discretionary": 444160787.0,
+      "netInterest": 138611326.0
+    },
+    "1988": {
+      "outlays": 1064416203.0,
+      "receipts": 909238249.0,
+      "deficit": 155177954.0,
+      "mandatory": 448195359.0,
+      "discretionary": 464417877.0,
+      "netInterest": 151802967.0
+    },
+    "1989": {
+      "outlays": 1143743331.0,
+      "receipts": 991104377.0,
+      "deficit": 152638954.0,
+      "mandatory": 485930068.0,
+      "discretionary": 488832124.0,
+      "netInterest": 168981139.0
+    },
+    "1990": {
+      "outlays": 1252993354.0,
+      "receipts": 1031957640.0,
+      "deficit": 221035714.0,
+      "mandatory": 568068406.0,
+      "discretionary": 500578120.0,
+      "netInterest": 184346828.0
+    },
+    "1991": {
+      "outlays": 1324225530.0,
+      "receipts": 1054987789.0,
+      "deficit": 269237741.0,
+      "mandatory": 596499477.0,
+      "discretionary": 533277882.0,
+      "netInterest": 194448171.0
+    },
+    "1992": {
+      "outlays": 1381529012.0,
+      "receipts": 1091208369.0,
+      "deficit": 290320643.0,
+      "mandatory": 648381614.0,
+      "discretionary": 533803252.0,
+      "netInterest": 199344146.0
+    },
+    "1993": {
+      "outlays": 1409385502.0,
+      "receipts": 1154334485.0,
+      "deficit": 255051017.0,
+      "mandatory": 670919081.0,
+      "discretionary": 539753218.0,
+      "netInterest": 198713203.0
+    },
+    "1994": {
+      "outlays": 1461752319.0,
+      "receipts": 1258566101.0,
+      "deficit": 203186218.0,
+      "mandatory": 717480013.0,
+      "discretionary": 541340065.0,
+      "netInterest": 202932241.0,
+      "grossDebt": 4692749910013.32,
+      "grossDebtAvg": 4556580389193.656
+    },
+    "1995": {
+      "outlays": 1515742000.0,
+      "receipts": 1351790000.0,
+      "deficit": 163952000.0,
+      "mandatory": 738847000.0,
+      "discretionary": 544761000.0,
+      "netInterest": 232134000.0,
+      "grossDebt": 4973982900709.39,
+      "grossDebtAvg": 4849249225823.649
+    },
+    "1996": {
+      "outlays": 1560484000.0,
+      "receipts": 1453053000.0,
+      "deficit": 107431000.0,
+      "mandatory": 786698000.0,
+      "discretionary": 532733000.0,
+      "netInterest": 241053000.0,
+      "grossDebt": 5224810939135.73,
+      "grossDebtAvg": 5076876968976.456
+    },
+    "1997": {
+      "outlays": 1601116000.0,
+      "receipts": 1579232000.0,
+      "deficit": 21884000.0,
+      "mandatory": 810095000.0,
+      "discretionary": 547037000.0,
+      "netInterest": 243984000.0,
+      "debtHeldByPublic": 3789667546849.6,
+      "grossDebt": 5413146011397.34,
+      "debtHeldByPublicAvg": 3789667546849.6,
+      "grossDebtAvg": 5332497008947.616
+    },
+    "1998": {
+      "outlays": 1652458000.0,
+      "receipts": 1721728000.0,
+      "deficit": -69270000.0,
+      "mandatory": 859345000.0,
+      "discretionary": 551995000.0,
+      "netInterest": 241118000.0,
+      "debtHeldByPublic": 3733864472163.53,
+      "grossDebt": 5526193008897.62,
+      "debtHeldByPublicAvg": 3733864472163.53,
+      "grossDebtAvg": 5497777998364.219
+    },
+    "1999": {
+      "outlays": 1701842000.0,
+      "receipts": 1827452000.0,
+      "deficit": -125610000.0,
+      "mandatory": 899974000.0,
+      "discretionary": 572113000.0,
+      "netInterest": 229755000.0,
+      "debtHeldByPublic": 3636104594501.81,
+      "grossDebt": 5656270901633.43,
+      "debtHeldByPublicAvg": 3636104594501.81,
+      "grossDebtAvg": 5609227731056.078
+    },
+    "2000": {
+      "outlays": 1788950000.0,
+      "receipts": 2025191000.0,
+      "deficit": -236241000.0,
+      "mandatory": 951375000.0,
+      "discretionary": 614626000.0,
+      "netInterest": 222949000.0,
+      "debtHeldByPublic": 3405303490221.2,
+      "grossDebt": 5674178209886.86,
+      "debtHeldByPublicAvg": 3405303490221.2,
+      "grossDebtAvg": 5691690528644.477
+    },
+    "2001": {
+      "outlays": 1862846000.0,
+      "receipts": 1991082000.0,
+      "deficit": -128236000.0,
+      "mandatory": 1007638000.0,
+      "discretionary": 649041000.0,
+      "netInterest": 206167000.0,
+      "debtHeldByPublic": 3339310176094.74,
+      "grossDebt": 5807463412200.06,
+      "debtHeldByPublicAvg": 3339310176094.74,
+      "grossDebtAvg": 5710539541821.1
+    },
+    "2002": {
+      "outlays": 2010894000.0,
+      "receipts": 1853136000.0,
+      "deficit": 157758000.0,
+      "mandatory": 1105995000.0,
+      "discretionary": 733950000.0,
+      "netInterest": 170949000.0,
+      "debtHeldByPublic": 3553180247874.74,
+      "grossDebt": 6228235965597.16,
+      "debtHeldByPublicAvg": 3442416669317.11,
+      "grossDebtAvg": 5999342543162.286
+    },
+    "2003": {
+      "outlays": 2159899000.0,
+      "receipts": 1782314000.0,
+      "deficit": 377585000.0,
+      "mandatory": 1182487000.0,
+      "discretionary": 824339000.0,
+      "netInterest": 153073000.0,
+      "debtHeldByPublic": 3924090106880.88,
+      "grossDebt": 6783231062743.62,
+      "debtHeldByPublicAvg": 3759104939341.698,
+      "grossDebtAvg": 6497649596610.602
+    },
+    "2004": {
+      "outlays": 2292841000.0,
+      "receipts": 1880114000.0,
+      "deficit": 412727000.0,
+      "mandatory": 1237531000.0,
+      "discretionary": 895065000.0,
+      "netInterest": 160245000.0,
+      "debtHeldByPublic": 4307344596908.92,
+      "grossDebt": 7379052696330.32,
+      "debtHeldByPublicAvg": 4156170918857.151,
+      "grossDebtAvg": 7110866463962.209
+    },
+    "2005": {
+      "outlays": 2471957000.0,
+      "receipts": 2153611000.0,
+      "deficit": 318346000.0,
+      "mandatory": 1319430000.0,
+      "discretionary": 968541000.0,
+      "netInterest": 183986000.0,
+      "debtHeldByPublic": 4601238726062.04,
+      "grossDebt": 7932709661723.5,
+      "debtHeldByPublicAvg": 4570692637099.468,
+      "grossDebtAvg": 7708677912542.266
+    },
+    "2006": {
+      "outlays": 2655050000.0,
+      "receipts": 2406869000.0,
+      "deficit": 248181000.0,
+      "mandatory": 1411823000.0,
+      "discretionary": 1016624000.0,
+      "netInterest": 226603000.0,
+      "debtHeldByPublic": 4843120736192.43,
+      "grossDebt": 8506973899215.23,
+      "debtHeldByPublicAvg": 4781844721603.619,
+      "grossDebtAvg": 8284560661686.244
+    },
+    "2007": {
+      "outlays": 2728686000.0,
+      "receipts": 2567985000.0,
+      "deficit": 160701000.0,
+      "mandatory": 1449987000.0,
+      "discretionary": 1041590000.0,
+      "netInterest": 237109000.0,
+      "debtHeldByPublic": 5049305502926.48,
+      "grossDebt": 9007653372262.48,
+      "debtHeldByPublicAvg": 4972781767879.002,
+      "grossDebtAvg": 8783709173926.122
+    },
+    "2008": {
+      "outlays": 2982544000.0,
+      "receipts": 2523991000.0,
+      "deficit": 458553000.0,
+      "mandatory": 1594903000.0,
+      "discretionary": 1134884000.0,
+      "netInterest": 252757000.0,
+      "debtHeldByPublic": 5808691665403.71,
+      "grossDebt": 10024724896912.49,
+      "debtHeldByPublicAvg": 5253813218315.555,
+      "grossDebtAvg": 9353224527003.96
+    },
+    "2009": {
+      "outlays": 3517677000.0,
+      "receipts": 2104989000.0,
+      "deficit": 1412688000.0,
+      "mandatory": 2093239000.0,
+      "discretionary": 1237536000.0,
+      "netInterest": 186902000.0,
+      "debtHeldByPublic": 7551861558736.77,
+      "grossDebt": 11909829003511.75,
+      "debtHeldByPublicAvg": 6790346407539.1,
+      "grossDebtAvg": 11086118404118.95
+    },
+    "2010": {
+      "outlays": 3457079000.0,
+      "receipts": 2162706000.0,
+      "deficit": 1294373000.0,
+      "mandatory": 1913719000.0,
+      "discretionary": 1347166000.0,
+      "netInterest": 196194000.0,
+      "debtHeldByPublic": 9022808423453.08,
+      "grossDebt": 13561623030891.79,
+      "debtHeldByPublicAvg": 8214781706437.699,
+      "grossDebtAvg": 12695388213404.645
+    },
+    "2011": {
+      "outlays": 3603065000.0,
+      "receipts": 2303466000.0,
+      "deficit": 1299599000.0,
+      "mandatory": 2025966000.0,
+      "discretionary": 1347137000.0,
+      "netInterest": 229962000.0,
+      "debtHeldByPublic": 10127031384654.1,
+      "grossDebt": 14790340328557.15,
+      "debtHeldByPublicAvg": 9577929225517.357,
+      "grossDebtAvg": 14192918794897.992
+    },
+    "2012": {
+      "outlays": 3526563000.0,
+      "receipts": 2449990000.0,
+      "deficit": 1076573000.0,
+      "mandatory": 2030450000.0,
+      "discretionary": 1275705000.0,
+      "netInterest": 220408000.0,
+      "debtHeldByPublic": 11269585800039.32,
+      "grossDebt": 16066241407385.89,
+      "debtHeldByPublicAvg": 10767823034408.969,
+      "grossDebtAvg": 15518310577495.838
+    },
+    "2013": {
+      "outlays": 3454881000.0,
+      "receipts": 2775106000.0,
+      "deficit": 679775000.0,
+      "mandatory": 2031634000.0,
+      "discretionary": 1202362000.0,
+      "netInterest": 220885000.0,
+      "debtHeldByPublic": 11976279236073.83,
+      "grossDebt": 16738183526697.32,
+      "debtHeldByPublicAvg": 11755383882310.213,
+      "grossDebtAvg": 16586802054619.873
+    },
+    "2014": {
+      "outlays": 3506284000.0,
+      "receipts": 3021491000.0,
+      "deficit": 484793000.0,
+      "mandatory": 2098461000.0,
+      "discretionary": 1178867000.0,
+      "netInterest": 228956000.0,
+      "debtHeldByPublic": 12784971238978.02,
+      "grossDebt": 17824071380733.82,
+      "debtHeldByPublicAvg": 12452127313972.555,
+      "grossDebtAvg": 17424809322175.408
+    },
+    "2015": {
+      "outlays": 3691850000.0,
+      "receipts": 3249890000.0,
+      "deficit": 441960000.0,
+      "mandatory": 2296528000.0,
+      "discretionary": 1172141000.0,
+      "netInterest": 223181000.0,
+      "debtHeldByPublic": 13123847198347.81,
+      "grossDebt": 18150617666484.33,
+      "debtHeldByPublicAvg": 13029236275424.342,
+      "grossDebtAvg": 18096062581363.58
+    },
+    "2016": {
+      "outlays": 3852615000.0,
+      "receipts": 3267965000.0,
+      "deficit": 584650000.0,
+      "mandatory": 2427327000.0,
+      "discretionary": 1185255000.0,
+      "netInterest": 240033000.0,
+      "debtHeldByPublic": 14173423516895.82,
+      "grossDebt": 19573444713936.79,
+      "debtHeldByPublicAvg": 13753245697543.15,
+      "grossDebtAvg": 19066846932474.53
+    },
+    "2017": {
+      "outlays": 3981634000.0,
+      "receipts": 3316184000.0,
+      "deficit": 665450000.0,
+      "mandatory": 2518773000.0,
+      "discretionary": 1200310000.0,
+      "netInterest": 262551000.0,
+      "debtHeldByPublic": 14673428663140.94,
+      "grossDebt": 20244900016053.51,
+      "debtHeldByPublicAvg": 14373467905164.973,
+      "grossDebtAvg": 19878442153668.926
+    },
+    "2018": {
+      "outlays": 4108981000.0,
+      "receipts": 3329907000.0,
+      "deficit": 779074000.0,
+      "mandatory": 2522489000.0,
+      "discretionary": 1261517000.0,
+      "netInterest": 324975000.0,
+      "debtHeldByPublic": 15761154524132.45,
+      "grossDebt": 21516058183180.23,
+      "debtHeldByPublicAvg": 15232260586229.709,
+      "grossDebtAvg": 20916712552863.035
+    },
+    "2019": {
+      "outlays": 4446952000.0,
+      "receipts": 3463364000.0,
+      "deficit": 983588000.0,
+      "mandatory": 2733794000.0,
+      "discretionary": 1338000000.0,
+      "netInterest": 375158000.0,
+      "debtHeldByPublic": 16809092325171.8,
+      "grossDebt": 22719401753433.78,
+      "debtHeldByPublicAvg": 16185540904425.992,
+      "grossDebtAvg": 22025152565489.68
+    },
+    "2020": {
+      "outlays": 6553620000.0,
+      "receipts": 3421164000.0,
+      "deficit": 3132456000.0,
+      "mandatory": 4580267000.0,
+      "discretionary": 1627883000.0,
+      "netInterest": 345470000.0,
+      "debtHeldByPublic": 21018952080385.63,
+      "grossDebt": 26945391194615.15,
+      "debtHeldByPublicAvg": 18623021234740.574,
+      "grossDebtAvg": 24583391553432.125
+    },
+    "2021": {
+      "outlays": 6822461000.0,
+      "receipts": 4047111000.0,
+      "deficit": 2775350000.0,
+      "mandatory": 4833714000.0,
+      "discretionary": 1636409000.0,
+      "netInterest": 352338000.0,
+      "debtHeldByPublic": 22282900363084.77,
+      "grossDebt": 28428918570048.68,
+      "debtHeldByPublicAvg": 21833153038385.906,
+      "grossDebtAvg": 27954753605841.645
+    },
+    "2022": {
+      "outlays": 6273259000.0,
+      "receipts": 4897339000.0,
+      "deficit": 1375920000.0,
+      "mandatory": 4132822000.0,
+      "discretionary": 1664550000.0,
+      "netInterest": 475887000.0,
+      "debtHeldByPublic": 24299192620158.51,
+      "grossDebt": 30928911613306.73,
+      "debtHeldByPublicAvg": 23536109815467.67,
+      "grossDebtAvg": 30032058686496.047
+    },
+    "2023": {
+      "outlays": 6134672000.0,
+      "receipts": 4440947000.0,
+      "deficit": 1693725000.0,
+      "mandatory": 3758273000.0,
+      "discretionary": 1718132000.0,
+      "netInterest": 658267000.0,
+      "debtHeldByPublic": 26330142473191.94,
+      "grossDebt": 33167334044723.16,
+      "debtHeldByPublicAvg": 24941372335033.598,
+      "grossDebtAvg": 31784930379662.38
+    },
+    "2024": {
+      "outlays": 6940904000.0,
+      "receipts": 5081546000.0,
+      "deficit": 1859358000.0,
+      "mandatory": 4167279000.0,
+      "discretionary": 1885028000.0,
+      "netInterest": 888597000.0,
+      "debtHeldByPublic": 28307312290783.0,
+      "grossDebt": 35464673929171.69,
+      "debtHeldByPublicAvg": 27359604053878.574,
+      "grossDebtAvg": 34450429247286.047
+    },
+    "2025": {
+      "outlays": 7265963000.0,
+      "receipts": 5484948000.0,
+      "deficit": 1781015000.0,
+      "mandatory": 4371750000.0,
+      "discretionary": 1928743000.0,
+      "netInterest": 965470000.0,
+      "debtHeldByPublic": 29642704925910.3,
+      "grossDebt": 36996205967149.22,
+      "debtHeldByPublicAvg": 28872538226786.156,
+      "grossDebtAvg": 36198234256446.37
+    },
+    "2026": {
+      "outlays": 7419392000.0,
+      "receipts": 5872742000.0,
+      "deficit": 1546650000.0,
+      "mandatory": 4479397000.0,
+      "discretionary": 1926602000.0,
+      "netInterest": 1013393000.0
+    },
+    "2027": {
+      "outlays": 7696576000.0,
+      "receipts": 6186239000.0,
+      "deficit": 1510337000.0,
+      "mandatory": 4690138000.0,
+      "discretionary": 1933992000.0,
+      "netInterest": 1072446000.0
+    },
+    "2028": {
+      "outlays": 8082512000.0,
+      "receipts": 6509624000.0,
+      "deficit": 1572888000.0,
+      "mandatory": 5013943000.0,
+      "discretionary": 1932904000.0,
+      "netInterest": 1135665000.0
+    },
+    "2029": {
+      "outlays": 8312842000.0,
+      "receipts": 6829921000.0,
+      "deficit": 1482921000.0,
+      "mandatory": 5175957000.0,
+      "discretionary": 1946493000.0,
+      "netInterest": 1190392000.0
+    }
+  }
+}

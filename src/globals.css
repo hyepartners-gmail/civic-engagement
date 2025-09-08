@@ -1,0 +1,230 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-manjari: 'Manjari', sans-serif; /* Define the Manjari font variable */
+
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 0 0% 98%;
+
+    --sidebar-foreground: 240 5.3% 26.1%;
+
+    --sidebar-primary: 240 5.9% 10%;
+
+    --sidebar-primary-foreground: 0 0% 98%;
+
+    --sidebar-accent: 240 4.8% 95.9%;
+
+    --sidebar-accent-foreground: 240 5.9% 10%;
+
+    --sidebar-border: 220 13% 91%;
+
+    --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* New platform specific colors */
+    --platform-background: 270 100% 5%; /* #12001a */
+    --platform-accent: 268 100% 69%; /* #a259ff */
+    --platform-text: 0 0% 100%; /* #fff */
+    --platform-contrast: 270 39% 24%; /* #3d235a */
+    --platform-card-background: 270 39% 24%; /* #3d235a -> Made to match platform-contrast */
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* New platform specific colors for dark mode (same as light for now, can be adjusted) */
+    --platform-background: 270 100% 5%; /* #12001a */
+    --platform-accent: 268 100% 69%; /* #a259ff */
+    --platform-text: 0 0% 100%; /* #fff */
+    --platform-contrast: 270 39% 24%; /* #3d235a */
+    --platform-card-background: 270 39% 24%; /* #3d235a -> Made to match platform-contrast */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    /* Apply gradient background */
+    background: linear-gradient(180deg, #12001a 0%, #0a0010 100%);
+    @apply text-foreground font-sans tracking-wide leading-tight; /* Apply Manjari, generous letter-spacing, tight line height */
+    min-height: 100vh; /* Ensure gradient covers full viewport height */
+    position: relative; /* Needed for pseudo-element positioning */
+    overflow-x: hidden; /* Prevent horizontal scroll from noise */
+  }
+
+  /* More visible vertical grain/noise */
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* Using repeating-linear-gradient for a subtle diagonal grain/scanline effect */
+    background-image: repeating-linear-gradient(
+      45deg,
+      rgba(255, 255, 255, 0.1) 0px,
+      rgba(255, 255, 255, 0.1) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+    background-size: 6px 6px; /* Control the density of the lines */
+    opacity: 0.25; /* Significantly increased opacity */
+    pointer-events: none; /* Allow clicks/interactions through */
+    z-index: -1; /* Place behind content */
+  }
+
+  /* Bright, neon star-field */
+  body::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+      /* Larger, brighter cyan stars */
+      radial-gradient(circle at 15% 25%, #00FFFF 2px, transparent 3px),
+      radial-gradient(circle at 85% 75%, #00FFFF 2px, transparent 3px),
+      radial-gradient(circle at 40% 5%, #00FFFF 1.5px, transparent 2.5px),
+      /* Larger, brighter fuchsia stars */
+      radial-gradient(circle at 5% 95%, #FF00FF 2px, transparent 3px),
+      radial-gradient(circle at 95% 10%, #FF00FF 2px, transparent 3px),
+      radial-gradient(circle at 70% 40%, #FF00FF 1.5px, transparent 2.5px),
+      /* Smaller, more subtle white stars for depth */
+      radial-gradient(circle at 30% 80%, rgba(255,255,255,0.1) 1px, transparent 1.5px),
+      radial-gradient(circle at 60% 20%, rgba(255,255,255,0.1) 1px, transparent 1.5px);
+    background-size: 150px 150px, 200px 200px, 180px 180px, 160px 160px, 220px 220px, 190px 190px, 100px 100px, 130px 130px; /* Varied sizes for depth */
+    background-repeat: repeat;
+    opacity: 0.3; /* Significantly increased opacity for stars */
+    pointer-events: none;
+    z-index: -2; /* Behind the noise layer */
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+
+.shimmer-effect {
+  animation: shimmer 1.5s infinite linear;
+  background: linear-gradient(90deg, transparent, rgba(162, 89, 255, 0.2), transparent); /* Updated to platform-accent/20 */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: translateX(-100%);
+}
+
+/* Accessibility: prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  /* Disable shimmer effect */
+  .animate-shimmer .shimmer-effect {
+    animation: none !important;
+  }
+
+  /* Explicitly disable Framer Motion transitions if they bypass the above */
+  /* This targets elements that might have motion props directly */
+  [data-framer-motion-component],
+  [data-framer-motion-component] * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+/* Custom positioning for AuthModal */
+.auth-modal-position {
+  position: fixed !important;
+  top: 50vh !important;
+  left: 50vw !important;
+  transform: translate(-50%, -50%) !important;
+  z-index: 50 !important;
+}

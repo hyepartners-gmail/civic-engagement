@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DegreeBarsStacked matches snapshot 1`] = `
+<div>
+  <div
+    class="w-full h-80"
+  >
+    <div
+      data-testid="responsive-container"
+    >
+      <div
+        data-testid="bar-chart"
+      >
+        <div
+          data-testid="cartesian-grid"
+        />
+        <div
+          data-testid="x-axis"
+        />
+        <div
+          data-testid="y-axis"
+        />
+        <div
+          data-testid="tooltip"
+        />
+        <div
+          data-testid="legend"
+        />
+        <div
+          data-fill="#3b82f6"
+          data-name="Heating Degree Days (HDD)"
+          data-testid="bar-hdd"
+        />
+        <div
+          data-fill="#ef4444"
+          data-name="Cooling Degree Days (CDD)"
+          data-testid="bar-cdd"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

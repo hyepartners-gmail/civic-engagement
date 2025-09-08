@@ -1,0 +1,1 @@
+// This component will be a legend for tax distribution charts.

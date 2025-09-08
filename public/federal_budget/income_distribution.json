@@ -1,0 +1,4972 @@
+{
+  "source": "CPS ASEC",
+  "years": [
+    2022,
+    2023,
+    2024
+  ],
+  "bin_width": 10000,
+  "bins": [
+    {
+      "lower": 0,
+      "upper": 9999,
+      "num_returns": 11655146.66,
+      "avg_income": 2203.5108911190655,
+      "median_income": 6.0,
+      "share_of_total_income": 0.0016648068703208983
+    },
+    {
+      "lower": 10000,
+      "upper": 19999,
+      "num_returns": 11649115.92,
+      "avg_income": 14831.291341119211,
+      "median_income": 15000.0,
+      "share_of_total_income": 0.011199608677585253
+    },
+    {
+      "lower": 20000,
+      "upper": 29999,
+      "num_returns": 12523251.19,
+      "avg_income": 24623.752419826687,
+      "median_income": 24850.0,
+      "share_of_total_income": 0.019989514346906545
+    },
+    {
+      "lower": 30000,
+      "upper": 39999,
+      "num_returns": 12525430.66,
+      "avg_income": 34291.683788717724,
+      "median_income": 34600.0,
+      "share_of_total_income": 0.027842766979762002
+    },
+    {
+      "lower": 40000,
+      "upper": 49999,
+      "num_returns": 11607419.7,
+      "avg_income": 44431.00359510821,
+      "median_income": 44800.5,
+      "share_of_total_income": 0.03343125854819025
+    },
+    {
+      "lower": 50000,
+      "upper": 59999,
+      "num_returns": 11037179.05,
+      "avg_income": 54082.18264463961,
+      "median_income": 54100.0,
+      "share_of_total_income": 0.03869396315183725
+    },
+    {
+      "lower": 60000,
+      "upper": 69999,
+      "num_returns": 9845606.92,
+      "avg_income": 64032.86126346795,
+      "median_income": 64000.0,
+      "share_of_total_income": 0.04086733487654848
+    },
+    {
+      "lower": 70000,
+      "upper": 79999,
+      "num_returns": 8122113.7,
+      "avg_income": 74276.6195482058,
+      "median_income": 74514.0,
+      "share_of_total_income": 0.039106784680107594
+    },
+    {
+      "lower": 80000,
+      "upper": 89999,
+      "num_returns": 7175429.66,
+      "avg_income": 84321.09285865954,
+      "median_income": 84300.0,
+      "share_of_total_income": 0.03922067406773892
+    },
+    {
+      "lower": 90000,
+      "upper": 99999,
+      "num_returns": 6111780.42,
+      "avg_income": 94139.17025864289,
+      "median_income": 94150.0,
+      "share_of_total_income": 0.03729658122632655
+    },
+    {
+      "lower": 100000,
+      "upper": 109999,
+      "num_returns": 5924036.35,
+      "avg_income": 104075.11750578979,
+      "median_income": 104002.0,
+      "share_of_total_income": 0.03996644686374496
+    },
+    {
+      "lower": 110000,
+      "upper": 119999,
+      "num_returns": 4784237.59,
+      "avg_income": 114391.06813060051,
+      "median_income": 114412.5,
+      "share_of_total_income": 0.035476091762332795
+    },
+    {
+      "lower": 120000,
+      "upper": 129999,
+      "num_returns": 4475344.76,
+      "avg_income": 124240.31339470482,
+      "median_income": 124300.0,
+      "share_of_total_income": 0.03604291855853882
+    },
+    {
+      "lower": 130000,
+      "upper": 139999,
+      "num_returns": 3718518.33,
+      "avg_income": 134466.29495499085,
+      "median_income": 134382.5,
+      "share_of_total_income": 0.03241263066542179
+    },
+    {
+      "lower": 140000,
+      "upper": 149999,
+      "num_returns": 3203515.13,
+      "avg_income": 144345.29223215813,
+      "median_income": 144200.0,
+      "share_of_total_income": 0.029975077793216606
+    },
+    {
+      "lower": 150000,
+      "upper": 159999,
+      "num_returns": 3353603.81,
+      "avg_income": 154069.3275883057,
+      "median_income": 154000.0,
+      "share_of_total_income": 0.033493370749562726
+    },
+    {
+      "lower": 160000,
+      "upper": 169999,
+      "num_returns": 2639298.59,
+      "avg_income": 164372.07099738953,
+      "median_income": 164451.0,
+      "share_of_total_income": 0.02812208186185507
+    },
+    {
+      "lower": 170000,
+      "upper": 179999,
+      "num_returns": 2184914.1,
+      "avg_income": 174368.17081313176,
+      "median_income": 174122.0,
+      "share_of_total_income": 0.024696334243061568
+    },
+    {
+      "lower": 180000,
+      "upper": 189999,
+      "num_returns": 2196016.52,
+      "avg_income": 184155.33844254966,
+      "median_income": 184006.0,
+      "share_of_total_income": 0.02621505850138234
+    },
+    {
+      "lower": 190000,
+      "upper": 199999,
+      "num_returns": 1596988.33,
+      "avg_income": 194562.22522885937,
+      "median_income": 194565.0,
+      "share_of_total_income": 0.020141470868542403
+    },
+    {
+      "lower": 200000,
+      "upper": 209999,
+      "num_returns": 1889304.21,
+      "avg_income": 204400.85061596832,
+      "median_income": 204260.0,
+      "share_of_total_income": 0.025033150272733964
+    },
+    {
+      "lower": 210000,
+      "upper": 219999,
+      "num_returns": 1478052.97,
+      "avg_income": 214659.51602432757,
+      "median_income": 214856.5,
+      "share_of_total_income": 0.020567005282531463
+    },
+    {
+      "lower": 220000,
+      "upper": 229999,
+      "num_returns": 1364801.59,
+      "avg_income": 224755.22028637145,
+      "median_income": 224829.0,
+      "share_of_total_income": 0.019884296150759293
+    },
+    {
+      "lower": 230000,
+      "upper": 239999,
+      "num_returns": 1306649.88,
+      "avg_income": 234263.6327980454,
+      "median_income": 234174.5,
+      "share_of_total_income": 0.019842437542259388
+    },
+    {
+      "lower": 240000,
+      "upper": 249999,
+      "num_returns": 993924.41,
+      "avg_income": 244445.34836808164,
+      "median_income": 244613.5,
+      "share_of_total_income": 0.015749473836370476
+    },
+    {
+      "lower": 250000,
+      "upper": 259999,
+      "num_returns": 893675.24,
+      "avg_income": 254002.11898674734,
+      "median_income": 253962.0,
+      "share_of_total_income": 0.014714583731221515
+    },
+    {
+      "lower": 260000,
+      "upper": 269999,
+      "num_returns": 843441.18,
+      "avg_income": 264482.0327905498,
+      "median_income": 264344.0,
+      "share_of_total_income": 0.014460452745949749
+    },
+    {
+      "lower": 270000,
+      "upper": 279999,
+      "num_returns": 798872.72,
+      "avg_income": 274585.87984975876,
+      "median_income": 274543.5,
+      "share_of_total_income": 0.014219577969942172
+    },
+    {
+      "lower": 280000,
+      "upper": 289999,
+      "num_returns": 629960.55,
+      "avg_income": 284745.17448495777,
+      "median_income": 284742.0,
+      "share_of_total_income": 0.011627882691587165
+    },
+    {
+      "lower": 290000,
+      "upper": 299999,
+      "num_returns": 565665.79,
+      "avg_income": 294850.7727178445,
+      "median_income": 295141.0,
+      "share_of_total_income": 0.010811677933201588
+    },
+    {
+      "lower": 300000,
+      "upper": 309999,
+      "num_returns": 634164.0,
+      "avg_income": 304216.36076883896,
+      "median_income": 304130.0,
+      "share_of_total_income": 0.012505903308650942
+    },
+    {
+      "lower": 310000,
+      "upper": 319999,
+      "num_returns": 486024.19,
+      "avg_income": 314384.7378542825,
+      "median_income": 314321.0,
+      "share_of_total_income": 0.009904903644323322
+    },
+    {
+      "lower": 320000,
+      "upper": 329999,
+      "num_returns": 503509.88,
+      "avg_income": 325085.86239527224,
+      "median_income": 325080.5,
+      "share_of_total_income": 0.010610527983111604
+    },
+    {
+      "lower": 330000,
+      "upper": 339999,
+      "num_returns": 327869.66,
+      "avg_income": 334857.98953468277,
+      "median_income": 335009.0,
+      "share_of_total_income": 0.007116931914078663
+    },
+    {
+      "lower": 340000,
+      "upper": 349999,
+      "num_returns": 338967.09,
+      "avg_income": 344571.34218404506,
+      "median_income": 344201.0,
+      "share_of_total_income": 0.007571250317462318
+    },
+    {
+      "lower": 350000,
+      "upper": 359999,
+      "num_returns": 319746.83,
+      "avg_income": 354452.14268873277,
+      "median_income": 354154.0,
+      "share_of_total_income": 0.007346741664234251
+    },
+    {
+      "lower": 360000,
+      "upper": 369999,
+      "num_returns": 344465.81,
+      "avg_income": 364513.4739542366,
+      "median_income": 364511.0,
+      "share_of_total_income": 0.008139366868696324
+    },
+    {
+      "lower": 370000,
+      "upper": 379999,
+      "num_returns": 251721.52,
+      "avg_income": 374372.06634200364,
+      "median_income": 375024.0,
+      "share_of_total_income": 0.006108782989315204
+    },
+    {
+      "lower": 380000,
+      "upper": 389999,
+      "num_returns": 258071.24,
+      "avg_income": 384151.6207813781,
+      "median_income": 384160.5,
+      "share_of_total_income": 0.006426480494637165
+    },
+    {
+      "lower": 390000,
+      "upper": 399999,
+      "num_returns": 213440.28,
+      "avg_income": 394345.6025516833,
+      "median_income": 393773.5,
+      "share_of_total_income": 0.0054561248500924545
+    },
+    {
+      "lower": 400000,
+      "upper": 409999,
+      "num_returns": 228690.27,
+      "avg_income": 403863.7511635716,
+      "median_income": 404012.0,
+      "share_of_total_income": 0.005987058163900944
+    },
+    {
+      "lower": 410000,
+      "upper": 419999,
+      "num_returns": 196104.7,
+      "avg_income": 414472.42066171794,
+      "median_income": 413920.0,
+      "share_of_total_income": 0.005268834477761026
+    },
+    {
+      "lower": 420000,
+      "upper": 429999,
+      "num_returns": 143103.65,
+      "avg_income": 424639.7756302512,
+      "median_income": 425000.0,
+      "share_of_total_income": 0.003939147998074444
+    },
+    {
+      "lower": 430000,
+      "upper": 439999,
+      "num_returns": 157365.66,
+      "avg_income": 434232.88779222866,
+      "median_income": 433625.0,
+      "share_of_total_income": 0.004429590669147696
+    },
+    {
+      "lower": 440000,
+      "upper": 449999,
+      "num_returns": 155789.25,
+      "avg_income": 444291.44605170126,
+      "median_income": 444415.0,
+      "share_of_total_income": 0.004486796306493145
+    },
+    {
+      "lower": 450000,
+      "upper": 459999,
+      "num_returns": 154934.99,
+      "avg_income": 455289.8513530094,
+      "median_income": 455591.0,
+      "share_of_total_income": 0.004572654555444029
+    },
+    {
+      "lower": 460000,
+      "upper": 469999,
+      "num_returns": 136889.89,
+      "avg_income": 464113.71381151676,
+      "median_income": 464071.0,
+      "share_of_total_income": 0.004118382607341599
+    },
+    {
+      "lower": 470000,
+      "upper": 479999,
+      "num_returns": 74608.98,
+      "avg_income": 474107.8047102373,
+      "median_income": 473587.5,
+      "share_of_total_income": 0.002292973959685364
+    },
+    {
+      "lower": 480000,
+      "upper": 489999,
+      "num_returns": 100899.62,
+      "avg_income": 484399.6689780397,
+      "median_income": 485056.0,
+      "share_of_total_income": 0.003168285309456516
+    },
+    {
+      "lower": 490000,
+      "upper": 499999,
+      "num_returns": 121834.81,
+      "avg_income": 495019.9911846211,
+      "median_income": 495300.0,
+      "share_of_total_income": 0.003909534444303572
+    },
+    {
+      "lower": 500000,
+      "upper": 509999,
+      "num_returns": 113944.34,
+      "avg_income": 503862.95019559556,
+      "median_income": 504106.0,
+      "share_of_total_income": 0.0037216548836763418
+    },
+    {
+      "lower": 510000,
+      "upper": 519999,
+      "num_returns": 94878.64,
+      "avg_income": 514462.7055228659,
+      "median_income": 515001.0,
+      "share_of_total_income": 0.0031641223140475225
+    },
+    {
+      "lower": 520000,
+      "upper": 529999,
+      "num_returns": 92812.73,
+      "avg_income": 524259.5855033032,
+      "median_income": 523649.0,
+      "share_of_total_income": 0.003154168152243899
+    },
+    {
+      "lower": 530000,
+      "upper": 539999,
+      "num_returns": 54094.75,
+      "avg_income": 533173.8373520536,
+      "median_income": 533015.0,
+      "share_of_total_income": 0.0018696265380295349
+    },
+    {
+      "lower": 540000,
+      "upper": 549999,
+      "num_returns": 84701.78,
+      "avg_income": 543911.32633777,
+      "median_income": 544072.0,
+      "share_of_total_income": 0.0029864246045139655
+    },
+    {
+      "lower": 550000,
+      "upper": 559999,
+      "num_returns": 52161.16,
+      "avg_income": 553406.7690887243,
+      "median_income": 553429.0,
+      "share_of_total_income": 0.0018712104031211455
+    },
+    {
+      "lower": 560000,
+      "upper": 569999,
+      "num_returns": 49439.48,
+      "avg_income": 565433.1137467466,
+      "median_income": 565017.0,
+      "share_of_total_income": 0.0018121162223185853
+    },
+    {
+      "lower": 570000,
+      "upper": 579999,
+      "num_returns": 56799.36,
+      "avg_income": 574908.1326187479,
+      "median_income": 575055.0,
+      "share_of_total_income": 0.002116765798064692
+    },
+    {
+      "lower": 580000,
+      "upper": 589999,
+      "num_returns": 84885.92,
+      "avg_income": 585282.2951310419,
+      "median_income": 585970.0,
+      "share_of_total_income": 0.0032205642082307976
+    },
+    {
+      "lower": 590000,
+      "upper": 599999,
+      "num_returns": 36884.63,
+      "avg_income": 597120.9361265112,
+      "median_income": 597751.0,
+      "share_of_total_income": 0.0014277055414678693
+    },
+    {
+      "lower": 600000,
+      "upper": 609999,
+      "num_returns": 70794.12,
+      "avg_income": 604728.0937469099,
+      "median_income": 603851.0,
+      "share_of_total_income": 0.0027751614112558154
+    },
+    {
+      "lower": 610000,
+      "upper": 619999,
+      "num_returns": 32022.63,
+      "avg_income": 614880.0836914395,
+      "median_income": 613650.0,
+      "share_of_total_income": 0.0012763751461866211
+    },
+    {
+      "lower": 620000,
+      "upper": 629999,
+      "num_returns": 36033.38,
+      "avg_income": 625904.4520847059,
+      "median_income": 625577.5,
+      "share_of_total_income": 0.0014619885041678657
+    },
+    {
+      "lower": 630000,
+      "upper": 639999,
+      "num_returns": 35458.79,
+      "avg_income": 634021.9579404712,
+      "median_income": 633041.0,
+      "share_of_total_income": 0.0014573340961225557
+    },
+    {
+      "lower": 640000,
+      "upper": 649999,
+      "num_returns": 42485.12,
+      "avg_income": 644939.8732278502,
+      "median_income": 643755.0,
+      "share_of_total_income": 0.0017761800692354295
+    },
+    {
+      "lower": 650000,
+      "upper": 659999,
+      "num_returns": 31495.97,
+      "avg_income": 653973.1801005017,
+      "median_income": 653898.0,
+      "share_of_total_income": 0.001335198517272269
+    },
+    {
+      "lower": 660000,
+      "upper": 669999,
+      "num_returns": 41567.71,
+      "avg_income": 665358.1096574721,
+      "median_income": 665362.0,
+      "share_of_total_income": 0.0017928438650673983
+    },
+    {
+      "lower": 670000,
+      "upper": 679999,
+      "num_returns": 29820.82,
+      "avg_income": 675091.2401023849,
+      "median_income": 673200.0,
+      "share_of_total_income": 0.0013050073848932555
+    },
+    {
+      "lower": 680000,
+      "upper": 689999,
+      "num_returns": 18258.79,
+      "avg_income": 683588.4153971868,
+      "median_income": 684221.5,
+      "share_of_total_income": 0.0008090914339839991
+    },
+    {
+      "lower": 690000,
+      "upper": 699999,
+      "num_returns": 36994.43,
+      "avg_income": 695348.052934996,
+      "median_income": 695495.5,
+      "share_of_total_income": 0.0016675140369092443
+    },
+    {
+      "lower": 700000,
+      "upper": 709999,
+      "num_returns": 32215.28,
+      "avg_income": 704299.6993138039,
+      "median_income": 702521.0,
+      "share_of_total_income": 0.0014707888494254738
+    },
+    {
+      "lower": 710000,
+      "upper": 719999,
+      "num_returns": 35504.5,
+      "avg_income": 713365.4628554127,
+      "median_income": 712101.0,
+      "share_of_total_income": 0.0016418232282486686
+    },
+    {
+      "lower": 720000,
+      "upper": 729999,
+      "num_returns": 22440.95,
+      "avg_income": 724966.4328729399,
+      "median_income": 725902.0,
+      "share_of_total_income": 0.0010546055484721708
+    },
+    {
+      "lower": 730000,
+      "upper": 739999,
+      "num_returns": 23665.38,
+      "avg_income": 736023.9491742792,
+      "median_income": 735772.0,
+      "share_of_total_income": 0.0011291102336117584
+    },
+    {
+      "lower": 740000,
+      "upper": 749999,
+      "num_returns": 17122.95,
+      "avg_income": 743216.125961356,
+      "median_income": 742815.5,
+      "share_of_total_income": 0.0008249443036672228
+    },
+    {
+      "lower": 750000,
+      "upper": 759999,
+      "num_returns": 37381.19,
+      "avg_income": 754402.0179033894,
+      "median_income": 753250.0,
+      "share_of_total_income": 0.0018280449876241286
+    },
+    {
+      "lower": 760000,
+      "upper": 769999,
+      "num_returns": 16792.65,
+      "avg_income": 763664.6922486922,
+      "median_income": 764996.0,
+      "share_of_total_income": 0.0008312905877418075
+    },
+    {
+      "lower": 770000,
+      "upper": 779999,
+      "num_returns": 13406.36,
+      "avg_income": 776135.2553429864,
+      "median_income": 775928.0,
+      "share_of_total_income": 0.0006744957289538282
+    },
+    {
+      "lower": 780000,
+      "upper": 789999,
+      "num_returns": 15082.33,
+      "avg_income": 787455.1427750222,
+      "median_income": 787549.5,
+      "share_of_total_income": 0.0007698837939967891
+    },
+    {
+      "lower": 790000,
+      "upper": 799999,
+      "num_returns": 22306.21,
+      "avg_income": 793953.8897383285,
+      "median_income": 793630.0,
+      "share_of_total_income": 0.001148026683802616
+    },
+    {
+      "lower": 800000,
+      "upper": 809999,
+      "num_returns": 24332.43,
+      "avg_income": 805177.6296313192,
+      "median_income": 805811.0,
+      "share_of_total_income": 0.0012700128006184477
+    },
+    {
+      "lower": 810000,
+      "upper": 819999,
+      "num_returns": 22888.6,
+      "avg_income": 815230.2369341068,
+      "median_income": 816073.0,
+      "share_of_total_income": 0.0012095683770682094
+    },
+    {
+      "lower": 820000,
+      "upper": 829999,
+      "num_returns": 20552.45,
+      "avg_income": 823102.6528876119,
+      "median_income": 821896.0,
+      "share_of_total_income": 0.0010966006957006467
+    },
+    {
+      "lower": 830000,
+      "upper": 839999,
+      "num_returns": 27050.61,
+      "avg_income": 835133.0231022516,
+      "median_income": 836725.0,
+      "share_of_total_income": 0.001464413201643212
+    },
+    {
+      "lower": 840000,
+      "upper": 849999,
+      "num_returns": 11835.48,
+      "avg_income": 848609.8630583636,
+      "median_income": 848176.5,
+      "share_of_total_income": 0.000651065775262797
+    },
+    {
+      "lower": 850000,
+      "upper": 859999,
+      "num_returns": 20099.96,
+      "avg_income": 854928.9096167355,
+      "median_income": 855015.5,
+      "share_of_total_income": 0.001113925411819886
+    },
+    {
+      "lower": 860000,
+      "upper": 869999,
+      "num_returns": 15523.01,
+      "avg_income": 865604.343117733,
+      "median_income": 867611.0,
+      "share_of_total_income": 0.0008710162940040924
+    },
+    {
+      "lower": 870000,
+      "upper": 879999,
+      "num_returns": 12925.68,
+      "avg_income": 874362.8975434948,
+      "median_income": 874506.0,
+      "share_of_total_income": 0.0007326153870063118
+    },
+    {
+      "lower": 880000,
+      "upper": 889999,
+      "num_returns": 9546.75,
+      "avg_income": 882586.4007478985,
+      "median_income": 883281.5,
+      "share_of_total_income": 0.000546189939669468
+    },
+    {
+      "lower": 890000,
+      "upper": 899999,
+      "num_returns": 24798.19,
+      "avg_income": 894636.0761716883,
+      "median_income": 894999.0,
+      "share_of_total_income": 0.0014381272172287283
+    },
+    {
+      "lower": 900000,
+      "upper": 909999,
+      "num_returns": 28929.3,
+      "avg_income": 901943.2895213502,
+      "median_income": 901780.0,
+      "share_of_total_income": 0.0016914067999337105
+    },
+    {
+      "lower": 910000,
+      "upper": 919999,
+      "num_returns": 10517.99,
+      "avg_income": 916448.7998210684,
+      "median_income": 917505.0,
+      "share_of_total_income": 0.0006248443910131108
+    },
+    {
+      "lower": 920000,
+      "upper": 929999,
+      "num_returns": 9857.91,
+      "avg_income": 923925.7825837322,
+      "median_income": 923710.0,
+      "share_of_total_income": 0.0005904088389281106
+    },
+    {
+      "lower": 930000,
+      "upper": 939999,
+      "num_returns": 5675.83,
+      "avg_income": 936892.8664847257,
+      "median_income": 936764.0,
+      "share_of_total_income": 0.00034470709839414345
+    },
+    {
+      "lower": 940000,
+      "upper": 949999,
+      "num_returns": 12358.060000000001,
+      "avg_income": 947109.1002916315,
+      "median_income": 948717.0,
+      "share_of_total_income": 0.0007587194619139832
+    },
+    {
+      "lower": 950000,
+      "upper": 959999,
+      "num_returns": 10347.76,
+      "avg_income": 957090.1667114429,
+      "median_income": 956845.0,
+      "share_of_total_income": 0.0006419927401140488
+    },
+    {
+      "lower": 960000,
+      "upper": 969999,
+      "num_returns": 9001.84,
+      "avg_income": 964575.2176377273,
+      "median_income": 963750.5,
+      "share_of_total_income": 0.0005628573017068002
+    },
+    {
+      "lower": 970000,
+      "upper": 979999,
+      "num_returns": 6825.21,
+      "avg_income": 974846.7454349388,
+      "median_income": 974097.0,
+      "share_of_total_income": 0.0004313037953573335
+    },
+    {
+      "lower": 980000,
+      "upper": 989999,
+      "num_returns": 975.71,
+      "avg_income": 984943.8620491744,
+      "median_income": 985769.5,
+      "share_of_total_income": 6.229642857815253e-05
+    },
+    {
+      "lower": 990000,
+      "upper": 999999,
+      "num_returns": 14293.06,
+      "avg_income": 994275.1694199844,
+      "median_income": 990769.5,
+      "share_of_total_income": 0.0009212186588189629
+    },
+    {
+      "lower": 1000000,
+      "upper": 1009999,
+      "num_returns": 22793.22,
+      "avg_income": 1002975.8031862108,
+      "median_income": 1002205.0,
+      "share_of_total_income": 0.0014819278280790533
+    },
+    {
+      "lower": 1010000,
+      "upper": 1019999,
+      "num_returns": 15103.56,
+      "avg_income": 1015366.7652268737,
+      "median_income": 1014930.0,
+      "share_of_total_income": 0.0009941071205486142
+    },
+    {
+      "lower": 1020000,
+      "upper": 1029999,
+      "num_returns": 12713.85,
+      "avg_income": 1023405.2115716324,
+      "median_income": 1021915.0,
+      "share_of_total_income": 0.0008434427758047666
+    },
+    {
+      "lower": 1030000,
+      "upper": 1039999,
+      "num_returns": 8879.66,
+      "avg_income": 1030519.7072523048,
+      "median_income": 1031080.0,
+      "share_of_total_income": 0.0005931759764553407
+    },
+    {
+      "lower": 1040000,
+      "upper": 1049999,
+      "num_returns": 27003.96,
+      "avg_income": 1044606.9118207108,
+      "median_income": 1043059.0,
+      "share_of_total_income": 0.00182856863612697
+    },
+    {
+      "lower": 1050000,
+      "upper": 1059999,
+      "num_returns": 7008.25,
+      "avg_income": 1056460.800526522,
+      "median_income": 1054674.5,
+      "share_of_total_income": 0.00047994767083106316
+    },
+    {
+      "lower": 1060000,
+      "upper": 1069999,
+      "num_returns": 12485.48,
+      "avg_income": 1062807.5169156492,
+      "median_income": 1062381.0,
+      "share_of_total_income": 0.0008601828430583329
+    },
+    {
+      "lower": 1070000,
+      "upper": 1079999,
+      "num_returns": 4365.09,
+      "avg_income": 1075764.2898840574,
+      "median_income": 1074809.5,
+      "share_of_total_income": 0.0003043976123102397
+    },
+    {
+      "lower": 1080000,
+      "upper": 1089999,
+      "num_returns": 14100.130000000001,
+      "avg_income": 1081994.0965445,
+      "median_income": 1082045.5,
+      "share_of_total_income": 0.0009889604487336027
+    },
+    {
+      "lower": 1090000,
+      "upper": 1099999,
+      "num_returns": 53697.04,
+      "avg_income": 1098426.3961633637,
+      "median_income": 1099999.0,
+      "share_of_total_income": 0.0038234218913638604
+    },
+    {
+      "lower": 1100000,
+      "upper": 1109999,
+      "num_returns": 34834.479999999996,
+      "avg_income": 1103622.3081831567,
+      "median_income": 1102034.0,
+      "share_of_total_income": 0.0024920727580409583
+    },
+    {
+      "lower": 1110000,
+      "upper": 1119999,
+      "num_returns": 35790.21,
+      "avg_income": 1114128.8695517576,
+      "median_income": 1114999.0,
+      "share_of_total_income": 0.0025848216931615075
+    },
+    {
+      "lower": 1120000,
+      "upper": 1129999,
+      "num_returns": 10251.89,
+      "avg_income": 1123542.4828738896,
+      "median_income": 1123499.0,
+      "share_of_total_income": 0.0007466625194324705
+    },
+    {
+      "lower": 1130000,
+      "upper": 1139999,
+      "num_returns": 28795.34,
+      "avg_income": 1134337.0934856127,
+      "median_income": 1133592.5,
+      "share_of_total_income": 0.0021173627095056554
+    },
+    {
+      "lower": 1140000,
+      "upper": 1149999,
+      "num_returns": 20191.62,
+      "avg_income": 1145660.6358860757,
+      "median_income": 1145000.0,
+      "share_of_total_income": 0.001499540055111371
+    },
+    {
+      "lower": 1150000,
+      "upper": 1159999,
+      "num_returns": 15392.09,
+      "avg_income": 1156249.329553686,
+      "median_income": 1156706.0,
+      "share_of_total_income": 0.0011536657601555907
+    },
+    {
+      "lower": 1160000,
+      "upper": 1169999,
+      "num_returns": 19402.83,
+      "avg_income": 1164703.230354541,
+      "median_income": 1164499.0,
+      "share_of_total_income": 0.0014649111138868183
+    },
+    {
+      "lower": 1170000,
+      "upper": 1179999,
+      "num_returns": 21350.52,
+      "avg_income": 1174300.0504184442,
+      "median_income": 1175636.5,
+      "share_of_total_income": 0.0016252435521461647
+    },
+    {
+      "lower": 1180000,
+      "upper": 1189999,
+      "num_returns": 2016.55,
+      "avg_income": 1183692.466995611,
+      "median_income": 1182706.0,
+      "share_of_total_income": 0.000154731520705273
+    },
+    {
+      "lower": 1190000,
+      "upper": 1199999,
+      "num_returns": 3795.0,
+      "avg_income": 1199201.0,
+      "median_income": 1199201.0,
+      "share_of_total_income": 0.0002950086006457093
+    },
+    {
+      "lower": 1200000,
+      "upper": 1209999,
+      "num_returns": 9392.05,
+      "avg_income": 1203084.303140422,
+      "median_income": 1203975.0,
+      "share_of_total_income": 0.0007324658340112002
+    },
+    {
+      "lower": 1210000,
+      "upper": 1219999,
+      "num_returns": 3540.4800000000005,
+      "avg_income": 1216146.859713937,
+      "median_income": 1215363.0,
+      "share_of_total_income": 0.0002791123693658461
+    },
+    {
+      "lower": 1220000,
+      "upper": 1229999,
+      "num_returns": 16644.62,
+      "avg_income": 1224244.9286784558,
+      "median_income": 1224406.5,
+      "share_of_total_income": 0.0013209096518020406
+    },
+    {
+      "lower": 1230000,
+      "upper": 1239999,
+      "num_returns": 9028.7,
+      "avg_income": 1236865.5342131206,
+      "median_income": 1236524.5,
+      "share_of_total_income": 0.0007239000822829534
+    },
+    {
+      "lower": 1240000,
+      "upper": 1249999,
+      "num_returns": 4063.18,
+      "avg_income": 1245645.2767290645,
+      "median_income": 1244690.5,
+      "share_of_total_income": 0.0003280887682170481
+    },
+    {
+      "lower": 1250000,
+      "upper": 1259999,
+      "num_returns": 11221.38,
+      "avg_income": 1255258.5532857813,
+      "median_income": 1255014.0,
+      "share_of_total_income": 0.0009130832462150331
+    },
+    {
+      "lower": 1260000,
+      "upper": 1269999,
+      "num_returns": 9727.76,
+      "avg_income": 1265664.5150682172,
+      "median_income": 1266767.0,
+      "share_of_total_income": 0.0007981092912915364
+    },
+    {
+      "lower": 1270000,
+      "upper": 1279999,
+      "num_returns": 1286.3200000000002,
+      "avg_income": 1277119.8614341686,
+      "median_income": 1277199.0,
+      "share_of_total_income": 0.00010649067907926491
+    },
+    {
+      "lower": 1280000,
+      "upper": 1289999,
+      "num_returns": 5616.25,
+      "avg_income": 1282995.7645047854,
+      "median_income": 1285241.5,
+      "share_of_total_income": 0.0004670921510960541
+    },
+    {
+      "lower": 1290000,
+      "upper": 1299999,
+      "num_returns": 3232.2,
+      "avg_income": 1295000.0,
+      "median_income": 1295000.0,
+      "share_of_total_income": 0.0002713306840076518
+    },
+    {
+      "lower": 1300000,
+      "upper": 1309999,
+      "num_returns": 1898.13,
+      "avg_income": 1305508.0,
+      "median_income": 1305508.0,
+      "share_of_total_income": 0.00016063360499289658
+    },
+    {
+      "lower": 1310000,
+      "upper": 1319999,
+      "num_returns": 4847.76,
+      "avg_income": 1311304.5577751372,
+      "median_income": 1311262.5,
+      "share_of_total_income": 0.00041207436391929835
+    },
+    {
+      "lower": 1320000,
+      "upper": 1329999,
+      "num_returns": 2680.53,
+      "avg_income": 1320508.0,
+      "median_income": 1320508.0,
+      "share_of_total_income": 0.00022945241026445275
+    },
+    {
+      "lower": 1330000,
+      "upper": 1339999,
+      "num_returns": 2911.25,
+      "avg_income": 1333544.0,
+      "median_income": 1333544.0,
+      "share_of_total_income": 0.0002516620712022785
+    },
+    {
+      "lower": 1340000,
+      "upper": 1349999,
+      "num_returns": 5242.4400000000005,
+      "avg_income": 1343403.38297434,
+      "median_income": 1340550.0,
+      "share_of_total_income": 0.00045653157671364525
+    },
+    {
+      "lower": 1360000,
+      "upper": 1369999,
+      "num_returns": 3229.96,
+      "avg_income": 1364072.0,
+      "median_income": 1364072.0,
+      "share_of_total_income": 0.0002856047023989333
+    },
+    {
+      "lower": 1380000,
+      "upper": 1389999,
+      "num_returns": 2110.06,
+      "avg_income": 1381157.0,
+      "median_income": 1381157.0,
+      "share_of_total_income": 0.00018891601191792335
+    },
+    {
+      "lower": 1390000,
+      "upper": 1399999,
+      "num_returns": 4668.9800000000005,
+      "avg_income": 1395282.0851920547,
+      "median_income": 1397014.0,
+      "share_of_total_income": 0.000422294035058447
+    },
+    {
+      "lower": 1410000,
+      "upper": 1419999,
+      "num_returns": 8708.2,
+      "avg_income": 1412998.4607726051,
+      "median_income": 1412956.5,
+      "share_of_total_income": 0.0007976291163766033
+    },
+    {
+      "lower": 1420000,
+      "upper": 1429999,
+      "num_returns": 4373.3,
+      "avg_income": 1421318.0,
+      "median_income": 1421318.0,
+      "share_of_total_income": 0.00040293170501258475
+    },
+    {
+      "lower": 1430000,
+      "upper": 1439999,
+      "num_returns": 3570.86,
+      "avg_income": 1434101.0000000002,
+      "median_income": 1434101.0,
+      "share_of_total_income": 0.00033195825839850266
+    },
+    {
+      "lower": 1440000,
+      "upper": 1449999,
+      "num_returns": 5671.55,
+      "avg_income": 1441972.0,
+      "median_income": 1441972.0,
+      "share_of_total_income": 0.000530138698869413
+    },
+    {
+      "lower": 1450000,
+      "upper": 1459999,
+      "num_returns": 973.24,
+      "avg_income": 1458499.0,
+      "median_income": 1458499.0,
+      "share_of_total_income": 9.20146547749936e-05
+    },
+    {
+      "lower": 1500000,
+      "upper": 1509999,
+      "num_returns": 5662.700000000001,
+      "avg_income": 1509561.1583343633,
+      "median_income": 1509489.0,
+      "share_of_total_income": 0.000554121730827168
+    },
+    {
+      "lower": 1520000,
+      "upper": 1529999,
+      "num_returns": 1832.33,
+      "avg_income": 1521745.0,
+      "median_income": 1521745.0,
+      "share_of_total_income": 0.00018074924461023193
+    },
+    {
+      "lower": 1530000,
+      "upper": 1539999,
+      "num_returns": 10540.39,
+      "avg_income": 1537983.1180117624,
+      "median_income": 1538799.0,
+      "share_of_total_income": 0.0010508462142082462
+    },
+    {
+      "lower": 1540000,
+      "upper": 1549999,
+      "num_returns": 2918.22,
+      "avg_income": 1546964.9999999998,
+      "median_income": 1546965.0,
+      "share_of_total_income": 0.0002926371326469955
+    },
+    {
+      "lower": 1550000,
+      "upper": 1559999,
+      "num_returns": 2652.46,
+      "avg_income": 1552500.0,
+      "median_income": 1552500.0,
+      "share_of_total_income": 0.0002669385932731446
+    },
+    {
+      "lower": 1580000,
+      "upper": 1589999,
+      "num_returns": 1761.12,
+      "avg_income": 1586999.0,
+      "median_income": 1586999.0,
+      "share_of_total_income": 0.00018117426892868806
+    },
+    {
+      "lower": 1590000,
+      "upper": 1599999,
+      "num_returns": 423.35,
+      "avg_income": 1592004.0000000002,
+      "median_income": 1592004.0,
+      "share_of_total_income": 4.3689254490159524e-05
+    },
+    {
+      "lower": 1600000,
+      "upper": 1609999,
+      "num_returns": 294.45,
+      "avg_income": 1605377.0,
+      "median_income": 1605377.0,
+      "share_of_total_income": 3.064216949924487e-05
+    },
+    {
+      "lower": 1670000,
+      "upper": 1679999,
+      "num_returns": 4114.78,
+      "avg_income": 1672866.0,
+      "median_income": 1672866.0,
+      "share_of_total_income": 0.00044620937432521116
+    },
+    {
+      "lower": 1680000,
+      "upper": 1689999,
+      "num_returns": 3462.19,
+      "avg_income": 1681000.0,
+      "median_income": 1681000.0,
+      "share_of_total_income": 0.00037726761485552205
+    },
+    {
+      "lower": 1710000,
+      "upper": 1719999,
+      "num_returns": 498.09,
+      "avg_income": 1716389.0,
+      "median_income": 1716389.0,
+      "share_of_total_income": 5.541846093184046e-05
+    },
+    {
+      "lower": 1720000,
+      "upper": 1729999,
+      "num_returns": 3134.86,
+      "avg_income": 1729998.0000000002,
+      "median_income": 1729998.0,
+      "share_of_total_income": 0.00035155612331192886
+    },
+    {
+      "lower": 1740000,
+      "upper": 1749999,
+      "num_returns": 1015.58,
+      "avg_income": 1744529.0,
+      "median_income": 1744529.0,
+      "share_of_total_income": 0.00011484795017677346
+    },
+    {
+      "lower": 2000000,
+      "upper": null,
+      "num_returns": 26235.88,
+      "avg_income": 2157949.221346492,
+      "median_income": 2199998.0,
+      "share_of_total_income": 0.003670014433197107
+    }
+  ],
+  "bins_by_year": {
+    "2022": [
+      {
+        "lower": 0,
+        "upper": 9999,
+        "num_returns": 13371067.56,
+        "avg_income": 2767.4205422158525,
+        "median_income": 600.0,
+        "share_of_total_income": 0.002704921853925003
+      },
+      {
+        "lower": 10000,
+        "upper": 19999,
+        "num_returns": 14128331.96,
+        "avg_income": 14771.679278046207,
+        "median_income": 14839.5,
+        "share_of_total_income": 0.015255773756033264
+      },
+      {
+        "lower": 20000,
+        "upper": 29999,
+        "num_returns": 14242981.25,
+        "avg_income": 24550.151332501402,
+        "median_income": 25000.0,
+        "share_of_total_income": 0.025560453524626763
+      },
+      {
+        "lower": 30000,
+        "upper": 39999,
+        "num_returns": 13515625.01,
+        "avg_income": 34298.39839379133,
+        "median_income": 34550.0,
+        "share_of_total_income": 0.03388624555536787
+      },
+      {
+        "lower": 40000,
+        "upper": 49999,
+        "num_returns": 11966844.18,
+        "avg_income": 44242.073857941716,
+        "median_income": 44400.0,
+        "share_of_total_income": 0.038701570752924706
+      },
+      {
+        "lower": 50000,
+        "upper": 59999,
+        "num_returns": 11148468.55,
+        "avg_income": 54004.70103808383,
+        "median_income": 54004.0,
+        "share_of_total_income": 0.04401090088503838
+      },
+      {
+        "lower": 60000,
+        "upper": 69999,
+        "num_returns": 9254940.35,
+        "avg_income": 64097.186143711886,
+        "median_income": 64053.0,
+        "share_of_total_income": 0.04336367368618302
+      },
+      {
+        "lower": 70000,
+        "upper": 79999,
+        "num_returns": 8088781.09,
+        "avg_income": 74320.12498365065,
+        "median_income": 74580.0,
+        "share_of_total_income": 0.04394434469984917
+      },
+      {
+        "lower": 80000,
+        "upper": 89999,
+        "num_returns": 6788118.35,
+        "avg_income": 84220.0969769303,
+        "median_income": 84356.0,
+        "share_of_total_income": 0.041790601489168994
+      },
+      {
+        "lower": 90000,
+        "upper": 99999,
+        "num_returns": 5435042.33,
+        "avg_income": 94264.81604274093,
+        "median_income": 94332.0,
+        "share_of_total_income": 0.03745122558038216
+      },
+      {
+        "lower": 100000,
+        "upper": 109999,
+        "num_returns": 5629413.77,
+        "avg_income": 104028.79810921059,
+        "median_income": 104000.0,
+        "share_of_total_income": 0.042808521755892975
+      },
+      {
+        "lower": 110000,
+        "upper": 119999,
+        "num_returns": 4318550.09,
+        "avg_income": 114403.55073727768,
+        "median_income": 114572.0,
+        "share_of_total_income": 0.03611527651080733
+      },
+      {
+        "lower": 120000,
+        "upper": 129999,
+        "num_returns": 3876825.15,
+        "avg_income": 124340.2464544964,
+        "median_income": 124341.0,
+        "share_of_total_income": 0.035237202094869406
+      },
+      {
+        "lower": 130000,
+        "upper": 139999,
+        "num_returns": 3475721.34,
+        "avg_income": 134332.2619215987,
+        "median_income": 134311.5,
+        "share_of_total_income": 0.03413019402201917
+      },
+      {
+        "lower": 140000,
+        "upper": 149999,
+        "num_returns": 2917369.65,
+        "avg_income": 144293.9359166296,
+        "median_income": 144212.0,
+        "share_of_total_income": 0.030771808400763382
+      },
+      {
+        "lower": 150000,
+        "upper": 159999,
+        "num_returns": 2870239.68,
+        "avg_income": 154043.84763693326,
+        "median_income": 153969.5,
+        "share_of_total_income": 0.032320345971854555
+      },
+      {
+        "lower": 160000,
+        "upper": 169999,
+        "num_returns": 2197518.54,
+        "avg_income": 164375.6251131879,
+        "median_income": 164240.0,
+        "share_of_total_income": 0.02640483417780223
+      },
+      {
+        "lower": 170000,
+        "upper": 179999,
+        "num_returns": 2036605.8,
+        "avg_income": 174377.0240835659,
+        "median_income": 174254.5,
+        "share_of_total_income": 0.025960300614476118
+      },
+      {
+        "lower": 180000,
+        "upper": 189999,
+        "num_returns": 1868850.5,
+        "avg_income": 184440.7203333386,
+        "median_income": 184788.5,
+        "share_of_total_income": 0.025196768740435145
+      },
+      {
+        "lower": 190000,
+        "upper": 199999,
+        "num_returns": 1335888.83,
+        "avg_income": 194635.76428783376,
+        "median_income": 195010.0,
+        "share_of_total_income": 0.019006687861169644
+      },
+      {
+        "lower": 200000,
+        "upper": 209999,
+        "num_returns": 1730623.27,
+        "avg_income": 203906.7635784766,
+        "median_income": 203780.0,
+        "share_of_total_income": 0.025795719731359506
+      },
+      {
+        "lower": 210000,
+        "upper": 219999,
+        "num_returns": 1234082.58,
+        "avg_income": 214328.69897056645,
+        "median_income": 214370.5,
+        "share_of_total_income": 0.019334726310584995
+      },
+      {
+        "lower": 220000,
+        "upper": 229999,
+        "num_returns": 1064740.11,
+        "avg_income": 224395.87181046465,
+        "median_income": 224038.5,
+        "share_of_total_income": 0.017465135402389174
+      },
+      {
+        "lower": 230000,
+        "upper": 239999,
+        "num_returns": 962458.58,
+        "avg_income": 234535.98624273262,
+        "median_income": 234269.5,
+        "share_of_total_income": 0.01650080060006996
+      },
+      {
+        "lower": 240000,
+        "upper": 249999,
+        "num_returns": 815421.56,
+        "avg_income": 244768.0132762617,
+        "median_income": 245000.0,
+        "share_of_total_income": 0.014589833380192905
+      },
+      {
+        "lower": 250000,
+        "upper": 259999,
+        "num_returns": 920572.49,
+        "avg_income": 254051.3380216261,
+        "median_income": 253703.5,
+        "share_of_total_income": 0.01709593894912215
+      },
+      {
+        "lower": 260000,
+        "upper": 269999,
+        "num_returns": 623719.24,
+        "avg_income": 264494.2832350017,
+        "median_income": 264684.0,
+        "share_of_total_income": 0.012059211439435575
+      },
+      {
+        "lower": 270000,
+        "upper": 279999,
+        "num_returns": 656339.59,
+        "avg_income": 274657.20510964456,
+        "median_income": 275061.0,
+        "share_of_total_income": 0.013177501582274289
+      },
+      {
+        "lower": 280000,
+        "upper": 289999,
+        "num_returns": 508284.39,
+        "avg_income": 284462.7207459391,
+        "median_income": 284732.5,
+        "share_of_total_income": 0.010569285053424806
+      },
+      {
+        "lower": 290000,
+        "upper": 299999,
+        "num_returns": 484616.44,
+        "avg_income": 294374.0025216643,
+        "median_income": 294929.0,
+        "share_of_total_income": 0.010428241377956378
+      },
+      {
+        "lower": 300000,
+        "upper": 309999,
+        "num_returns": 605959.52,
+        "avg_income": 303974.6655590459,
+        "median_income": 303338.0,
+        "share_of_total_income": 0.013464631787880297
+      },
+      {
+        "lower": 310000,
+        "upper": 319999,
+        "num_returns": 348412.75,
+        "avg_income": 314466.31478345726,
+        "median_income": 314893.0,
+        "share_of_total_income": 0.008009061893290119
+      },
+      {
+        "lower": 320000,
+        "upper": 329999,
+        "num_returns": 306657.44,
+        "avg_income": 324248.2489130868,
+        "median_income": 324604.0,
+        "share_of_total_income": 0.007268497148912908
+      },
+      {
+        "lower": 330000,
+        "upper": 339999,
+        "num_returns": 265944.24,
+        "avg_income": 334260.04223746294,
+        "median_income": 333600.0,
+        "share_of_total_income": 0.006498132034388318
+      },
+      {
+        "lower": 340000,
+        "upper": 349999,
+        "num_returns": 247044.01,
+        "avg_income": 344391.91989613516,
+        "median_income": 344420.0,
+        "share_of_total_income": 0.006219289324331338
+      },
+      {
+        "lower": 350000,
+        "upper": 359999,
+        "num_returns": 276672.6,
+        "avg_income": 354411.7389123101,
+        "median_income": 354153.0,
+        "share_of_total_income": 0.007167830532085287
+      },
+      {
+        "lower": 360000,
+        "upper": 369999,
+        "num_returns": 173617.02,
+        "avg_income": 364234.347058543,
+        "median_income": 364117.5,
+        "share_of_total_income": 0.004622603820676787
+      },
+      {
+        "lower": 370000,
+        "upper": 379999,
+        "num_returns": 233377.27,
+        "avg_income": 374560.5328987265,
+        "median_income": 374481.0,
+        "share_of_total_income": 0.006389899809674846
+      },
+      {
+        "lower": 380000,
+        "upper": 389999,
+        "num_returns": 168491.23,
+        "avg_income": 384764.6809971652,
+        "median_income": 384281.0,
+        "share_of_total_income": 0.004738992043744387
+      },
+      {
+        "lower": 390000,
+        "upper": 399999,
+        "num_returns": 157424.95,
+        "avg_income": 394272.7751581944,
+        "median_income": 394001.5,
+        "share_of_total_income": 0.004537157266384394
+      },
+      {
+        "lower": 400000,
+        "upper": 409999,
+        "num_returns": 175895.16,
+        "avg_income": 403468.0849766987,
+        "median_income": 403300.0,
+        "share_of_total_income": 0.0051877203343486744
+      },
+      {
+        "lower": 410000,
+        "upper": 419999,
+        "num_returns": 163216.08,
+        "avg_income": 414927.2493424054,
+        "median_income": 414835.5,
+        "share_of_total_income": 0.004950492185581298
+      },
+      {
+        "lower": 420000,
+        "upper": 429999,
+        "num_returns": 121062.07,
+        "avg_income": 424973.0683123128,
+        "median_income": 424900.5,
+        "share_of_total_income": 0.003760823770943104
+      },
+      {
+        "lower": 430000,
+        "upper": 439999,
+        "num_returns": 126920.78,
+        "avg_income": 434293.783989509,
+        "median_income": 434276.0,
+        "share_of_total_income": 0.00402930205225148
+      },
+      {
+        "lower": 440000,
+        "upper": 449999,
+        "num_returns": 100813.76,
+        "avg_income": 444739.4201370925,
+        "median_income": 444047.0,
+        "share_of_total_income": 0.003277471451243521
+      },
+      {
+        "lower": 450000,
+        "upper": 459999,
+        "num_returns": 120965.06,
+        "avg_income": 455068.7251484852,
+        "median_income": 454913.0,
+        "share_of_total_income": 0.00402392996893692
+      },
+      {
+        "lower": 460000,
+        "upper": 469999,
+        "num_returns": 89026.53,
+        "avg_income": 464396.9551203444,
+        "median_income": 464202.0,
+        "share_of_total_income": 0.0030221936513384205
+      },
+      {
+        "lower": 470000,
+        "upper": 479999,
+        "num_returns": 81290.95,
+        "avg_income": 474300.45538414805,
+        "median_income": 474061.0,
+        "share_of_total_income": 0.002818442764209782
+      },
+      {
+        "lower": 480000,
+        "upper": 489999,
+        "num_returns": 46675.15,
+        "avg_income": 484713.3971413055,
+        "median_income": 484004.0,
+        "share_of_total_income": 0.0016538047121339538
+      },
+      {
+        "lower": 490000,
+        "upper": 499999,
+        "num_returns": 54819.34,
+        "avg_income": 495504.97307282424,
+        "median_income": 495683.0,
+        "share_of_total_income": 0.0019856161629133394
+      },
+      {
+        "lower": 500000,
+        "upper": 509999,
+        "num_returns": 94053.37,
+        "avg_income": 503768.8046657977,
+        "median_income": 504100.0,
+        "share_of_total_income": 0.0034635312563600085
+      },
+      {
+        "lower": 510000,
+        "upper": 519999,
+        "num_returns": 85458.46,
+        "avg_income": 514999.87582411367,
+        "median_income": 514265.5,
+        "share_of_total_income": 0.003217182264690112
+      },
+      {
+        "lower": 520000,
+        "upper": 529999,
+        "num_returns": 48485.55,
+        "avg_income": 524388.5907842647,
+        "median_income": 523534.0,
+        "share_of_total_income": 0.0018585705007585279
+      },
+      {
+        "lower": 530000,
+        "upper": 539999,
+        "num_returns": 51733.32,
+        "avg_income": 535036.7076773732,
+        "median_income": 533834.0,
+        "share_of_total_income": 0.0020233332035875006
+      },
+      {
+        "lower": 540000,
+        "upper": 549999,
+        "num_returns": 48543.53,
+        "avg_income": 544727.5923364039,
+        "median_income": 543920.0,
+        "share_of_total_income": 0.0019329659678862265
+      },
+      {
+        "lower": 550000,
+        "upper": 559999,
+        "num_returns": 62739.04,
+        "avg_income": 553790.9044803682,
+        "median_income": 552796.0,
+        "share_of_total_income": 0.002539786245249788
+      },
+      {
+        "lower": 560000,
+        "upper": 569999,
+        "num_returns": 56874.66,
+        "avg_income": 564039.0059212663,
+        "median_income": 563965.0,
+        "share_of_total_income": 0.0023449923547981697
+      },
+      {
+        "lower": 570000,
+        "upper": 579999,
+        "num_returns": 33097.340000000004,
+        "avg_income": 573992.1708584436,
+        "median_income": 573857.0,
+        "share_of_total_income": 0.0013887131224521933
+      },
+      {
+        "lower": 580000,
+        "upper": 589999,
+        "num_returns": 34250.62,
+        "avg_income": 584510.1202392833,
+        "median_income": 584991.5,
+        "share_of_total_income": 0.0014634367322219686
+      },
+      {
+        "lower": 590000,
+        "upper": 599999,
+        "num_returns": 52744.49,
+        "avg_income": 594497.7590658283,
+        "median_income": 594034.0,
+        "share_of_total_income": 0.0022921381972301367
+      },
+      {
+        "lower": 600000,
+        "upper": 609999,
+        "num_returns": 53186.71,
+        "avg_income": 602573.7141889393,
+        "median_income": 602020.0,
+        "share_of_total_income": 0.002342754542775174
+      },
+      {
+        "lower": 610000,
+        "upper": 619999,
+        "num_returns": 53128.1,
+        "avg_income": 614109.3721081688,
+        "median_income": 613322.0,
+        "share_of_total_income": 0.0023849731231147977
+      },
+      {
+        "lower": 620000,
+        "upper": 629999,
+        "num_returns": 29972.99,
+        "avg_income": 624384.1759844446,
+        "median_income": 625500.0,
+        "share_of_total_income": 0.0013680294164986856
+      },
+      {
+        "lower": 630000,
+        "upper": 639999,
+        "num_returns": 28718.11,
+        "avg_income": 634591.0244476394,
+        "median_income": 634000.0,
+        "share_of_total_income": 0.0013321810729507975
+      },
+      {
+        "lower": 640000,
+        "upper": 649999,
+        "num_returns": 38505.23,
+        "avg_income": 644615.5128350097,
+        "median_income": 643103.0,
+        "share_of_total_income": 0.0018144038292983958
+      },
+      {
+        "lower": 650000,
+        "upper": 659999,
+        "num_returns": 33195.43,
+        "avg_income": 654939.4899966652,
+        "median_income": 654891.0,
+        "share_of_total_income": 0.0015892526899674536
+      },
+      {
+        "lower": 660000,
+        "upper": 669999,
+        "num_returns": 27954.06,
+        "avg_income": 663452.4371676242,
+        "median_income": 663693.0,
+        "share_of_total_income": 0.0013557142656971967
+      },
+      {
+        "lower": 670000,
+        "upper": 679999,
+        "num_returns": 32885.63,
+        "avg_income": 675050.7899413817,
+        "median_income": 676026.0,
+        "share_of_total_income": 0.0016227667300133177
+      },
+      {
+        "lower": 680000,
+        "upper": 689999,
+        "num_returns": 24276.28,
+        "avg_income": 682166.9095829345,
+        "median_income": 680617.0,
+        "share_of_total_income": 0.0012105598507809949
+      },
+      {
+        "lower": 690000,
+        "upper": 699999,
+        "num_returns": 7851.04,
+        "avg_income": 696703.4407785465,
+        "median_income": 693577.5,
+        "share_of_total_income": 0.000399842196567574
+      },
+      {
+        "lower": 700000,
+        "upper": 709999,
+        "num_returns": 20955.739999999998,
+        "avg_income": 703557.8254478249,
+        "median_income": 702700.0,
+        "share_of_total_income": 0.0010777456499481337
+      },
+      {
+        "lower": 710000,
+        "upper": 719999,
+        "num_returns": 10044.14,
+        "avg_income": 713725.4366287207,
+        "median_income": 713547.0,
+        "share_of_total_income": 0.0005240315217921671
+      },
+      {
+        "lower": 720000,
+        "upper": 729999,
+        "num_returns": 18554.14,
+        "avg_income": 724563.3894845033,
+        "median_income": 724884.0,
+        "share_of_total_income": 0.0009827220366175854
+      },
+      {
+        "lower": 730000,
+        "upper": 739999,
+        "num_returns": 26419.9,
+        "avg_income": 735738.8924352477,
+        "median_income": 736461.0,
+        "share_of_total_income": 0.0014209158635725189
+      },
+      {
+        "lower": 740000,
+        "upper": 749999,
+        "num_returns": 16793.21,
+        "avg_income": 745480.9014303995,
+        "median_income": 745583.5,
+        "share_of_total_income": 0.0009151319534875064
+      },
+      {
+        "lower": 750000,
+        "upper": 759999,
+        "num_returns": 28842.1,
+        "avg_income": 752691.8377094595,
+        "median_income": 751586.5,
+        "share_of_total_income": 0.001586929246178527
+      },
+      {
+        "lower": 760000,
+        "upper": 769999,
+        "num_returns": 11673.68,
+        "avg_income": 765244.1835213916,
+        "median_income": 765709.5,
+        "share_of_total_income": 0.0006530122084172141
+      },
+      {
+        "lower": 770000,
+        "upper": 779999,
+        "num_returns": 15174.44,
+        "avg_income": 774990.4067253883,
+        "median_income": 775384.0,
+        "share_of_total_income": 0.0008596516054359344
+      },
+      {
+        "lower": 780000,
+        "upper": 789999,
+        "num_returns": 6405.450000000001,
+        "avg_income": 781431.2148498544,
+        "median_income": 781292.0,
+        "share_of_total_income": 0.0003658928139834138
+      },
+      {
+        "lower": 790000,
+        "upper": 799999,
+        "num_returns": 13024.86,
+        "avg_income": 796491.163700032,
+        "median_income": 796780.5,
+        "share_of_total_income": 0.0007583461830746627
+      },
+      {
+        "lower": 800000,
+        "upper": 809999,
+        "num_returns": 21106.0,
+        "avg_income": 802368.8446830285,
+        "median_income": 801750.0,
+        "share_of_total_income": 0.00123792253844015
+      },
+      {
+        "lower": 810000,
+        "upper": 819999,
+        "num_returns": 15637.42,
+        "avg_income": 814797.6357301909,
+        "median_income": 813213.5,
+        "share_of_total_income": 0.0009313830718698791
+      },
+      {
+        "lower": 820000,
+        "upper": 829999,
+        "num_returns": 13207.53,
+        "avg_income": 824708.6329086511,
+        "median_income": 821518.0,
+        "share_of_total_income": 0.0007962246631031296
+      },
+      {
+        "lower": 830000,
+        "upper": 839999,
+        "num_returns": 10501.75,
+        "avg_income": 837537.5800290428,
+        "median_income": 836403.0,
+        "share_of_total_income": 0.000642953341087818
+      },
+      {
+        "lower": 840000,
+        "upper": 849999,
+        "num_returns": 14687.48,
+        "avg_income": 846227.535466261,
+        "median_income": 846046.0,
+        "share_of_total_income": 0.000908548091039272
+      },
+      {
+        "lower": 850000,
+        "upper": 859999,
+        "num_returns": 23486.91,
+        "avg_income": 855354.7301437269,
+        "median_income": 854032.0,
+        "share_of_total_income": 0.0014685394721660762
+      },
+      {
+        "lower": 860000,
+        "upper": 869999,
+        "num_returns": 11979.67,
+        "avg_income": 865131.87110079,
+        "median_income": 864153.0,
+        "share_of_total_income": 0.0007576011855436641
+      },
+      {
+        "lower": 870000,
+        "upper": 879999,
+        "num_returns": 8044.5599999999995,
+        "avg_income": 875499.5474693457,
+        "median_income": 875252.5,
+        "share_of_total_income": 0.0005148393109095188
+      },
+      {
+        "lower": 880000,
+        "upper": 889999,
+        "num_returns": 4197.48,
+        "avg_income": 884112.4418651192,
+        "median_income": 884448.0,
+        "share_of_total_income": 0.0002712749031082161
+      },
+      {
+        "lower": 890000,
+        "upper": 899999,
+        "num_returns": 10048.91,
+        "avg_income": 895353.0635362443,
+        "median_income": 895000.0,
+        "share_of_total_income": 0.0006576983612616121
+      },
+      {
+        "lower": 900000,
+        "upper": 909999,
+        "num_returns": 9499.05,
+        "avg_income": 903424.0453950659,
+        "median_income": 903216.5,
+        "share_of_total_income": 0.0006273144599411667
+      },
+      {
+        "lower": 910000,
+        "upper": 919999,
+        "num_returns": 12484.27,
+        "avg_income": 913199.7099341813,
+        "median_income": 912005.0,
+        "share_of_total_income": 0.0008333787008824589
+      },
+      {
+        "lower": 920000,
+        "upper": 929999,
+        "num_returns": 8390.54,
+        "avg_income": 923955.0909238262,
+        "median_income": 925010.0,
+        "share_of_total_income": 0.0005667013589601273
+      },
+      {
+        "lower": 930000,
+        "upper": 939999,
+        "num_returns": 2868.91,
+        "avg_income": 933760.9062954223,
+        "median_income": 933612.5,
+        "share_of_total_income": 0.00019582407821627578
+      },
+      {
+        "lower": 940000,
+        "upper": 949999,
+        "num_returns": 9253.51,
+        "avg_income": 943821.0502512018,
+        "median_income": 943323.0,
+        "share_of_total_income": 0.0006384246353888987
+      },
+      {
+        "lower": 950000,
+        "upper": 959999,
+        "num_returns": 12430.24,
+        "avg_income": 953775.9936453359,
+        "median_income": 951424.0,
+        "share_of_total_income": 0.0008666412974388107
+      },
+      {
+        "lower": 960000,
+        "upper": 969999,
+        "num_returns": 2631.39,
+        "avg_income": 967551.0,
+        "median_income": 967551.0,
+        "share_of_total_income": 0.00018611122395817108
+      },
+      {
+        "lower": 970000,
+        "upper": 979999,
+        "num_returns": 3945.63,
+        "avg_income": 975655.0236236037,
+        "median_income": 975729.0,
+        "share_of_total_income": 0.00028140131417000823
+      },
+      {
+        "lower": 980000,
+        "upper": 989999,
+        "num_returns": 10846.88,
+        "avg_income": 987478.9708192587,
+        "median_income": 987941.0,
+        "share_of_total_income": 0.0007829718901024413
+      },
+      {
+        "lower": 990000,
+        "upper": 999999,
+        "num_returns": 2077.5,
+        "avg_income": 991074.7021901323,
+        "median_income": 992068.0,
+        "share_of_total_income": 0.00015050845661458007
+      },
+      {
+        "lower": 1000000,
+        "upper": 1009999,
+        "num_returns": 35612.4,
+        "avg_income": 1004438.0964776314,
+        "median_income": 1004198.0,
+        "share_of_total_income": 0.00261479652001348
+      },
+      {
+        "lower": 1010000,
+        "upper": 1019999,
+        "num_returns": 16803.73,
+        "avg_income": 1014320.7428463801,
+        "median_income": 1014015.0,
+        "share_of_total_income": 0.0012459324034608684
+      },
+      {
+        "lower": 1020000,
+        "upper": 1029999,
+        "num_returns": 6334.66,
+        "avg_income": 1029073.3386085442,
+        "median_income": 1029100.0,
+        "share_of_total_income": 0.000476522175426395
+      },
+      {
+        "lower": 1030000,
+        "upper": 1039999,
+        "num_returns": 11015.69,
+        "avg_income": 1034866.5294965636,
+        "median_income": 1034621.0,
+        "share_of_total_income": 0.0008333156262049165
+      },
+      {
+        "lower": 1040000,
+        "upper": 1049999,
+        "num_returns": 11595.490000000002,
+        "avg_income": 1045492.9749402569,
+        "median_income": 1045077.0,
+        "share_of_total_income": 0.0008861835904290792
+      },
+      {
+        "lower": 1050000,
+        "upper": 1059999,
+        "num_returns": 5214.349999999999,
+        "avg_income": 1054782.530478391,
+        "median_income": 1055541.0,
+        "share_of_total_income": 0.00040204677819825885
+      },
+      {
+        "lower": 1060000,
+        "upper": 1069999,
+        "num_returns": 17186.94,
+        "avg_income": 1065254.087353537,
+        "median_income": 1067690.0,
+        "share_of_total_income": 0.0013383362744792218
+      },
+      {
+        "lower": 1070000,
+        "upper": 1079999,
+        "num_returns": 10247.7,
+        "avg_income": 1075776.9224791904,
+        "median_income": 1077164.5,
+        "share_of_total_income": 0.0008058646506413377
+      },
+      {
+        "lower": 1080000,
+        "upper": 1089999,
+        "num_returns": 6953.3,
+        "avg_income": 1085771.1231746078,
+        "median_income": 1087655.0,
+        "share_of_total_income": 0.0005518775577812669
+      },
+      {
+        "lower": 1090000,
+        "upper": 1099999,
+        "num_returns": 29324.58,
+        "avg_income": 1099513.296404245,
+        "median_income": 1099999.0,
+        "share_of_total_income": 0.00235692501370282
+      },
+      {
+        "lower": 1100000,
+        "upper": 1109999,
+        "num_returns": 70807.45,
+        "avg_income": 1103110.4181992149,
+        "median_income": 1102001.0,
+        "share_of_total_income": 0.005709675411687865
+      },
+      {
+        "lower": 1110000,
+        "upper": 1119999,
+        "num_returns": 18175.760000000002,
+        "avg_income": 1112723.7786595994,
+        "median_income": 1112205.5,
+        "share_of_total_income": 0.001478405016806022
+      },
+      {
+        "lower": 1120000,
+        "upper": 1129999,
+        "num_returns": 11800.77,
+        "avg_income": 1124763.5737998453,
+        "median_income": 1125031.0,
+        "share_of_total_income": 0.0009702531651055814
+      },
+      {
+        "lower": 1130000,
+        "upper": 1139999,
+        "num_returns": 16444.29,
+        "avg_income": 1136246.1728478395,
+        "median_income": 1135094.0,
+        "share_of_total_income": 0.0013658438129832706
+      },
+      {
+        "lower": 1140000,
+        "upper": 1149999,
+        "num_returns": 9960.9,
+        "avg_income": 1141635.13229929,
+        "median_income": 1142861.5,
+        "share_of_total_income": 0.0008312647882196658
+      },
+      {
+        "lower": 1150000,
+        "upper": 1159999,
+        "num_returns": 14729.890000000001,
+        "avg_income": 1154746.1264849908,
+        "median_income": 1154003.0,
+        "share_of_total_income": 0.0012433674589483205
+      },
+      {
+        "lower": 1160000,
+        "upper": 1169999,
+        "num_returns": 12336.33,
+        "avg_income": 1165282.1703780624,
+        "median_income": 1164449.0,
+        "share_of_total_income": 0.001050825393433668
+      },
+      {
+        "lower": 1170000,
+        "upper": 1179999,
+        "num_returns": 14104.7,
+        "avg_income": 1172678.2871113885,
+        "median_income": 1171524.5,
+        "share_of_total_income": 0.0012090832829551763
+      },
+      {
+        "lower": 1180000,
+        "upper": 1189999,
+        "num_returns": 2315.1099999999997,
+        "avg_income": 1184575.5860715043,
+        "median_income": 1184420.5,
+        "share_of_total_income": 0.0002004693063915075
+      },
+      {
+        "lower": 1190000,
+        "upper": 1199999,
+        "num_returns": 7880.18,
+        "avg_income": 1194152.9540023196,
+        "median_income": 1194968.0,
+        "share_of_total_income": 0.000687875076824982
+      },
+      {
+        "lower": 1200000,
+        "upper": 1209999,
+        "num_returns": 8655.15,
+        "avg_income": 1205040.5058988,
+        "median_income": 1205100.0,
+        "share_of_total_income": 0.000762412000470474
+      },
+      {
+        "lower": 1210000,
+        "upper": 1219999,
+        "num_returns": 13552.95,
+        "avg_income": 1216298.7075588708,
+        "median_income": 1214061.0,
+        "share_of_total_income": 0.0012050014252672542
+      },
+      {
+        "lower": 1220000,
+        "upper": 1229999,
+        "num_returns": 917.66,
+        "avg_income": 1220000.0,
+        "median_income": 1220000.0,
+        "share_of_total_income": 8.183801962986277e-05
+      },
+      {
+        "lower": 1240000,
+        "upper": 1249999,
+        "num_returns": 6672.700000000001,
+        "avg_income": 1243965.3404319093,
+        "median_income": 1244903.0,
+        "share_of_total_income": 0.0006067689645246984
+      },
+      {
+        "lower": 1250000,
+        "upper": 1259999,
+        "num_returns": 6803.73,
+        "avg_income": 1254043.6311435052,
+        "median_income": 1255377.0,
+        "share_of_total_income": 0.0006236963418391484
+      },
+      {
+        "lower": 1260000,
+        "upper": 1269999,
+        "num_returns": 3436.14,
+        "avg_income": 1267123.6551653892,
+        "median_income": 1267241.0,
+        "share_of_total_income": 0.0003182755871095122
+      },
+      {
+        "lower": 1280000,
+        "upper": 1289999,
+        "num_returns": 427.05,
+        "avg_income": 1285456.0000000002,
+        "median_income": 1285456.0,
+        "share_of_total_income": 4.0128176141484766e-05
+      },
+      {
+        "lower": 1290000,
+        "upper": 1299999,
+        "num_returns": 3205.27,
+        "avg_income": 1296399.0,
+        "median_income": 1296399.0,
+        "share_of_total_income": 0.00030375034880478224
+      },
+      {
+        "lower": 1300000,
+        "upper": 1309999,
+        "num_returns": 419.32,
+        "avg_income": 1300111.0,
+        "median_income": 1300111.0,
+        "share_of_total_income": 3.985102434443352e-05
+      },
+      {
+        "lower": 1310000,
+        "upper": 1319999,
+        "num_returns": 7702.47,
+        "avg_income": 1314642.7252335942,
+        "median_income": 1316085.5,
+        "share_of_total_income": 0.0007402036754258591
+      },
+      {
+        "lower": 1320000,
+        "upper": 1329999,
+        "num_returns": 10408.0,
+        "avg_income": 1322352.0278641433,
+        "median_income": 1322008.0,
+        "share_of_total_income": 0.001006069187733225
+      },
+      {
+        "lower": 1330000,
+        "upper": 1339999,
+        "num_returns": 2101.48,
+        "avg_income": 1337714.0,
+        "median_income": 1337714.0,
+        "share_of_total_income": 0.0002054953564366973
+      },
+      {
+        "lower": 1350000,
+        "upper": 1359999,
+        "num_returns": 7517.16,
+        "avg_income": 1356111.7176965768,
+        "median_income": 1355747.0,
+        "share_of_total_income": 0.0007451826623824285
+      },
+      {
+        "lower": 1360000,
+        "upper": 1369999,
+        "num_returns": 4081.84,
+        "avg_income": 1366540.4369377533,
+        "median_income": 1366140.5,
+        "share_of_total_income": 0.0004077480978818999
+      },
+      {
+        "lower": 1370000,
+        "upper": 1379999,
+        "num_returns": 2063.5,
+        "avg_income": 1378999.0,
+        "median_income": 1378999.0,
+        "share_of_total_income": 0.0002080088934438077
+      },
+      {
+        "lower": 1380000,
+        "upper": 1389999,
+        "num_returns": 2146.25,
+        "avg_income": 1387280.0,
+        "median_income": 1387280.0,
+        "share_of_total_income": 0.00021764961968085702
+      },
+      {
+        "lower": 1390000,
+        "upper": 1399999,
+        "num_returns": 2589.89,
+        "avg_income": 1399999.0,
+        "median_income": 1399999.0,
+        "share_of_total_income": 0.0002650467745039599
+      },
+      {
+        "lower": 1410000,
+        "upper": 1419999,
+        "num_returns": 11149.79,
+        "avg_income": 1416630.2335496903,
+        "median_income": 1416612.5,
+        "share_of_total_income": 0.001154613612046201
+      },
+      {
+        "lower": 1420000,
+        "upper": 1429999,
+        "num_returns": 1632.81,
+        "avg_income": 1425704.9999999998,
+        "median_income": 1425705.0,
+        "share_of_total_income": 0.00017016835610641985
+      },
+      {
+        "lower": 1430000,
+        "upper": 1439999,
+        "num_returns": 1099.35,
+        "avg_income": 1437426.0,
+        "median_income": 1437426.0,
+        "share_of_total_income": 0.00011551408863325904
+      },
+      {
+        "lower": 1450000,
+        "upper": 1459999,
+        "num_returns": 3087.97,
+        "avg_income": 1459618.910167521,
+        "median_income": 1458155.0,
+        "share_of_total_income": 0.00032947770554289966
+      },
+      {
+        "lower": 1460000,
+        "upper": 1469999,
+        "num_returns": 3203.41,
+        "avg_income": 1463096.914035356,
+        "median_income": 1464030.5,
+        "share_of_total_income": 0.00034260926286936566
+      },
+      {
+        "lower": 1490000,
+        "upper": 1499999,
+        "num_returns": 313.21,
+        "avg_income": 1498308.0,
+        "median_income": 1498308.0,
+        "share_of_total_income": 3.430442917880845e-05
+      },
+      {
+        "lower": 1510000,
+        "upper": 1519999,
+        "num_returns": 3520.63,
+        "avg_income": 1516100.0,
+        "median_income": 1516100.0,
+        "share_of_total_income": 0.0003901770423433751
+      },
+      {
+        "lower": 1520000,
+        "upper": 1529999,
+        "num_returns": 2996.31,
+        "avg_income": 1520649.0,
+        "median_income": 1520649.0,
+        "share_of_total_income": 0.00033306515812437564
+      },
+      {
+        "lower": 1600000,
+        "upper": 1609999,
+        "num_returns": 6398.59,
+        "avg_income": 1603337.5181672836,
+        "median_income": 1604310.5,
+        "share_of_total_income": 0.000749933436301253
+      },
+      {
+        "lower": 1640000,
+        "upper": 1649999,
+        "num_returns": 3907.94,
+        "avg_income": 1645824.0,
+        "median_income": 1645824.0,
+        "share_of_total_income": 0.0004701590038090578
+      },
+      {
+        "lower": 1650000,
+        "upper": 1659999,
+        "num_returns": 3189.29,
+        "avg_income": 1655054.0,
+        "median_income": 1655054.0,
+        "share_of_total_income": 0.0003858510252641025
+      },
+      {
+        "lower": 1670000,
+        "upper": 1679999,
+        "num_returns": 3281.59,
+        "avg_income": 1678000.0,
+        "median_income": 1678000.0,
+        "share_of_total_income": 0.0004025221236558888
+      },
+      {
+        "lower": 1710000,
+        "upper": 1719999,
+        "num_returns": 1339.48,
+        "avg_income": 1719161.0000000002,
+        "median_income": 1719161.0,
+        "share_of_total_income": 0.00016833183708035452
+      },
+      {
+        "lower": 1720000,
+        "upper": 1729999,
+        "num_returns": 4573.48,
+        "avg_income": 1725234.0,
+        "median_income": 1725234.0,
+        "share_of_total_income": 0.0005767774489701011
+      },
+      {
+        "lower": 1730000,
+        "upper": 1739999,
+        "num_returns": 416.64,
+        "avg_income": 1730921.9999999998,
+        "median_income": 1730922.0,
+        "share_of_total_income": 5.271715197353131e-05
+      },
+      {
+        "lower": 1930000,
+        "upper": 1939999,
+        "num_returns": 1910.09,
+        "avg_income": 1938125.0,
+        "median_income": 1938125.0,
+        "share_of_total_income": 0.00027061327281538574
+      },
+      {
+        "lower": 1950000,
+        "upper": 1959999,
+        "num_returns": 6018.02,
+        "avg_income": 1955938.9256898446,
+        "median_income": 1956139.0,
+        "share_of_total_income": 0.0008604435744116367
+      },
+      {
+        "lower": 2000000,
+        "upper": null,
+        "num_returns": 21248.329999999998,
+        "avg_income": 2220295.085206226,
+        "median_income": 2231614.5,
+        "share_of_total_income": 0.003448648879651997
+      }
+    ],
+    "2023": [
+      {
+        "lower": 0,
+        "upper": 9999,
+        "num_returns": 12737715.9,
+        "avg_income": 2407.830990500424,
+        "median_income": 20.0,
+        "share_of_total_income": 0.002148697728180532
+      },
+      {
+        "lower": 10000,
+        "upper": 19999,
+        "num_returns": 12375658.93,
+        "avg_income": 14741.117760490833,
+        "median_income": 15000.0,
+        "share_of_total_income": 0.012780755125508345
+      },
+      {
+        "lower": 20000,
+        "upper": 29999,
+        "num_returns": 13069230.27,
+        "avg_income": 24466.87589821156,
+        "median_income": 24615.0,
+        "share_of_total_income": 0.022401974353598086
+      },
+      {
+        "lower": 30000,
+        "upper": 39999,
+        "num_returns": 13298108.85,
+        "avg_income": 34151.73925021075,
+        "median_income": 34364.0,
+        "share_of_total_income": 0.03181709143675472
+      },
+      {
+        "lower": 40000,
+        "upper": 49999,
+        "num_returns": 11877401.56,
+        "avg_income": 44245.914207470814,
+        "median_income": 44404.0,
+        "share_of_total_income": 0.036817337543680224
+      },
+      {
+        "lower": 50000,
+        "upper": 59999,
+        "num_returns": 11478559.77,
+        "avg_income": 54016.517500573165,
+        "median_income": 54000.5,
+        "share_of_total_income": 0.04343819273310808
+      },
+      {
+        "lower": 60000,
+        "upper": 69999,
+        "num_returns": 9781029.94,
+        "avg_income": 64057.93750396493,
+        "median_income": 64030.5,
+        "share_of_total_income": 0.043895025566195005
+      },
+      {
+        "lower": 70000,
+        "upper": 79999,
+        "num_returns": 8321210.67,
+        "avg_income": 74261.85048539938,
+        "median_income": 74460.0,
+        "share_of_total_income": 0.04329223934529878
+      },
+      {
+        "lower": 80000,
+        "upper": 89999,
+        "num_returns": 7060855.56,
+        "avg_income": 84165.07555261192,
+        "median_income": 84268.0,
+        "share_of_total_income": 0.041633892036012726
+      },
+      {
+        "lower": 90000,
+        "upper": 99999,
+        "num_returns": 6019722.91,
+        "avg_income": 94360.85699909233,
+        "median_income": 94372.0,
+        "share_of_total_income": 0.03979478330179079
+      },
+      {
+        "lower": 100000,
+        "upper": 109999,
+        "num_returns": 5732449.12,
+        "avg_income": 103816.38910421066,
+        "median_income": 103716.5,
+        "share_of_total_income": 0.041693071902660805
+      },
+      {
+        "lower": 110000,
+        "upper": 119999,
+        "num_returns": 4447475.04,
+        "avg_income": 114350.6982175194,
+        "median_income": 114367.0,
+        "share_of_total_income": 0.035629531088512294
+      },
+      {
+        "lower": 120000,
+        "upper": 129999,
+        "num_returns": 4267888.72,
+        "avg_income": 124167.96641928142,
+        "median_income": 124200.0,
+        "share_of_total_income": 0.03712619336179442
+      },
+      {
+        "lower": 130000,
+        "upper": 139999,
+        "num_returns": 3575431.11,
+        "avg_income": 134308.8748511253,
+        "median_income": 134199.0,
+        "share_of_total_income": 0.03364270381414005
+      },
+      {
+        "lower": 140000,
+        "upper": 149999,
+        "num_returns": 2827519.68,
+        "avg_income": 144151.00164993724,
+        "median_income": 144001.0,
+        "share_of_total_income": 0.02855492786830332
+      },
+      {
+        "lower": 150000,
+        "upper": 159999,
+        "num_returns": 3292841.89,
+        "avg_income": 153933.11426258308,
+        "median_income": 153750.5,
+        "share_of_total_income": 0.035510819954775494
+      },
+      {
+        "lower": 160000,
+        "upper": 169999,
+        "num_returns": 2401771.1,
+        "avg_income": 164206.35868321505,
+        "median_income": 164145.0,
+        "share_of_total_income": 0.027629902472545022
+      },
+      {
+        "lower": 170000,
+        "upper": 179999,
+        "num_returns": 2154029.03,
+        "avg_income": 174355.12736143114,
+        "median_income": 174384.0,
+        "share_of_total_income": 0.02631140515208611
+      },
+      {
+        "lower": 180000,
+        "upper": 189999,
+        "num_returns": 1949717.21,
+        "avg_income": 184363.32096208457,
+        "median_income": 184291.5,
+        "share_of_total_income": 0.025182794082856185
+      },
+      {
+        "lower": 190000,
+        "upper": 199999,
+        "num_returns": 1725700.87,
+        "avg_income": 194520.78686447552,
+        "median_income": 194816.0,
+        "share_of_total_income": 0.02351739980082234
+      },
+      {
+        "lower": 200000,
+        "upper": 209999,
+        "num_returns": 1634271.49,
+        "avg_income": 203567.6052906485,
+        "median_income": 203182.0,
+        "share_of_total_income": 0.023307228762232807
+      },
+      {
+        "lower": 210000,
+        "upper": 219999,
+        "num_returns": 1288490.55,
+        "avg_income": 214440.89174368416,
+        "median_income": 214307.5,
+        "share_of_total_income": 0.01935738147929861
+      },
+      {
+        "lower": 220000,
+        "upper": 229999,
+        "num_returns": 1112257.29,
+        "avg_income": 224343.72236954275,
+        "median_income": 224301.5,
+        "share_of_total_income": 0.01748142973864363
+      },
+      {
+        "lower": 230000,
+        "upper": 239999,
+        "num_returns": 892493.64,
+        "avg_income": 234456.6669367638,
+        "median_income": 234251.0,
+        "share_of_total_income": 0.014659713515569805
+      },
+      {
+        "lower": 240000,
+        "upper": 249999,
+        "num_returns": 850786.04,
+        "avg_income": 244313.56805190412,
+        "median_income": 244057.5,
+        "share_of_total_income": 0.014562156971751752
+      },
+      {
+        "lower": 250000,
+        "upper": 259999,
+        "num_returns": 859847.83,
+        "avg_income": 254039.9731725903,
+        "median_income": 254271.0,
+        "share_of_total_income": 0.01530317076105289
+      },
+      {
+        "lower": 260000,
+        "upper": 269999,
+        "num_returns": 654000.5,
+        "avg_income": 264292.8455755462,
+        "median_income": 264233.5,
+        "share_of_total_income": 0.012109361765067718
+      },
+      {
+        "lower": 270000,
+        "upper": 279999,
+        "num_returns": 588478.53,
+        "avg_income": 274535.761202554,
+        "median_income": 274958.5,
+        "share_of_total_income": 0.011318459293191675
+      },
+      {
+        "lower": 280000,
+        "upper": 289999,
+        "num_returns": 532504.24,
+        "avg_income": 284280.5496866842,
+        "median_income": 284400.0,
+        "share_of_total_income": 0.010605422709859121
+      },
+      {
+        "lower": 290000,
+        "upper": 299999,
+        "num_returns": 458836.0,
+        "avg_income": 294699.39617891796,
+        "median_income": 294841.5,
+        "share_of_total_income": 0.009473151823109567
+      },
+      {
+        "lower": 300000,
+        "upper": 309999,
+        "num_returns": 492296.76,
+        "avg_income": 303624.4008890491,
+        "median_income": 302903.0,
+        "share_of_total_income": 0.010471801830352382
+      },
+      {
+        "lower": 310000,
+        "upper": 319999,
+        "num_returns": 405392.67,
+        "avg_income": 314330.99128146545,
+        "median_income": 314313.5,
+        "share_of_total_income": 0.008927315030299499
+      },
+      {
+        "lower": 320000,
+        "upper": 329999,
+        "num_returns": 353263.15,
+        "avg_income": 324068.1308857151,
+        "median_income": 323697.5,
+        "share_of_total_income": 0.00802033351142584
+      },
+      {
+        "lower": 330000,
+        "upper": 339999,
+        "num_returns": 379072.4,
+        "avg_income": 334520.65358361625,
+        "median_income": 334507.5,
+        "share_of_total_income": 0.00888388377393014
+      },
+      {
+        "lower": 340000,
+        "upper": 349999,
+        "num_returns": 245668.77,
+        "avg_income": 344372.67289118597,
+        "median_income": 344080.0,
+        "share_of_total_income": 0.005927020092352607
+      },
+      {
+        "lower": 350000,
+        "upper": 359999,
+        "num_returns": 288949.68,
+        "avg_income": 354293.78263263695,
+        "median_income": 354090.0,
+        "share_of_total_income": 0.0071720534180840494
+      },
+      {
+        "lower": 360000,
+        "upper": 369999,
+        "num_returns": 209706.58,
+        "avg_income": 364522.9984759658,
+        "median_income": 364316.0,
+        "share_of_total_income": 0.0053554350698599654
+      },
+      {
+        "lower": 370000,
+        "upper": 379999,
+        "num_returns": 206516.8,
+        "avg_income": 374606.5912067685,
+        "median_income": 374501.0,
+        "share_of_total_income": 0.00541986623548986
+      },
+      {
+        "lower": 380000,
+        "upper": 389999,
+        "num_returns": 175919.88,
+        "avg_income": 383482.778162252,
+        "median_income": 383050.0,
+        "share_of_total_income": 0.004726270255969237
+      },
+      {
+        "lower": 390000,
+        "upper": 399999,
+        "num_returns": 171101.79,
+        "avg_income": 394607.8706287059,
+        "median_income": 395152.5,
+        "share_of_total_income": 0.004730184305378518
+      },
+      {
+        "lower": 400000,
+        "upper": 409999,
+        "num_returns": 239313.7,
+        "avg_income": 403709.1272735744,
+        "median_income": 403714.5,
+        "share_of_total_income": 0.006768522801408764
+      },
+      {
+        "lower": 410000,
+        "upper": 419999,
+        "num_returns": 167725.16,
+        "avg_income": 414690.51065999886,
+        "median_income": 415000.0,
+        "share_of_total_income": 0.00487281674574422
+      },
+      {
+        "lower": 420000,
+        "upper": 429999,
+        "num_returns": 165636.81,
+        "avg_income": 424489.115656055,
+        "median_income": 424155.5,
+        "share_of_total_income": 0.004925850007287805
+      },
+      {
+        "lower": 430000,
+        "upper": 439999,
+        "num_returns": 133366.87,
+        "avg_income": 433948.58148999076,
+        "median_income": 434203.0,
+        "share_of_total_income": 0.004054562491725628
+      },
+      {
+        "lower": 440000,
+        "upper": 449999,
+        "num_returns": 87346.5,
+        "avg_income": 444942.03511142405,
+        "median_income": 443500.0,
+        "share_of_total_income": 0.0027227433803735097
+      },
+      {
+        "lower": 450000,
+        "upper": 459999,
+        "num_returns": 127860.04,
+        "avg_income": 453773.2070179236,
+        "median_income": 453505.0,
+        "share_of_total_income": 0.004064727652271416
+      },
+      {
+        "lower": 460000,
+        "upper": 469999,
+        "num_returns": 99939.90000000001,
+        "avg_income": 464200.1521559457,
+        "median_income": 464450.0,
+        "share_of_total_income": 0.0032501391541467743
+      },
+      {
+        "lower": 470000,
+        "upper": 479999,
+        "num_returns": 108693.75,
+        "avg_income": 474525.23225300445,
+        "median_income": 474079.5,
+        "share_of_total_income": 0.003613446669926067
+      },
+      {
+        "lower": 480000,
+        "upper": 489999,
+        "num_returns": 77657.29,
+        "avg_income": 484228.8828536254,
+        "median_income": 483277.0,
+        "share_of_total_income": 0.0026344544126656213
+      },
+      {
+        "lower": 490000,
+        "upper": 499999,
+        "num_returns": 76361.44,
+        "avg_income": 494745.49496735533,
+        "median_income": 494409.0,
+        "share_of_total_income": 0.0026467548922431347
+      },
+      {
+        "lower": 500000,
+        "upper": 509999,
+        "num_returns": 137024.03,
+        "avg_income": 503197.4626073251,
+        "median_income": 501500.5,
+        "share_of_total_income": 0.004830509554452767
+      },
+      {
+        "lower": 510000,
+        "upper": 519999,
+        "num_returns": 80105.38,
+        "avg_income": 513041.14762853633,
+        "median_income": 513030.0,
+        "share_of_total_income": 0.0028791987820525364
+      },
+      {
+        "lower": 520000,
+        "upper": 529999,
+        "num_returns": 45493.84,
+        "avg_income": 524342.613449645,
+        "median_income": 525064.0,
+        "share_of_total_income": 0.0016711888016361807
+      },
+      {
+        "lower": 530000,
+        "upper": 539999,
+        "num_returns": 62005.299999999996,
+        "avg_income": 533706.5903703393,
+        "median_income": 533130.5,
+        "share_of_total_income": 0.0023184041488867268
+      },
+      {
+        "lower": 540000,
+        "upper": 549999,
+        "num_returns": 54801.46,
+        "avg_income": 543340.7741306525,
+        "median_income": 542907.0,
+        "share_of_total_income": 0.0020860378909973026
+      },
+      {
+        "lower": 550000,
+        "upper": 559999,
+        "num_returns": 65143.659999999996,
+        "avg_income": 553582.9877234409,
+        "median_income": 553003.0,
+        "share_of_total_income": 0.0025264613395571205
+      },
+      {
+        "lower": 560000,
+        "upper": 569999,
+        "num_returns": 82567.63,
+        "avg_income": 563610.4610436319,
+        "median_income": 563124.0,
+        "share_of_total_income": 0.0032602179247057713
+      },
+      {
+        "lower": 570000,
+        "upper": 579999,
+        "num_returns": 32464.57,
+        "avg_income": 574285.9452892799,
+        "median_income": 574313.0,
+        "share_of_total_income": 0.0013061576828162591
+      },
+      {
+        "lower": 580000,
+        "upper": 589999,
+        "num_returns": 50217.82,
+        "avg_income": 584421.9559323762,
+        "median_income": 584056.0,
+        "share_of_total_income": 0.002056090117597119
+      },
+      {
+        "lower": 590000,
+        "upper": 599999,
+        "num_returns": 36631.479999999996,
+        "avg_income": 592868.8206720015,
+        "median_income": 592654.0,
+        "share_of_total_income": 0.0015214960993409038
+      },
+      {
+        "lower": 600000,
+        "upper": 609999,
+        "num_returns": 61545.93,
+        "avg_income": 602650.1792841542,
+        "median_income": 601650.0,
+        "share_of_total_income": 0.0025984980499631502
+      },
+      {
+        "lower": 610000,
+        "upper": 619999,
+        "num_returns": 31204.46,
+        "avg_income": 615904.5248993251,
+        "median_income": 615525.0,
+        "share_of_total_income": 0.0013464425658247536
+      },
+      {
+        "lower": 620000,
+        "upper": 629999,
+        "num_returns": 49539.35,
+        "avg_income": 625239.843075858,
+        "median_income": 625004.0,
+        "share_of_total_income": 0.00216997492776154
+      },
+      {
+        "lower": 630000,
+        "upper": 639999,
+        "num_returns": 34436.61,
+        "avg_income": 634486.2074640912,
+        "median_income": 634380.0,
+        "share_of_total_income": 0.001530736170815586
+      },
+      {
+        "lower": 640000,
+        "upper": 649999,
+        "num_returns": 42210.51,
+        "avg_income": 643731.4323423242,
+        "median_income": 645060.0,
+        "share_of_total_income": 0.0019036323722290845
+      },
+      {
+        "lower": 650000,
+        "upper": 659999,
+        "num_returns": 33897.49,
+        "avg_income": 653447.8306190223,
+        "median_income": 651895.0,
+        "share_of_total_income": 0.0015518017181041608
+      },
+      {
+        "lower": 660000,
+        "upper": 669999,
+        "num_returns": 12175.19,
+        "avg_income": 665214.1865104364,
+        "median_income": 664751.0,
+        "share_of_total_income": 0.0005674074273875644
+      },
+      {
+        "lower": 670000,
+        "upper": 679999,
+        "num_returns": 22509.61,
+        "avg_income": 672336.7074365127,
+        "median_income": 671510.0,
+        "share_of_total_income": 0.0010602604463586943
+      },
+      {
+        "lower": 680000,
+        "upper": 689999,
+        "num_returns": 4355.8,
+        "avg_income": 681903.1384544746,
+        "median_income": 682172.0,
+        "share_of_total_income": 0.0002080886470180322
+      },
+      {
+        "lower": 690000,
+        "upper": 699999,
+        "num_returns": 15082.41,
+        "avg_income": 692969.4026962536,
+        "median_income": 692551.0,
+        "share_of_total_income": 0.0007322216542867846
+      },
+      {
+        "lower": 700000,
+        "upper": 709999,
+        "num_returns": 21215.0,
+        "avg_income": 703106.6118826302,
+        "median_income": 702686.0,
+        "share_of_total_income": 0.0010450137015532688
+      },
+      {
+        "lower": 710000,
+        "upper": 719999,
+        "num_returns": 38493.33,
+        "avg_income": 714891.0431222761,
+        "median_income": 715088.5,
+        "share_of_total_income": 0.0019278937939025984
+      },
+      {
+        "lower": 720000,
+        "upper": 729999,
+        "num_returns": 8622.73,
+        "avg_income": 725938.5112336812,
+        "median_income": 725526.5,
+        "share_of_total_income": 0.0004385331115773682
+      },
+      {
+        "lower": 730000,
+        "upper": 739999,
+        "num_returns": 12874.630000000001,
+        "avg_income": 736441.8109926266,
+        "median_income": 737703.0,
+        "share_of_total_income": 0.0006642490787308942
+      },
+      {
+        "lower": 740000,
+        "upper": 749999,
+        "num_returns": 18587.76,
+        "avg_income": 745535.0597683638,
+        "median_income": 745913.5,
+        "share_of_total_income": 0.0009708516979232629
+      },
+      {
+        "lower": 750000,
+        "upper": 759999,
+        "num_returns": 27439.86,
+        "avg_income": 753999.9535617165,
+        "median_income": 754373.5,
+        "share_of_total_income": 0.0014494758268786027
+      },
+      {
+        "lower": 760000,
+        "upper": 769999,
+        "num_returns": 14536.119999999999,
+        "avg_income": 763269.1593100498,
+        "median_income": 763722.0,
+        "share_of_total_income": 0.0007772916113412775
+      },
+      {
+        "lower": 770000,
+        "upper": 779999,
+        "num_returns": 19359.66,
+        "avg_income": 774531.1611970458,
+        "median_income": 775322.0,
+        "share_of_total_income": 0.0010504959624719984
+      },
+      {
+        "lower": 780000,
+        "upper": 789999,
+        "num_returns": 19252.7,
+        "avg_income": 786831.9154705575,
+        "median_income": 787126.5,
+        "share_of_total_income": 0.0010612834155473377
+      },
+      {
+        "lower": 790000,
+        "upper": 799999,
+        "num_returns": 15765.12,
+        "avg_income": 794704.0795509326,
+        "median_income": 796311.0,
+        "share_of_total_income": 0.0008777290854238327
+      },
+      {
+        "lower": 800000,
+        "upper": 809999,
+        "num_returns": 21965.37,
+        "avg_income": 803699.0494455589,
+        "median_income": 803440.0,
+        "share_of_total_income": 0.0012367722849330545
+      },
+      {
+        "lower": 810000,
+        "upper": 819999,
+        "num_returns": 17442.170000000002,
+        "avg_income": 812089.5802982082,
+        "median_income": 811616.5,
+        "share_of_total_income": 0.0009923439352517193
+      },
+      {
+        "lower": 820000,
+        "upper": 829999,
+        "num_returns": 29539.17,
+        "avg_income": 825288.3257975768,
+        "median_income": 825823.0,
+        "share_of_total_income": 0.0017078973182808137
+      },
+      {
+        "lower": 830000,
+        "upper": 839999,
+        "num_returns": 20499.75,
+        "avg_income": 835277.3109545236,
+        "median_income": 836216.0,
+        "share_of_total_income": 0.001199601543702524
+      },
+      {
+        "lower": 840000,
+        "upper": 849999,
+        "num_returns": 10915.26,
+        "avg_income": 844838.7555798029,
+        "median_income": 843011.0,
+        "share_of_total_income": 0.0006460493290523135
+      },
+      {
+        "lower": 850000,
+        "upper": 859999,
+        "num_returns": 15009.67,
+        "avg_income": 852826.3347835096,
+        "median_income": 852648.0,
+        "share_of_total_income": 0.0008967874321026692
+      },
+      {
+        "lower": 860000,
+        "upper": 869999,
+        "num_returns": 10933.9,
+        "avg_income": 863315.4517070763,
+        "median_income": 862662.5,
+        "share_of_total_income": 0.0006613058707831826
+      },
+      {
+        "lower": 870000,
+        "upper": 879999,
+        "num_returns": 3715.64,
+        "avg_income": 877217.4428227708,
+        "median_income": 877475.5,
+        "share_of_total_income": 0.00022834875855573872
+      },
+      {
+        "lower": 880000,
+        "upper": 889999,
+        "num_returns": 4611.45,
+        "avg_income": 882274.624688547,
+        "median_income": 881943.5,
+        "share_of_total_income": 0.0002850355697751359
+      },
+      {
+        "lower": 890000,
+        "upper": 899999,
+        "num_returns": 6021.36,
+        "avg_income": 892605.7611270542,
+        "median_income": 894015.0,
+        "share_of_total_income": 0.00037654080382244765
+      },
+      {
+        "lower": 900000,
+        "upper": 909999,
+        "num_returns": 13195.939999999999,
+        "avg_income": 902350.1325672895,
+        "median_income": 901757.0,
+        "share_of_total_income": 0.0008342057620167226
+      },
+      {
+        "lower": 910000,
+        "upper": 919999,
+        "num_returns": 13920.02,
+        "avg_income": 911845.8051231246,
+        "median_income": 912108.5,
+        "share_of_total_income": 0.0008892400826408176
+      },
+      {
+        "lower": 920000,
+        "upper": 929999,
+        "num_returns": 16508.84,
+        "avg_income": 924353.7133426698,
+        "median_income": 922827.5,
+        "share_of_total_income": 0.0010690856871614547
+      },
+      {
+        "lower": 930000,
+        "upper": 939999,
+        "num_returns": 6174.03,
+        "avg_income": 935178.0178862105,
+        "median_income": 934520.0,
+        "share_of_total_income": 0.0004045021104497421
+      },
+      {
+        "lower": 940000,
+        "upper": 949999,
+        "num_returns": 4486.96,
+        "avg_income": 945335.9775193004,
+        "median_income": 945252.5,
+        "share_of_total_income": 0.00029716396955908783
+      },
+      {
+        "lower": 950000,
+        "upper": 959999,
+        "num_returns": 14066.2,
+        "avg_income": 951878.4823648176,
+        "median_income": 951325.0,
+        "share_of_total_income": 0.0009380285659703245
+      },
+      {
+        "lower": 960000,
+        "upper": 969999,
+        "num_returns": 2314.38,
+        "avg_income": 961425.0,
+        "median_income": 961425.0,
+        "share_of_total_income": 0.00015588626270159102
+      },
+      {
+        "lower": 970000,
+        "upper": 979999,
+        "num_returns": 3540.9,
+        "avg_income": 973461.6212996696,
+        "median_income": 974084.0,
+        "share_of_total_income": 0.00024148505735366072
+      },
+      {
+        "lower": 980000,
+        "upper": 989999,
+        "num_returns": 1487.66,
+        "avg_income": 985504.0,
+        "median_income": 985504.0,
+        "share_of_total_income": 0.0001027116826161713
+      },
+      {
+        "lower": 990000,
+        "upper": 999999,
+        "num_returns": 2794.6,
+        "avg_income": 994184.7211801332,
+        "median_income": 994495.5,
+        "share_of_total_income": 0.00019464556189968584
+      },
+      {
+        "lower": 1000000,
+        "upper": 1009999,
+        "num_returns": 44685.770000000004,
+        "avg_income": 1001863.7455176446,
+        "median_income": 1000750.0,
+        "share_of_total_income": 0.00313643053636997
+      },
+      {
+        "lower": 1010000,
+        "upper": 1019999,
+        "num_returns": 10435.89,
+        "avg_income": 1014939.3680491076,
+        "median_income": 1013864.0,
+        "share_of_total_income": 0.0007420400702136509
+      },
+      {
+        "lower": 1020000,
+        "upper": 1029999,
+        "num_returns": 14478.98,
+        "avg_income": 1024883.3598174733,
+        "median_income": 1025052.0,
+        "share_of_total_income": 0.0010396093498391981
+      },
+      {
+        "lower": 1030000,
+        "upper": 1039999,
+        "num_returns": 6529.76,
+        "avg_income": 1035092.5475744898,
+        "median_income": 1035247.0,
+        "share_of_total_income": 0.00047351546491437846
+      },
+      {
+        "lower": 1040000,
+        "upper": 1049999,
+        "num_returns": 5696.51,
+        "avg_income": 1047707.9912455168,
+        "median_income": 1047863.5,
+        "share_of_total_income": 0.0004181257240319955
+      },
+      {
+        "lower": 1050000,
+        "upper": 1059999,
+        "num_returns": 7673.71,
+        "avg_income": 1054443.9192593936,
+        "median_income": 1055080.5,
+        "share_of_total_income": 0.000566874127371487
+      },
+      {
+        "lower": 1060000,
+        "upper": 1069999,
+        "num_returns": 7669.33,
+        "avg_income": 1061257.4884742214,
+        "median_income": 1061420.0,
+        "share_of_total_income": 0.0005702114838122427
+      },
+      {
+        "lower": 1070000,
+        "upper": 1079999,
+        "num_returns": 7844.13,
+        "avg_income": 1074615.9672519453,
+        "median_income": 1074928.5,
+        "share_of_total_income": 0.0005905488640296799
+      },
+      {
+        "lower": 1080000,
+        "upper": 1089999,
+        "num_returns": 7069.83,
+        "avg_income": 1084735.7684880684,
+        "median_income": 1084520.5,
+        "share_of_total_income": 0.0005372676585882312
+      },
+      {
+        "lower": 1090000,
+        "upper": 1099999,
+        "num_returns": 37443.95,
+        "avg_income": 1099361.178141729,
+        "median_income": 1099999.0,
+        "share_of_total_income": 0.0028838974953805776
+      },
+      {
+        "lower": 1100000,
+        "upper": 1109999,
+        "num_returns": 82994.2,
+        "avg_income": 1102229.1393398577,
+        "median_income": 1101136.5,
+        "share_of_total_income": 0.006408810020813446
+      },
+      {
+        "lower": 1110000,
+        "upper": 1119999,
+        "num_returns": 24596.19,
+        "avg_income": 1115546.2325750447,
+        "median_income": 1116299.0,
+        "share_of_total_income": 0.0019222646509354845
+      },
+      {
+        "lower": 1120000,
+        "upper": 1129999,
+        "num_returns": 14348.91,
+        "avg_income": 1123807.56066419,
+        "median_income": 1124060.0,
+        "share_of_total_income": 0.0011297143042988589
+      },
+      {
+        "lower": 1130000,
+        "upper": 1139999,
+        "num_returns": 18546.72,
+        "avg_income": 1135348.5241579101,
+        "median_income": 1135360.0,
+        "share_of_total_income": 0.0014752107953507497
+      },
+      {
+        "lower": 1140000,
+        "upper": 1149999,
+        "num_returns": 19340.64,
+        "avg_income": 1143582.6478249938,
+        "median_income": 1143192.0,
+        "share_of_total_income": 0.001549516355772867
+      },
+      {
+        "lower": 1150000,
+        "upper": 1159999,
+        "num_returns": 36155.42,
+        "avg_income": 1155053.314176961,
+        "median_income": 1155101.5,
+        "share_of_total_income": 0.002925723014871553
+      },
+      {
+        "lower": 1160000,
+        "upper": 1169999,
+        "num_returns": 8596.57,
+        "avg_income": 1164775.8072975618,
+        "median_income": 1163606.0,
+        "share_of_total_income": 0.0007014961827806407
+      },
+      {
+        "lower": 1170000,
+        "upper": 1179999,
+        "num_returns": 13807.79,
+        "avg_income": 1173280.8922036039,
+        "median_income": 1172119.0,
+        "share_of_total_income": 0.0011349688386020882
+      },
+      {
+        "lower": 1180000,
+        "upper": 1189999,
+        "num_returns": 19866.91,
+        "avg_income": 1183652.4166158705,
+        "median_income": 1182016.0,
+        "share_of_total_income": 0.0016474501419713155
+      },
+      {
+        "lower": 1190000,
+        "upper": 1199999,
+        "num_returns": 13309.18,
+        "avg_income": 1194985.0451169794,
+        "median_income": 1194636.5,
+        "share_of_total_income": 0.001114221503131972
+      },
+      {
+        "lower": 1200000,
+        "upper": 1209999,
+        "num_returns": 9097.52,
+        "avg_income": 1204141.7943197705,
+        "median_income": 1203505.5,
+        "share_of_total_income": 0.0007674647126048
+      },
+      {
+        "lower": 1210000,
+        "upper": 1219999,
+        "num_returns": 11148.91,
+        "avg_income": 1215888.3363745874,
+        "median_income": 1213001.0,
+        "share_of_total_income": 0.0009496943814324324
+      },
+      {
+        "lower": 1220000,
+        "upper": 1229999,
+        "num_returns": 15809.05,
+        "avg_income": 1225112.8887150083,
+        "median_income": 1225034.0,
+        "share_of_total_income": 0.0013568743991067987
+      },
+      {
+        "lower": 1230000,
+        "upper": 1239999,
+        "num_returns": 4816.360000000001,
+        "avg_income": 1234478.5682631698,
+        "median_income": 1234414.5,
+        "share_of_total_income": 0.0004165434042856173
+      },
+      {
+        "lower": 1240000,
+        "upper": 1249999,
+        "num_returns": 6691.469999999999,
+        "avg_income": 1243160.6103531811,
+        "median_income": 1241937.0,
+        "share_of_total_income": 0.0005827825546019472
+      },
+      {
+        "lower": 1260000,
+        "upper": 1269999,
+        "num_returns": 613.63,
+        "avg_income": 1265081.0,
+        "median_income": 1265081.0,
+        "share_of_total_income": 5.438544465246705e-05
+      },
+      {
+        "lower": 1270000,
+        "upper": 1279999,
+        "num_returns": 4123.41,
+        "avg_income": 1271001.0,
+        "median_income": 1271001.0,
+        "share_of_total_income": 0.0003671640728131941
+      },
+      {
+        "lower": 1280000,
+        "upper": 1289999,
+        "num_returns": 1500.46,
+        "avg_income": 1283164.9850979033,
+        "median_income": 1285359.0,
+        "share_of_total_income": 0.00013488532074402474
+      },
+      {
+        "lower": 1290000,
+        "upper": 1299999,
+        "num_returns": 5120.549999999999,
+        "avg_income": 1293854.3686810988,
+        "median_income": 1293809.0,
+        "share_of_total_income": 0.0004641515171448119
+      },
+      {
+        "lower": 1300000,
+        "upper": 1309999,
+        "num_returns": 7005.85,
+        "avg_income": 1304791.6865747909,
+        "median_income": 1306077.5,
+        "share_of_total_income": 0.0006404124733230559
+      },
+      {
+        "lower": 1310000,
+        "upper": 1319999,
+        "num_returns": 3524.64,
+        "avg_income": 1314327.087132303,
+        "median_income": 1313063.5,
+        "share_of_total_income": 0.0003245457980352432
+      },
+      {
+        "lower": 1320000,
+        "upper": 1329999,
+        "num_returns": 1625.32,
+        "avg_income": 1328187.0000000002,
+        "median_income": 1328187.0,
+        "share_of_total_income": 0.0001512362399112758
+      },
+      {
+        "lower": 1330000,
+        "upper": 1339999,
+        "num_returns": 2396.93,
+        "avg_income": 1330206.0,
+        "median_income": 1330206.0,
+        "share_of_total_income": 0.00022337369079109847
+      },
+      {
+        "lower": 1340000,
+        "upper": 1349999,
+        "num_returns": 2370.54,
+        "avg_income": 1349434.0,
+        "median_income": 1349434.0,
+        "share_of_total_income": 0.00022410766096225962
+      },
+      {
+        "lower": 1350000,
+        "upper": 1359999,
+        "num_returns": 2581.03,
+        "avg_income": 1357435.0,
+        "median_income": 1357435.0,
+        "share_of_total_income": 0.00024545385757732217
+      },
+      {
+        "lower": 1360000,
+        "upper": 1369999,
+        "num_returns": 1840.18,
+        "avg_income": 1369205.0,
+        "median_income": 1369205.0,
+        "share_of_total_income": 0.00017651700466987113
+      },
+      {
+        "lower": 1370000,
+        "upper": 1379999,
+        "num_returns": 5443.29,
+        "avg_income": 1374012.431248381,
+        "median_income": 1373558.5,
+        "share_of_total_income": 0.0005239741975724752
+      },
+      {
+        "lower": 1390000,
+        "upper": 1399999,
+        "num_returns": 197.61,
+        "avg_income": 1390074.0000000002,
+        "median_income": 1390074.0,
+        "share_of_total_income": 1.924441018542712e-05
+      },
+      {
+        "lower": 1400000,
+        "upper": 1409999,
+        "num_returns": 3073.86,
+        "avg_income": 1403050.0,
+        "median_income": 1403050.0,
+        "share_of_total_income": 0.00030214471227715177
+      },
+      {
+        "lower": 1410000,
+        "upper": 1419999,
+        "num_returns": 2309.28,
+        "avg_income": 1412454.0,
+        "median_income": 1412454.0,
+        "share_of_total_income": 0.00022851182233661976
+      },
+      {
+        "lower": 1460000,
+        "upper": 1469999,
+        "num_returns": 4051.5099999999998,
+        "avg_income": 1465611.4247971745,
+        "median_income": 1466767.5,
+        "share_of_total_income": 0.0004160001847874242
+      },
+      {
+        "lower": 1480000,
+        "upper": 1489999,
+        "num_returns": 4143.86,
+        "avg_income": 1485999.0,
+        "median_income": 1485999.0,
+        "share_of_total_income": 0.0004314012092628545
+      },
+      {
+        "lower": 1490000,
+        "upper": 1499999,
+        "num_returns": 3099.02,
+        "avg_income": 1498000.0,
+        "median_income": 1498000.0,
+        "share_of_total_income": 0.0003252325161017407
+      },
+      {
+        "lower": 1500000,
+        "upper": 1509999,
+        "num_returns": 16517.78,
+        "avg_income": 1501175.1329966863,
+        "median_income": 1501264.0,
+        "share_of_total_income": 0.0017371639401671725
+      },
+      {
+        "lower": 1520000,
+        "upper": 1529999,
+        "num_returns": 4745.17,
+        "avg_income": 1527101.0,
+        "median_income": 1527101.0,
+        "share_of_total_income": 0.0005076650950882862
+      },
+      {
+        "lower": 1550000,
+        "upper": 1559999,
+        "num_returns": 1945.84,
+        "avg_income": 1550011.0,
+        "median_income": 1550011.0,
+        "share_of_total_income": 0.00021130008591813793
+      },
+      {
+        "lower": 1640000,
+        "upper": 1649999,
+        "num_returns": 2947.4,
+        "avg_income": 1645200.0,
+        "median_income": 1645200.0,
+        "share_of_total_income": 0.00033971564392498694
+      },
+      {
+        "lower": 1770000,
+        "upper": 1779999,
+        "num_returns": 1900.32,
+        "avg_income": 1774521.0,
+        "median_income": 1774521.0,
+        "share_of_total_income": 0.00023624664459749708
+      },
+      {
+        "lower": 1860000,
+        "upper": 1869999,
+        "num_returns": 4193.72,
+        "avg_income": 1866452.0,
+        "median_income": 1866452.0,
+        "share_of_total_income": 0.000548370423444219
+      },
+      {
+        "lower": 2000000,
+        "upper": null,
+        "num_returns": 24976.42,
+        "avg_income": 2378613.582910201,
+        "median_income": 2202095.5,
+        "share_of_total_income": 0.004162093669752046
+      }
+    ],
+    "2024": [
+      {
+        "lower": 0,
+        "upper": 9999,
+        "num_returns": 11655146.66,
+        "avg_income": 2203.5108911190655,
+        "median_income": 6.0,
+        "share_of_total_income": 0.0016648068703208983
+      },
+      {
+        "lower": 10000,
+        "upper": 19999,
+        "num_returns": 11649115.92,
+        "avg_income": 14831.291341119211,
+        "median_income": 15000.0,
+        "share_of_total_income": 0.011199608677585253
+      },
+      {
+        "lower": 20000,
+        "upper": 29999,
+        "num_returns": 12523251.19,
+        "avg_income": 24623.752419826687,
+        "median_income": 24850.0,
+        "share_of_total_income": 0.019989514346906545
+      },
+      {
+        "lower": 30000,
+        "upper": 39999,
+        "num_returns": 12525430.66,
+        "avg_income": 34291.683788717724,
+        "median_income": 34600.0,
+        "share_of_total_income": 0.027842766979762002
+      },
+      {
+        "lower": 40000,
+        "upper": 49999,
+        "num_returns": 11607419.7,
+        "avg_income": 44431.00359510821,
+        "median_income": 44800.5,
+        "share_of_total_income": 0.03343125854819025
+      },
+      {
+        "lower": 50000,
+        "upper": 59999,
+        "num_returns": 11037179.05,
+        "avg_income": 54082.18264463961,
+        "median_income": 54100.0,
+        "share_of_total_income": 0.03869396315183725
+      },
+      {
+        "lower": 60000,
+        "upper": 69999,
+        "num_returns": 9845606.92,
+        "avg_income": 64032.86126346795,
+        "median_income": 64000.0,
+        "share_of_total_income": 0.04086733487654848
+      },
+      {
+        "lower": 70000,
+        "upper": 79999,
+        "num_returns": 8122113.7,
+        "avg_income": 74276.6195482058,
+        "median_income": 74514.0,
+        "share_of_total_income": 0.039106784680107594
+      },
+      {
+        "lower": 80000,
+        "upper": 89999,
+        "num_returns": 7175429.66,
+        "avg_income": 84321.09285865954,
+        "median_income": 84300.0,
+        "share_of_total_income": 0.03922067406773892
+      },
+      {
+        "lower": 90000,
+        "upper": 99999,
+        "num_returns": 6111780.42,
+        "avg_income": 94139.17025864289,
+        "median_income": 94150.0,
+        "share_of_total_income": 0.03729658122632655
+      },
+      {
+        "lower": 100000,
+        "upper": 109999,
+        "num_returns": 5924036.35,
+        "avg_income": 104075.11750578979,
+        "median_income": 104002.0,
+        "share_of_total_income": 0.03996644686374496
+      },
+      {
+        "lower": 110000,
+        "upper": 119999,
+        "num_returns": 4784237.59,
+        "avg_income": 114391.06813060051,
+        "median_income": 114412.5,
+        "share_of_total_income": 0.035476091762332795
+      },
+      {
+        "lower": 120000,
+        "upper": 129999,
+        "num_returns": 4475344.76,
+        "avg_income": 124240.31339470482,
+        "median_income": 124300.0,
+        "share_of_total_income": 0.03604291855853882
+      },
+      {
+        "lower": 130000,
+        "upper": 139999,
+        "num_returns": 3718518.33,
+        "avg_income": 134466.29495499085,
+        "median_income": 134382.5,
+        "share_of_total_income": 0.03241263066542179
+      },
+      {
+        "lower": 140000,
+        "upper": 149999,
+        "num_returns": 3203515.13,
+        "avg_income": 144345.29223215813,
+        "median_income": 144200.0,
+        "share_of_total_income": 0.029975077793216606
+      },
+      {
+        "lower": 150000,
+        "upper": 159999,
+        "num_returns": 3353603.81,
+        "avg_income": 154069.3275883057,
+        "median_income": 154000.0,
+        "share_of_total_income": 0.033493370749562726
+      },
+      {
+        "lower": 160000,
+        "upper": 169999,
+        "num_returns": 2639298.59,
+        "avg_income": 164372.07099738953,
+        "median_income": 164451.0,
+        "share_of_total_income": 0.02812208186185507
+      },
+      {
+        "lower": 170000,
+        "upper": 179999,
+        "num_returns": 2184914.1,
+        "avg_income": 174368.17081313176,
+        "median_income": 174122.0,
+        "share_of_total_income": 0.024696334243061568
+      },
+      {
+        "lower": 180000,
+        "upper": 189999,
+        "num_returns": 2196016.52,
+        "avg_income": 184155.33844254966,
+        "median_income": 184006.0,
+        "share_of_total_income": 0.02621505850138234
+      },
+      {
+        "lower": 190000,
+        "upper": 199999,
+        "num_returns": 1596988.33,
+        "avg_income": 194562.22522885937,
+        "median_income": 194565.0,
+        "share_of_total_income": 0.020141470868542403
+      },
+      {
+        "lower": 200000,
+        "upper": 209999,
+        "num_returns": 1889304.21,
+        "avg_income": 204400.85061596832,
+        "median_income": 204260.0,
+        "share_of_total_income": 0.025033150272733964
+      },
+      {
+        "lower": 210000,
+        "upper": 219999,
+        "num_returns": 1478052.97,
+        "avg_income": 214659.51602432757,
+        "median_income": 214856.5,
+        "share_of_total_income": 0.020567005282531463
+      },
+      {
+        "lower": 220000,
+        "upper": 229999,
+        "num_returns": 1364801.59,
+        "avg_income": 224755.22028637145,
+        "median_income": 224829.0,
+        "share_of_total_income": 0.019884296150759293
+      },
+      {
+        "lower": 230000,
+        "upper": 239999,
+        "num_returns": 1306649.88,
+        "avg_income": 234263.6327980454,
+        "median_income": 234174.5,
+        "share_of_total_income": 0.019842437542259388
+      },
+      {
+        "lower": 240000,
+        "upper": 249999,
+        "num_returns": 993924.41,
+        "avg_income": 244445.34836808164,
+        "median_income": 244613.5,
+        "share_of_total_income": 0.015749473836370476
+      },
+      {
+        "lower": 250000,
+        "upper": 259999,
+        "num_returns": 893675.24,
+        "avg_income": 254002.11898674734,
+        "median_income": 253962.0,
+        "share_of_total_income": 0.014714583731221515
+      },
+      {
+        "lower": 260000,
+        "upper": 269999,
+        "num_returns": 843441.18,
+        "avg_income": 264482.0327905498,
+        "median_income": 264344.0,
+        "share_of_total_income": 0.014460452745949749
+      },
+      {
+        "lower": 270000,
+        "upper": 279999,
+        "num_returns": 798872.72,
+        "avg_income": 274585.87984975876,
+        "median_income": 274543.5,
+        "share_of_total_income": 0.014219577969942172
+      },
+      {
+        "lower": 280000,
+        "upper": 289999,
+        "num_returns": 629960.55,
+        "avg_income": 284745.17448495777,
+        "median_income": 284742.0,
+        "share_of_total_income": 0.011627882691587165
+      },
+      {
+        "lower": 290000,
+        "upper": 299999,
+        "num_returns": 565665.79,
+        "avg_income": 294850.7727178445,
+        "median_income": 295141.0,
+        "share_of_total_income": 0.010811677933201588
+      },
+      {
+        "lower": 300000,
+        "upper": 309999,
+        "num_returns": 634164.0,
+        "avg_income": 304216.36076883896,
+        "median_income": 304130.0,
+        "share_of_total_income": 0.012505903308650942
+      },
+      {
+        "lower": 310000,
+        "upper": 319999,
+        "num_returns": 486024.19,
+        "avg_income": 314384.7378542825,
+        "median_income": 314321.0,
+        "share_of_total_income": 0.009904903644323322
+      },
+      {
+        "lower": 320000,
+        "upper": 329999,
+        "num_returns": 503509.88,
+        "avg_income": 325085.86239527224,
+        "median_income": 325080.5,
+        "share_of_total_income": 0.010610527983111604
+      },
+      {
+        "lower": 330000,
+        "upper": 339999,
+        "num_returns": 327869.66,
+        "avg_income": 334857.98953468277,
+        "median_income": 335009.0,
+        "share_of_total_income": 0.007116931914078663
+      },
+      {
+        "lower": 340000,
+        "upper": 349999,
+        "num_returns": 338967.09,
+        "avg_income": 344571.34218404506,
+        "median_income": 344201.0,
+        "share_of_total_income": 0.007571250317462318
+      },
+      {
+        "lower": 350000,
+        "upper": 359999,
+        "num_returns": 319746.83,
+        "avg_income": 354452.14268873277,
+        "median_income": 354154.0,
+        "share_of_total_income": 0.007346741664234251
+      },
+      {
+        "lower": 360000,
+        "upper": 369999,
+        "num_returns": 344465.81,
+        "avg_income": 364513.4739542366,
+        "median_income": 364511.0,
+        "share_of_total_income": 0.008139366868696324
+      },
+      {
+        "lower": 370000,
+        "upper": 379999,
+        "num_returns": 251721.52,
+        "avg_income": 374372.06634200364,
+        "median_income": 375024.0,
+        "share_of_total_income": 0.006108782989315204
+      },
+      {
+        "lower": 380000,
+        "upper": 389999,
+        "num_returns": 258071.24,
+        "avg_income": 384151.6207813781,
+        "median_income": 384160.5,
+        "share_of_total_income": 0.006426480494637165
+      },
+      {
+        "lower": 390000,
+        "upper": 399999,
+        "num_returns": 213440.28,
+        "avg_income": 394345.6025516833,
+        "median_income": 393773.5,
+        "share_of_total_income": 0.0054561248500924545
+      },
+      {
+        "lower": 400000,
+        "upper": 409999,
+        "num_returns": 228690.27,
+        "avg_income": 403863.7511635716,
+        "median_income": 404012.0,
+        "share_of_total_income": 0.005987058163900944
+      },
+      {
+        "lower": 410000,
+        "upper": 419999,
+        "num_returns": 196104.7,
+        "avg_income": 414472.42066171794,
+        "median_income": 413920.0,
+        "share_of_total_income": 0.005268834477761026
+      },
+      {
+        "lower": 420000,
+        "upper": 429999,
+        "num_returns": 143103.65,
+        "avg_income": 424639.7756302512,
+        "median_income": 425000.0,
+        "share_of_total_income": 0.003939147998074444
+      },
+      {
+        "lower": 430000,
+        "upper": 439999,
+        "num_returns": 157365.66,
+        "avg_income": 434232.88779222866,
+        "median_income": 433625.0,
+        "share_of_total_income": 0.004429590669147696
+      },
+      {
+        "lower": 440000,
+        "upper": 449999,
+        "num_returns": 155789.25,
+        "avg_income": 444291.44605170126,
+        "median_income": 444415.0,
+        "share_of_total_income": 0.004486796306493145
+      },
+      {
+        "lower": 450000,
+        "upper": 459999,
+        "num_returns": 154934.99,
+        "avg_income": 455289.8513530094,
+        "median_income": 455591.0,
+        "share_of_total_income": 0.004572654555444029
+      },
+      {
+        "lower": 460000,
+        "upper": 469999,
+        "num_returns": 136889.89,
+        "avg_income": 464113.71381151676,
+        "median_income": 464071.0,
+        "share_of_total_income": 0.004118382607341599
+      },
+      {
+        "lower": 470000,
+        "upper": 479999,
+        "num_returns": 74608.98,
+        "avg_income": 474107.8047102373,
+        "median_income": 473587.5,
+        "share_of_total_income": 0.002292973959685364
+      },
+      {
+        "lower": 480000,
+        "upper": 489999,
+        "num_returns": 100899.62,
+        "avg_income": 484399.6689780397,
+        "median_income": 485056.0,
+        "share_of_total_income": 0.003168285309456516
+      },
+      {
+        "lower": 490000,
+        "upper": 499999,
+        "num_returns": 121834.81,
+        "avg_income": 495019.9911846211,
+        "median_income": 495300.0,
+        "share_of_total_income": 0.003909534444303572
+      },
+      {
+        "lower": 500000,
+        "upper": 509999,
+        "num_returns": 113944.34,
+        "avg_income": 503862.95019559556,
+        "median_income": 504106.0,
+        "share_of_total_income": 0.0037216548836763418
+      },
+      {
+        "lower": 510000,
+        "upper": 519999,
+        "num_returns": 94878.64,
+        "avg_income": 514462.7055228659,
+        "median_income": 515001.0,
+        "share_of_total_income": 0.0031641223140475225
+      },
+      {
+        "lower": 520000,
+        "upper": 529999,
+        "num_returns": 92812.73,
+        "avg_income": 524259.5855033032,
+        "median_income": 523649.0,
+        "share_of_total_income": 0.003154168152243899
+      },
+      {
+        "lower": 530000,
+        "upper": 539999,
+        "num_returns": 54094.75,
+        "avg_income": 533173.8373520536,
+        "median_income": 533015.0,
+        "share_of_total_income": 0.0018696265380295349
+      },
+      {
+        "lower": 540000,
+        "upper": 549999,
+        "num_returns": 84701.78,
+        "avg_income": 543911.32633777,
+        "median_income": 544072.0,
+        "share_of_total_income": 0.0029864246045139655
+      },
+      {
+        "lower": 550000,
+        "upper": 559999,
+        "num_returns": 52161.16,
+        "avg_income": 553406.7690887243,
+        "median_income": 553429.0,
+        "share_of_total_income": 0.0018712104031211455
+      },
+      {
+        "lower": 560000,
+        "upper": 569999,
+        "num_returns": 49439.48,
+        "avg_income": 565433.1137467466,
+        "median_income": 565017.0,
+        "share_of_total_income": 0.0018121162223185853
+      },
+      {
+        "lower": 570000,
+        "upper": 579999,
+        "num_returns": 56799.36,
+        "avg_income": 574908.1326187479,
+        "median_income": 575055.0,
+        "share_of_total_income": 0.002116765798064692
+      },
+      {
+        "lower": 580000,
+        "upper": 589999,
+        "num_returns": 84885.92,
+        "avg_income": 585282.2951310419,
+        "median_income": 585970.0,
+        "share_of_total_income": 0.0032205642082307976
+      },
+      {
+        "lower": 590000,
+        "upper": 599999,
+        "num_returns": 36884.63,
+        "avg_income": 597120.9361265112,
+        "median_income": 597751.0,
+        "share_of_total_income": 0.0014277055414678693
+      },
+      {
+        "lower": 600000,
+        "upper": 609999,
+        "num_returns": 70794.12,
+        "avg_income": 604728.0937469099,
+        "median_income": 603851.0,
+        "share_of_total_income": 0.0027751614112558154
+      },
+      {
+        "lower": 610000,
+        "upper": 619999,
+        "num_returns": 32022.63,
+        "avg_income": 614880.0836914395,
+        "median_income": 613650.0,
+        "share_of_total_income": 0.0012763751461866211
+      },
+      {
+        "lower": 620000,
+        "upper": 629999,
+        "num_returns": 36033.38,
+        "avg_income": 625904.4520847059,
+        "median_income": 625577.5,
+        "share_of_total_income": 0.0014619885041678657
+      },
+      {
+        "lower": 630000,
+        "upper": 639999,
+        "num_returns": 35458.79,
+        "avg_income": 634021.9579404712,
+        "median_income": 633041.0,
+        "share_of_total_income": 0.0014573340961225557
+      },
+      {
+        "lower": 640000,
+        "upper": 649999,
+        "num_returns": 42485.12,
+        "avg_income": 644939.8732278502,
+        "median_income": 643755.0,
+        "share_of_total_income": 0.0017761800692354295
+      },
+      {
+        "lower": 650000,
+        "upper": 659999,
+        "num_returns": 31495.97,
+        "avg_income": 653973.1801005017,
+        "median_income": 653898.0,
+        "share_of_total_income": 0.001335198517272269
+      },
+      {
+        "lower": 660000,
+        "upper": 669999,
+        "num_returns": 41567.71,
+        "avg_income": 665358.1096574721,
+        "median_income": 665362.0,
+        "share_of_total_income": 0.0017928438650673983
+      },
+      {
+        "lower": 670000,
+        "upper": 679999,
+        "num_returns": 29820.82,
+        "avg_income": 675091.2401023849,
+        "median_income": 673200.0,
+        "share_of_total_income": 0.0013050073848932555
+      },
+      {
+        "lower": 680000,
+        "upper": 689999,
+        "num_returns": 18258.79,
+        "avg_income": 683588.4153971868,
+        "median_income": 684221.5,
+        "share_of_total_income": 0.0008090914339839991
+      },
+      {
+        "lower": 690000,
+        "upper": 699999,
+        "num_returns": 36994.43,
+        "avg_income": 695348.052934996,
+        "median_income": 695495.5,
+        "share_of_total_income": 0.0016675140369092443
+      },
+      {
+        "lower": 700000,
+        "upper": 709999,
+        "num_returns": 32215.28,
+        "avg_income": 704299.6993138039,
+        "median_income": 702521.0,
+        "share_of_total_income": 0.0014707888494254738
+      },
+      {
+        "lower": 710000,
+        "upper": 719999,
+        "num_returns": 35504.5,
+        "avg_income": 713365.4628554127,
+        "median_income": 712101.0,
+        "share_of_total_income": 0.0016418232282486686
+      },
+      {
+        "lower": 720000,
+        "upper": 729999,
+        "num_returns": 22440.95,
+        "avg_income": 724966.4328729399,
+        "median_income": 725902.0,
+        "share_of_total_income": 0.0010546055484721708
+      },
+      {
+        "lower": 730000,
+        "upper": 739999,
+        "num_returns": 23665.38,
+        "avg_income": 736023.9491742792,
+        "median_income": 735772.0,
+        "share_of_total_income": 0.0011291102336117584
+      },
+      {
+        "lower": 740000,
+        "upper": 749999,
+        "num_returns": 17122.95,
+        "avg_income": 743216.125961356,
+        "median_income": 742815.5,
+        "share_of_total_income": 0.0008249443036672228
+      },
+      {
+        "lower": 750000,
+        "upper": 759999,
+        "num_returns": 37381.19,
+        "avg_income": 754402.0179033894,
+        "median_income": 753250.0,
+        "share_of_total_income": 0.0018280449876241286
+      },
+      {
+        "lower": 760000,
+        "upper": 769999,
+        "num_returns": 16792.65,
+        "avg_income": 763664.6922486922,
+        "median_income": 764996.0,
+        "share_of_total_income": 0.0008312905877418075
+      },
+      {
+        "lower": 770000,
+        "upper": 779999,
+        "num_returns": 13406.36,
+        "avg_income": 776135.2553429864,
+        "median_income": 775928.0,
+        "share_of_total_income": 0.0006744957289538282
+      },
+      {
+        "lower": 780000,
+        "upper": 789999,
+        "num_returns": 15082.33,
+        "avg_income": 787455.1427750222,
+        "median_income": 787549.5,
+        "share_of_total_income": 0.0007698837939967891
+      },
+      {
+        "lower": 790000,
+        "upper": 799999,
+        "num_returns": 22306.21,
+        "avg_income": 793953.8897383285,
+        "median_income": 793630.0,
+        "share_of_total_income": 0.001148026683802616
+      },
+      {
+        "lower": 800000,
+        "upper": 809999,
+        "num_returns": 24332.43,
+        "avg_income": 805177.6296313192,
+        "median_income": 805811.0,
+        "share_of_total_income": 0.0012700128006184477
+      },
+      {
+        "lower": 810000,
+        "upper": 819999,
+        "num_returns": 22888.6,
+        "avg_income": 815230.2369341068,
+        "median_income": 816073.0,
+        "share_of_total_income": 0.0012095683770682094
+      },
+      {
+        "lower": 820000,
+        "upper": 829999,
+        "num_returns": 20552.45,
+        "avg_income": 823102.6528876119,
+        "median_income": 821896.0,
+        "share_of_total_income": 0.0010966006957006467
+      },
+      {
+        "lower": 830000,
+        "upper": 839999,
+        "num_returns": 27050.61,
+        "avg_income": 835133.0231022516,
+        "median_income": 836725.0,
+        "share_of_total_income": 0.001464413201643212
+      },
+      {
+        "lower": 840000,
+        "upper": 849999,
+        "num_returns": 11835.48,
+        "avg_income": 848609.8630583636,
+        "median_income": 848176.5,
+        "share_of_total_income": 0.000651065775262797
+      },
+      {
+        "lower": 850000,
+        "upper": 859999,
+        "num_returns": 20099.96,
+        "avg_income": 854928.9096167355,
+        "median_income": 855015.5,
+        "share_of_total_income": 0.001113925411819886
+      },
+      {
+        "lower": 860000,
+        "upper": 869999,
+        "num_returns": 15523.01,
+        "avg_income": 865604.343117733,
+        "median_income": 867611.0,
+        "share_of_total_income": 0.0008710162940040924
+      },
+      {
+        "lower": 870000,
+        "upper": 879999,
+        "num_returns": 12925.68,
+        "avg_income": 874362.8975434948,
+        "median_income": 874506.0,
+        "share_of_total_income": 0.0007326153870063118
+      },
+      {
+        "lower": 880000,
+        "upper": 889999,
+        "num_returns": 9546.75,
+        "avg_income": 882586.4007478985,
+        "median_income": 883281.5,
+        "share_of_total_income": 0.000546189939669468
+      },
+      {
+        "lower": 890000,
+        "upper": 899999,
+        "num_returns": 24798.19,
+        "avg_income": 894636.0761716883,
+        "median_income": 894999.0,
+        "share_of_total_income": 0.0014381272172287283
+      },
+      {
+        "lower": 900000,
+        "upper": 909999,
+        "num_returns": 28929.3,
+        "avg_income": 901943.2895213502,
+        "median_income": 901780.0,
+        "share_of_total_income": 0.0016914067999337105
+      },
+      {
+        "lower": 910000,
+        "upper": 919999,
+        "num_returns": 10517.99,
+        "avg_income": 916448.7998210684,
+        "median_income": 917505.0,
+        "share_of_total_income": 0.0006248443910131108
+      },
+      {
+        "lower": 920000,
+        "upper": 929999,
+        "num_returns": 9857.91,
+        "avg_income": 923925.7825837322,
+        "median_income": 923710.0,
+        "share_of_total_income": 0.0005904088389281106
+      },
+      {
+        "lower": 930000,
+        "upper": 939999,
+        "num_returns": 5675.83,
+        "avg_income": 936892.8664847257,
+        "median_income": 936764.0,
+        "share_of_total_income": 0.00034470709839414345
+      },
+      {
+        "lower": 940000,
+        "upper": 949999,
+        "num_returns": 12358.060000000001,
+        "avg_income": 947109.1002916315,
+        "median_income": 948717.0,
+        "share_of_total_income": 0.0007587194619139832
+      },
+      {
+        "lower": 950000,
+        "upper": 959999,
+        "num_returns": 10347.76,
+        "avg_income": 957090.1667114429,
+        "median_income": 956845.0,
+        "share_of_total_income": 0.0006419927401140488
+      },
+      {
+        "lower": 960000,
+        "upper": 969999,
+        "num_returns": 9001.84,
+        "avg_income": 964575.2176377273,
+        "median_income": 963750.5,
+        "share_of_total_income": 0.0005628573017068002
+      },
+      {
+        "lower": 970000,
+        "upper": 979999,
+        "num_returns": 6825.21,
+        "avg_income": 974846.7454349388,
+        "median_income": 974097.0,
+        "share_of_total_income": 0.0004313037953573335
+      },
+      {
+        "lower": 980000,
+        "upper": 989999,
+        "num_returns": 975.71,
+        "avg_income": 984943.8620491744,
+        "median_income": 985769.5,
+        "share_of_total_income": 6.229642857815253e-05
+      },
+      {
+        "lower": 990000,
+        "upper": 999999,
+        "num_returns": 14293.06,
+        "avg_income": 994275.1694199844,
+        "median_income": 990769.5,
+        "share_of_total_income": 0.0009212186588189629
+      },
+      {
+        "lower": 1000000,
+        "upper": 1009999,
+        "num_returns": 22793.22,
+        "avg_income": 1002975.8031862108,
+        "median_income": 1002205.0,
+        "share_of_total_income": 0.0014819278280790533
+      },
+      {
+        "lower": 1010000,
+        "upper": 1019999,
+        "num_returns": 15103.56,
+        "avg_income": 1015366.7652268737,
+        "median_income": 1014930.0,
+        "share_of_total_income": 0.0009941071205486142
+      },
+      {
+        "lower": 1020000,
+        "upper": 1029999,
+        "num_returns": 12713.85,
+        "avg_income": 1023405.2115716324,
+        "median_income": 1021915.0,
+        "share_of_total_income": 0.0008434427758047666
+      },
+      {
+        "lower": 1030000,
+        "upper": 1039999,
+        "num_returns": 8879.66,
+        "avg_income": 1030519.7072523048,
+        "median_income": 1031080.0,
+        "share_of_total_income": 0.0005931759764553407
+      },
+      {
+        "lower": 1040000,
+        "upper": 1049999,
+        "num_returns": 27003.96,
+        "avg_income": 1044606.9118207108,
+        "median_income": 1043059.0,
+        "share_of_total_income": 0.00182856863612697
+      },
+      {
+        "lower": 1050000,
+        "upper": 1059999,
+        "num_returns": 7008.25,
+        "avg_income": 1056460.800526522,
+        "median_income": 1054674.5,
+        "share_of_total_income": 0.00047994767083106316
+      },
+      {
+        "lower": 1060000,
+        "upper": 1069999,
+        "num_returns": 12485.48,
+        "avg_income": 1062807.5169156492,
+        "median_income": 1062381.0,
+        "share_of_total_income": 0.0008601828430583329
+      },
+      {
+        "lower": 1070000,
+        "upper": 1079999,
+        "num_returns": 4365.09,
+        "avg_income": 1075764.2898840574,
+        "median_income": 1074809.5,
+        "share_of_total_income": 0.0003043976123102397
+      },
+      {
+        "lower": 1080000,
+        "upper": 1089999,
+        "num_returns": 14100.130000000001,
+        "avg_income": 1081994.0965445,
+        "median_income": 1082045.5,
+        "share_of_total_income": 0.0009889604487336027
+      },
+      {
+        "lower": 1090000,
+        "upper": 1099999,
+        "num_returns": 53697.04,
+        "avg_income": 1098426.3961633637,
+        "median_income": 1099999.0,
+        "share_of_total_income": 0.0038234218913638604
+      },
+      {
+        "lower": 1100000,
+        "upper": 1109999,
+        "num_returns": 34834.479999999996,
+        "avg_income": 1103622.3081831567,
+        "median_income": 1102034.0,
+        "share_of_total_income": 0.0024920727580409583
+      },
+      {
+        "lower": 1110000,
+        "upper": 1119999,
+        "num_returns": 35790.21,
+        "avg_income": 1114128.8695517576,
+        "median_income": 1114999.0,
+        "share_of_total_income": 0.0025848216931615075
+      },
+      {
+        "lower": 1120000,
+        "upper": 1129999,
+        "num_returns": 10251.89,
+        "avg_income": 1123542.4828738896,
+        "median_income": 1123499.0,
+        "share_of_total_income": 0.0007466625194324705
+      },
+      {
+        "lower": 1130000,
+        "upper": 1139999,
+        "num_returns": 28795.34,
+        "avg_income": 1134337.0934856127,
+        "median_income": 1133592.5,
+        "share_of_total_income": 0.0021173627095056554
+      },
+      {
+        "lower": 1140000,
+        "upper": 1149999,
+        "num_returns": 20191.62,
+        "avg_income": 1145660.6358860757,
+        "median_income": 1145000.0,
+        "share_of_total_income": 0.001499540055111371
+      },
+      {
+        "lower": 1150000,
+        "upper": 1159999,
+        "num_returns": 15392.09,
+        "avg_income": 1156249.329553686,
+        "median_income": 1156706.0,
+        "share_of_total_income": 0.0011536657601555907
+      },
+      {
+        "lower": 1160000,
+        "upper": 1169999,
+        "num_returns": 19402.83,
+        "avg_income": 1164703.230354541,
+        "median_income": 1164499.0,
+        "share_of_total_income": 0.0014649111138868183
+      },
+      {
+        "lower": 1170000,
+        "upper": 1179999,
+        "num_returns": 21350.52,
+        "avg_income": 1174300.0504184442,
+        "median_income": 1175636.5,
+        "share_of_total_income": 0.0016252435521461647
+      },
+      {
+        "lower": 1180000,
+        "upper": 1189999,
+        "num_returns": 2016.55,
+        "avg_income": 1183692.466995611,
+        "median_income": 1182706.0,
+        "share_of_total_income": 0.000154731520705273
+      },
+      {
+        "lower": 1190000,
+        "upper": 1199999,
+        "num_returns": 3795.0,
+        "avg_income": 1199201.0,
+        "median_income": 1199201.0,
+        "share_of_total_income": 0.0002950086006457093
+      },
+      {
+        "lower": 1200000,
+        "upper": 1209999,
+        "num_returns": 9392.05,
+        "avg_income": 1203084.303140422,
+        "median_income": 1203975.0,
+        "share_of_total_income": 0.0007324658340112002
+      },
+      {
+        "lower": 1210000,
+        "upper": 1219999,
+        "num_returns": 3540.4800000000005,
+        "avg_income": 1216146.859713937,
+        "median_income": 1215363.0,
+        "share_of_total_income": 0.0002791123693658461
+      },
+      {
+        "lower": 1220000,
+        "upper": 1229999,
+        "num_returns": 16644.62,
+        "avg_income": 1224244.9286784558,
+        "median_income": 1224406.5,
+        "share_of_total_income": 0.0013209096518020406
+      },
+      {
+        "lower": 1230000,
+        "upper": 1239999,
+        "num_returns": 9028.7,
+        "avg_income": 1236865.5342131206,
+        "median_income": 1236524.5,
+        "share_of_total_income": 0.0007239000822829534
+      },
+      {
+        "lower": 1240000,
+        "upper": 1249999,
+        "num_returns": 4063.18,
+        "avg_income": 1245645.2767290645,
+        "median_income": 1244690.5,
+        "share_of_total_income": 0.0003280887682170481
+      },
+      {
+        "lower": 1250000,
+        "upper": 1259999,
+        "num_returns": 11221.38,
+        "avg_income": 1255258.5532857813,
+        "median_income": 1255014.0,
+        "share_of_total_income": 0.0009130832462150331
+      },
+      {
+        "lower": 1260000,
+        "upper": 1269999,
+        "num_returns": 9727.76,
+        "avg_income": 1265664.5150682172,
+        "median_income": 1266767.0,
+        "share_of_total_income": 0.0007981092912915364
+      },
+      {
+        "lower": 1270000,
+        "upper": 1279999,
+        "num_returns": 1286.3200000000002,
+        "avg_income": 1277119.8614341686,
+        "median_income": 1277199.0,
+        "share_of_total_income": 0.00010649067907926491
+      },
+      {
+        "lower": 1280000,
+        "upper": 1289999,
+        "num_returns": 5616.25,
+        "avg_income": 1282995.7645047854,
+        "median_income": 1285241.5,
+        "share_of_total_income": 0.0004670921510960541
+      },
+      {
+        "lower": 1290000,
+        "upper": 1299999,
+        "num_returns": 3232.2,
+        "avg_income": 1295000.0,
+        "median_income": 1295000.0,
+        "share_of_total_income": 0.0002713306840076518
+      },
+      {
+        "lower": 1300000,
+        "upper": 1309999,
+        "num_returns": 1898.13,
+        "avg_income": 1305508.0,
+        "median_income": 1305508.0,
+        "share_of_total_income": 0.00016063360499289658
+      },
+      {
+        "lower": 1310000,
+        "upper": 1319999,
+        "num_returns": 4847.76,
+        "avg_income": 1311304.5577751372,
+        "median_income": 1311262.5,
+        "share_of_total_income": 0.00041207436391929835
+      },
+      {
+        "lower": 1320000,
+        "upper": 1329999,
+        "num_returns": 2680.53,
+        "avg_income": 1320508.0,
+        "median_income": 1320508.0,
+        "share_of_total_income": 0.00022945241026445275
+      },
+      {
+        "lower": 1330000,
+        "upper": 1339999,
+        "num_returns": 2911.25,
+        "avg_income": 1333544.0,
+        "median_income": 1333544.0,
+        "share_of_total_income": 0.0002516620712022785
+      },
+      {
+        "lower": 1340000,
+        "upper": 1349999,
+        "num_returns": 5242.4400000000005,
+        "avg_income": 1343403.38297434,
+        "median_income": 1340550.0,
+        "share_of_total_income": 0.00045653157671364525
+      },
+      {
+        "lower": 1360000,
+        "upper": 1369999,
+        "num_returns": 3229.96,
+        "avg_income": 1364072.0,
+        "median_income": 1364072.0,
+        "share_of_total_income": 0.0002856047023989333
+      },
+      {
+        "lower": 1380000,
+        "upper": 1389999,
+        "num_returns": 2110.06,
+        "avg_income": 1381157.0,
+        "median_income": 1381157.0,
+        "share_of_total_income": 0.00018891601191792335
+      },
+      {
+        "lower": 1390000,
+        "upper": 1399999,
+        "num_returns": 4668.9800000000005,
+        "avg_income": 1395282.0851920547,
+        "median_income": 1397014.0,
+        "share_of_total_income": 0.000422294035058447
+      },
+      {
+        "lower": 1410000,
+        "upper": 1419999,
+        "num_returns": 8708.2,
+        "avg_income": 1412998.4607726051,
+        "median_income": 1412956.5,
+        "share_of_total_income": 0.0007976291163766033
+      },
+      {
+        "lower": 1420000,
+        "upper": 1429999,
+        "num_returns": 4373.3,
+        "avg_income": 1421318.0,
+        "median_income": 1421318.0,
+        "share_of_total_income": 0.00040293170501258475
+      },
+      {
+        "lower": 1430000,
+        "upper": 1439999,
+        "num_returns": 3570.86,
+        "avg_income": 1434101.0000000002,
+        "median_income": 1434101.0,
+        "share_of_total_income": 0.00033195825839850266
+      },
+      {
+        "lower": 1440000,
+        "upper": 1449999,
+        "num_returns": 5671.55,
+        "avg_income": 1441972.0,
+        "median_income": 1441972.0,
+        "share_of_total_income": 0.000530138698869413
+      },
+      {
+        "lower": 1450000,
+        "upper": 1459999,
+        "num_returns": 973.24,
+        "avg_income": 1458499.0,
+        "median_income": 1458499.0,
+        "share_of_total_income": 9.20146547749936e-05
+      },
+      {
+        "lower": 1500000,
+        "upper": 1509999,
+        "num_returns": 5662.700000000001,
+        "avg_income": 1509561.1583343633,
+        "median_income": 1509489.0,
+        "share_of_total_income": 0.000554121730827168
+      },
+      {
+        "lower": 1520000,
+        "upper": 1529999,
+        "num_returns": 1832.33,
+        "avg_income": 1521745.0,
+        "median_income": 1521745.0,
+        "share_of_total_income": 0.00018074924461023193
+      },
+      {
+        "lower": 1530000,
+        "upper": 1539999,
+        "num_returns": 10540.39,
+        "avg_income": 1537983.1180117624,
+        "median_income": 1538799.0,
+        "share_of_total_income": 0.0010508462142082462
+      },
+      {
+        "lower": 1540000,
+        "upper": 1549999,
+        "num_returns": 2918.22,
+        "avg_income": 1546964.9999999998,
+        "median_income": 1546965.0,
+        "share_of_total_income": 0.0002926371326469955
+      },
+      {
+        "lower": 1550000,
+        "upper": 1559999,
+        "num_returns": 2652.46,
+        "avg_income": 1552500.0,
+        "median_income": 1552500.0,
+        "share_of_total_income": 0.0002669385932731446
+      },
+      {
+        "lower": 1580000,
+        "upper": 1589999,
+        "num_returns": 1761.12,
+        "avg_income": 1586999.0,
+        "median_income": 1586999.0,
+        "share_of_total_income": 0.00018117426892868806
+      },
+      {
+        "lower": 1590000,
+        "upper": 1599999,
+        "num_returns": 423.35,
+        "avg_income": 1592004.0000000002,
+        "median_income": 1592004.0,
+        "share_of_total_income": 4.3689254490159524e-05
+      },
+      {
+        "lower": 1600000,
+        "upper": 1609999,
+        "num_returns": 294.45,
+        "avg_income": 1605377.0,
+        "median_income": 1605377.0,
+        "share_of_total_income": 3.064216949924487e-05
+      },
+      {
+        "lower": 1670000,
+        "upper": 1679999,
+        "num_returns": 4114.78,
+        "avg_income": 1672866.0,
+        "median_income": 1672866.0,
+        "share_of_total_income": 0.00044620937432521116
+      },
+      {
+        "lower": 1680000,
+        "upper": 1689999,
+        "num_returns": 3462.19,
+        "avg_income": 1681000.0,
+        "median_income": 1681000.0,
+        "share_of_total_income": 0.00037726761485552205
+      },
+      {
+        "lower": 1710000,
+        "upper": 1719999,
+        "num_returns": 498.09,
+        "avg_income": 1716389.0,
+        "median_income": 1716389.0,
+        "share_of_total_income": 5.541846093184046e-05
+      },
+      {
+        "lower": 1720000,
+        "upper": 1729999,
+        "num_returns": 3134.86,
+        "avg_income": 1729998.0000000002,
+        "median_income": 1729998.0,
+        "share_of_total_income": 0.00035155612331192886
+      },
+      {
+        "lower": 1740000,
+        "upper": 1749999,
+        "num_returns": 1015.58,
+        "avg_income": 1744529.0,
+        "median_income": 1744529.0,
+        "share_of_total_income": 0.00011484795017677346
+      },
+      {
+        "lower": 2000000,
+        "upper": null,
+        "num_returns": 26235.88,
+        "avg_income": 2157949.221346492,
+        "median_income": 2199998.0,
+        "share_of_total_income": 0.003670014433197107
+      }
+    ]
+  },
+  "notes": "Income is CPS family money income (FTOTVAL) used as AGI proxy. Weights applied. Weights decoded for implied decimals."
+}

@@ -1,0 +1,1 @@
+// This component will be a visual editor for tax brackets on the /budget/taxes page.

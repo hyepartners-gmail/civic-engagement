@@ -1,0 +1,140 @@
+[
+  {
+    "president": "William McKinley",
+    "party": "Republican",
+    "startFY": 1897,
+    "endFY": 1901
+  },
+  {
+    "president": "Theodore Roosevelt",
+    "party": "Republican",
+    "startFY": 1901,
+    "endFY": 1909
+  },
+  {
+    "president": "William Howard Taft",
+    "party": "Republican",
+    "startFY": 1909,
+    "endFY": 1913
+  },
+  {
+    "president": "Woodrow Wilson",
+    "party": "Democrat",
+    "startFY": 1913,
+    "endFY": 1921
+  },
+  {
+    "president": "Warren G. Harding",
+    "party": "Republican",
+    "startFY": 1921,
+    "endFY": 1923
+  },
+  {
+    "president": "Calvin Coolidge",
+    "party": "Republican",
+    "startFY": 1923,
+    "endFY": 1929
+  },
+  {
+    "president": "Herbert Hoover",
+    "party": "Republican",
+    "startFY": 1929,
+    "endFY": 1933
+  },
+  {
+    "president": "Franklin D. Roosevelt",
+    "party": "Democrat",
+    "startFY": 1933,
+    "endFY": 1945
+  },
+  {
+    "president": "Harry S. Truman",
+    "party": "Democrat",
+    "startFY": 1945,
+    "endFY": 1953
+  },
+  {
+    "president": "Dwight D. Eisenhower",
+    "party": "Republican",
+    "startFY": 1953,
+    "endFY": 1961
+  },
+  {
+    "president": "John F. Kennedy",
+    "party": "Democrat",
+    "startFY": 1961,
+    "endFY": 1963
+  },
+  {
+    "president": "Lyndon B. Johnson",
+    "party": "Democrat",
+    "startFY": 1963,
+    "endFY": 1969
+  },
+  {
+    "president": "Richard Nixon",
+    "party": "Republican",
+    "startFY": 1969,
+    "endFY": 1975
+  },
+  {
+    "president": "Gerald Ford",
+    "party": "Republican",
+    "startFY": 1974,
+    "endFY": 1977
+  },
+  {
+    "president": "Jimmy Carter",
+    "party": "Democrat",
+    "startFY": 1977,
+    "endFY": 1981
+  },
+  {
+    "president": "Ronald Reagan",
+    "party": "Republican",
+    "startFY": 1981,
+    "endFY": 1989
+  },
+  {
+    "president": "George H. W. Bush",
+    "party": "Republican",
+    "startFY": 1989,
+    "endFY": 1993
+  },
+  {
+    "president": "Bill Clinton",
+    "party": "Democrat",
+    "startFY": 1993,
+    "endFY": 2001
+  },
+  {
+    "president": "George W. Bush",
+    "party": "Republican",
+    "startFY": 2001,
+    "endFY": 2009
+  },
+  {
+    "president": "Barack Obama",
+    "party": "Democrat",
+    "startFY": 2009,
+    "endFY": 2017
+  },
+  {
+    "president": "Donald Trump",
+    "party": "Republican",
+    "startFY": 2017,
+    "endFY": 2021
+  },
+  {
+    "president": "Joe Biden",
+    "party": "Democrat",
+    "startFY": 2021,
+    "endFY": 2025
+  },
+  {
+    "president": "Donald Trump",
+    "party": "Republican",
+    "startFY": 2025,
+    "endFY": 2029
+  }
+]

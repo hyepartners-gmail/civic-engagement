@@ -1,0 +1,463 @@
+{
+  "version": "v1",
+  "meta": {
+    "option_scores": [-100, -33, 33, 100],
+    "categories": {
+      "1": "Constitutional Reform",
+      "2": "Democracy & Voting",
+      "3": "Economy & Taxes",
+      "4": "Healthcare",
+      "5": "Climate & Energy",
+      "6": "Education",
+      "7": "Immigration",
+      "8": "Crime & Justice",
+      "9": "Rights & Liberties",
+      "10": "Foreign Policy & Defense",
+      "11": "Employment & Labor",
+      "12": "Technology & Privacy",
+      "13": "Agriculture & Food Safety"
+    }
+  },
+  "questions": [
+    {
+      "id": "Q001",
+      "category_id": 2,
+      "prompt": "Lower or raise voting age?",
+      "options": [
+        { "label": "16 for all", "score": -100 },
+        { "label": "Stay 18, no ID", "score": -33 },
+        { "label": "Require ID", "score": 33 },
+        { "label": "21 for all", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q002",
+      "category_id": 1,
+      "prompt": "Supreme Court terms?",
+      "options": [
+        { "label": "10 years max", "score": -100 },
+        { "label": "Retire at 75", "score": -33 },
+        { "label": "18-year limit", "score": 33 },
+        { "label": "Lifetime stays", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q003",
+      "category_id": 2,
+      "prompt": "Electoral College change?",
+      "options": [
+        { "label": "End EC entirely", "score": -100 },
+        { "label": "Popular-vote pact", "score": -33 },
+        { "label": "Proportional states", "score": 33 },
+        { "label": "Strengthen EC", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q004",
+      "category_id": 3,
+      "prompt": "Tax billionaires?",
+      "options": [
+        { "label": "75% wealth tax", "score": -100 },
+        { "label": "50% surtax >$10M", "score": -33 },
+        { "label": "Keep brackets", "score": 33 },
+        { "label": "Slash top rates", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q005",
+      "category_id": 3,
+      "prompt": "Corporate tax design?",
+      "options": [
+        { "label": "40% + capex writeoffs", "score": -100 },
+        { "label": "Back to ~28%", "score": -33 },
+        { "label": "Keep ~21% + credits", "score": 33 },
+        { "label": "Cut to 10%", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q006",
+      "category_id": 3,
+      "prompt": "Tariff strategy now?",
+      "options": [
+        { "label": "Zero tariffs", "score": -100 },
+        { "label": "Target risky sectors", "score": -33 },
+        { "label": "10% baseline; higher China", "score": 33 },
+        { "label": "Broad hikes on imports", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q007",
+      "category_id": 4,
+      "prompt": "Universal healthcare?",
+      "options": [
+        { "label": "Medicare for all", "score": -100 },
+        { "label": "Public option", "score": -33 },
+        { "label": "ACA + competition", "score": 33 },
+        { "label": "Free market only", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q008",
+      "category_id": 4,
+      "prompt": "Drug pricing rules?",
+      "options": [
+        { "label": "Strict price caps", "score": -100 },
+        { "label": "Medicare negotiates", "score": -33 },
+        { "label": "Limited caps only", "score": 33 },
+        { "label": "Free pricing", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q009",
+      "category_id": 5,
+      "prompt": "Fossil fuels policy?",
+      "options": [
+        { "label": "Ban by 2030", "score": -100 },
+        { "label": "Net-zero by 2040", "score": -33 },
+        { "label": "Voluntary targets", "score": 33 },
+        { "label": "Deregulate fully", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q010",
+      "category_id": 5,
+      "prompt": "Gas cars: stop selling new?",
+      "options": [
+        { "label": "Stop by 2030", "score": -100 },
+        { "label": "Stop by 2035", "score": -33 },
+        { "label": "No ban; small credit", "score": 33 },
+        { "label": "End EV push", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q011",
+      "category_id": 6,
+      "prompt": "Cancel student debt?",
+      "options": [
+        { "label": "Erase all debt", "score": -100 },
+        { "label": "Up to $50k", "score": -33 },
+        { "label": "Partial, means-tested", "score": 33 },
+        { "label": "No cancellation", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q012",
+      "category_id": 6,
+      "prompt": "Free public college?",
+      "options": [
+        { "label": "All public free", "score": -100 },
+        { "label": "In-state free", "score": -33 },
+        { "label": "Aid only", "score": 33 },
+        { "label": "Families pay", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q013",
+      "category_id": 7,
+      "prompt": "Border policy?",
+      "options": [
+        { "label": "Open borders", "score": -100 },
+        { "label": "Path to citizenship", "score": -33 },
+        { "label": "Strict vetting caps", "score": 33 },
+        { "label": "Total ban", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q014",
+      "category_id": 7,
+      "prompt": "Refugees?",
+      "options": [
+        { "label": "100k+ yearly", "score": -100 },
+        { "label": "Moderate intake", "score": -33 },
+        { "label": "Allies only", "score": 33 },
+        { "label": "None allowed", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q015",
+      "category_id": 8,
+      "prompt": "Police funding?",
+      "options": [
+        { "label": "Abolish police", "score": -100 },
+        { "label": "Cut by 50%", "score": -33 },
+        { "label": "Keep + training", "score": 33 },
+        { "label": "Expand force", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q016",
+      "category_id": 8,
+      "prompt": "Death penalty?",
+      "options": [
+        { "label": "Ban entirely", "score": -100 },
+        { "label": "Rare cases only", "score": -33 },
+        { "label": "Keep w/ safeguards", "score": 33 },
+        { "label": "Expand crimes", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q017",
+      "category_id": 9,
+      "prompt": "Trans girls in sports?",
+      "options": [
+        { "label": "Always allowed", "score": -100 },
+        { "label": "Hormone-based", "score": -33 },
+        { "label": "Ban in women’s", "score": 33 },
+        { "label": "Separate category", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q018",
+      "category_id": 9,
+      "prompt": "Abortion rules?",
+      "options": [
+        { "label": "Any time", "score": -100 },
+        { "label": "To viability", "score": -33 },
+        { "label": "First trimester", "score": 33 },
+        { "label": "Total ban", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q019",
+      "category_id": 9,
+      "prompt": "Campus speech?",
+      "options": [
+        { "label": "All speech", "score": -100 },
+        { "label": "No incitement", "score": -33 },
+        { "label": "Ban harassment", "score": 33 },
+        { "label": "Ban ‘offensive’", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q020",
+      "category_id": 9,
+      "prompt": "Epstein files?",
+      "options": [
+        { "label": "All public", "score": -100 },
+        { "label": "Partial redactions", "score": -33 },
+        { "label": "Seal 50 years", "score": 33 },
+        { "label": "Destroy all", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q021",
+      "category_id": 10,
+      "prompt": "Military budget?",
+      "options": [
+        { "label": "Cut 50%", "score": -100 },
+        { "label": "Keep; shift funds", "score": -33 },
+        { "label": "Raise 10%", "score": 33 },
+        { "label": "Raise 50%", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q022",
+      "category_id": 10,
+      "prompt": "China stance?",
+      "options": [
+        { "label": "Free trade", "score": -100 },
+        { "label": "Lower tensions", "score": -33 },
+        { "label": "Tariffs + decouple", "score": 33 },
+        { "label": "Hard contain", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q023",
+      "category_id": 11,
+      "prompt": "Universal Basic Income?",
+      "options": [
+        { "label": "$2k for all", "score": -100 },
+        { "label": "Low-income only", "score": -33 },
+        { "label": "Welfare + work", "score": 33 },
+        { "label": "Workfare only", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q024",
+      "category_id": 11,
+      "prompt": "Unions?",
+      "options": [
+        { "label": "Mandate unions", "score": -100 },
+        { "label": "Stronger penalties", "score": -33 },
+        { "label": "Keep current", "score": 33 },
+        { "label": "Limit unions", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q025",
+      "category_id": 12,
+      "prompt": "Palantir super-dataset?",
+      "options": [
+        { "label": "Ban program", "score": -100 },
+        { "label": "Warrants only", "score": -33 },
+        { "label": "Aggregates only", "score": 33 },
+        { "label": "Give them everything", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q026",
+      "category_id": 12,
+      "prompt": "AI limits?",
+      "options": [
+        { "label": "Ban job-killer AI", "score": -100 },
+        { "label": "Heavy rules", "score": -33 },
+        { "label": "Light rules", "score": 33 },
+        { "label": "No rules", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q027",
+      "category_id": 13,
+      "prompt": "Factory farming?",
+      "options": [
+        { "label": "Ban now", "score": -100 },
+        { "label": "Tax/phase out", "score": -33 },
+        { "label": "Stronger welfare", "score": 33 },
+        { "label": "Deregulate/expand", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q028",
+      "category_id": 13,
+      "prompt": "Plastic waste policy?",
+      "options": [
+        { "label": "Ban single-use", "score": -100 },
+        { "label": "Companies pay recycle", "score": -33 },
+        { "label": "Voluntary cuts", "score": 33 },
+        { "label": "No limits", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q029",
+      "category_id": 12,
+      "prompt": "Right to repair?",
+      "options": [
+        { "label": "20-year mandate", "score": -100 },
+        { "label": "10-year mandate", "score": -33 },
+        { "label": "Parts/diag access", "score": 33 },
+        { "label": "Manufacturer control", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q030",
+      "category_id": 5,
+      "prompt": "Fracking?",
+      "options": [
+        { "label": "Ban now", "score": -100 },
+        { "label": "Strict rules", "score": -33 },
+        { "label": "Keep current", "score": 33 },
+        { "label": "Subsidize", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q031",
+      "category_id": 5,
+      "prompt": "Nuclear power?",
+      "options": [
+        { "label": "Invest big", "score": -100 },
+        { "label": "Keep existing", "score": -33 },
+        { "label": "Phase out", "score": 33 },
+        { "label": "Ban all", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q032",
+      "category_id": 9,
+      "prompt": "Guns?",
+      "options": [
+        { "label": "Ban semi-autos", "score": -100 },
+        { "label": "Background + flags", "score": -33 },
+        { "label": "Keep current", "score": 33 },
+        { "label": "Deregulate fully", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q033",
+      "category_id": 9,
+      "prompt": "Book bans/censorship?",
+      "options": [
+        { "label": "Ban bans", "score": -100 },
+        { "label": "Limit removals", "score": -33 },
+        { "label": "Local control", "score": 33 },
+        { "label": "Aggressive removals", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q034",
+      "category_id": 13,
+      "prompt": "Raw milk sales?",
+      "options": [
+        { "label": "Legal nationwide", "score": -100 },
+        { "label": "Legal w/ labels", "score": -33 },
+        { "label": "State choice", "score": 33 },
+        { "label": "Ban nationwide", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q035",
+      "category_id": 13,
+      "prompt": "FDA GRAS rules?",
+      "options": [
+        { "label": "Govt pre-approve all", "score": -100 },
+        { "label": "Tighten GRAS", "score": -33 },
+        { "label": "Keep current", "score": 33 },
+        { "label": "Loosen GRAS", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q036",
+      "category_id": 12,
+      "prompt": "Crypto rules?",
+      "options": [
+        { "label": "Ban crypto", "score": -100 },
+        { "label": "Heavy regulation", "score": -33 },
+        { "label": "Light rules", "score": 33 },
+        { "label": "No rules", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q037",
+      "category_id": 10,
+      "prompt": "Robot military?",
+      "options": [
+        { "label": "Ban lethal robots", "score": -100 },
+        { "label": "Only w/ human OK", "score": -33 },
+        { "label": "Limited autonomy", "score": 33 },
+        { "label": "Full autonomy", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q038",
+      "category_id": 10,
+      "prompt": "Use U.S. military at home?",
+      "options": [
+        { "label": "Never allowed", "score": -100 },
+        { "label": "Only w/ Congress", "score": -33 },
+        { "label": "Governor requests", "score": 33 },
+        { "label": "President discretion", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q039",
+      "category_id": 4,
+      "prompt": "Vaccines access/uptake?",
+      "options": [
+        { "label": "Free for all", "score": -100 },
+        { "label": "Targeted programs", "score": -33 },
+        { "label": "Personal choice", "score": 33 },
+        { "label": "No vaccines", "score": 100 }
+      ]
+    },
+    {
+      "id": "Q040",
+      "category_id": 2,
+      "prompt": "Popular vote vs EC?",
+      "options": [
+        { "label": "National popular vote", "score": -100 },
+        { "label": "State pact only", "score": -33 },
+        { "label": "Split by vote share", "score": 33 },
+        { "label": "Winner-take-all", "score": 100 }
+      ]
+    }
+  ]
+}

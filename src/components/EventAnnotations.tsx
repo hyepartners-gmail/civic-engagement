@@ -1,0 +1,1 @@
+// This component will display event markers on the timeline.

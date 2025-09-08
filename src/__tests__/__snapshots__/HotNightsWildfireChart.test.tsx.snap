@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HotNightsWildfireChart matches snapshot 1`] = `
+<div>
+  <div
+    class="w-full h-96"
+  >
+    <div
+      data-testid="responsive-container"
+    >
+      <div
+        data-testid="composed-chart"
+      >
+        <div
+          data-testid="cartesian-grid"
+        />
+        <div
+          data-testid="x-axis"
+        />
+        <div
+          data-testid="y-axis"
+        />
+        <div
+          data-testid="y-axis"
+        />
+        <div
+          data-testid="tooltip"
+        />
+        <div
+          data-testid="legend"
+        />
+        <div
+          data-name="National Wildfire Acres"
+          data-testid="area-acres"
+        />
+        <div
+          data-name="Nights ≥ 70°F"
+          data-testid="line-nights"
+        />
+        <div
+          data-name="FEMA Heat Events"
+          data-testid="line-events"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

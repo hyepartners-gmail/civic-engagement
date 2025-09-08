@@ -1,0 +1,1 @@
+// This hook will handle CPU-heavy aggregations, with the option to offload to a WebWorker.

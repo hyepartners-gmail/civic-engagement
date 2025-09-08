@@ -1,0 +1,54 @@
+{
+  "files": {
+    "employment.core.json": [
+      "ces.construction",
+      "ces.construction_share",
+      "ces.education_health",
+      "ces.education_health_share",
+      "ces.government",
+      "ces.government_share",
+      "ces.leisure_hosp",
+      "ces.leisure_hosp_share",
+      "ces.manufacturing",
+      "ces.manufacturing_share",
+      "ces.net_job_change",
+      "ces.real_ahe_total_private",
+      "ces.total_nonfarm",
+      "ces.total_private",
+      "ces.total_private_share",
+      "nber.usrec"
+    ],
+    "employment.market.json": [
+      "ces.ahe_production_nonsup",
+      "ces.ahe_total_private",
+      "ces.real_ahe_total_private",
+      "cpi.u_all_items",
+      "cps.ur_headline",
+      "jolts.hires_rate",
+      "jolts.openings_rate",
+      "jolts.quits_rate",
+      "wages.real_ahe_yoy_pct"
+    ],
+    "employment.opportunity.json": [
+      "ces.real_ahe_total_private_fy",
+      "cps.gap.16_24_vs_25_54",
+      "cps.gap.black_white",
+      "cps.gap.men_women",
+      "cps.ur.age_16_24",
+      "cps.ur.age_25_54",
+      "cps.ur.age_55_plus",
+      "cps.ur.asian",
+      "cps.ur.black",
+      "cps.ur.hispanic",
+      "cps.ur.men",
+      "cps.ur.white",
+      "cps.ur.women",
+      "laus.state_ur_fy"
+    ]
+  },
+  "notes": [
+    "Front-end should lazy-load only the page it needs.",
+    "All monthly arrays are [['YYYY-MM', value], ...]; FY arrays are [['FYYYYY', value], ...].",
+    "agg_hint: 'mean' for rates/indices/dollars; 'sum' for flows (e.g., net job change)."
+  ]
+}

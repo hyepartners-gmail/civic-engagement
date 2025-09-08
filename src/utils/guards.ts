@@ -1,0 +1,1 @@
+// TypeScript type guard functions.
