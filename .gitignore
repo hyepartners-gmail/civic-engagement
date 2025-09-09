@@ -1,0 +1,57 @@
+# --- Dependencies ---
+node_modules/
+
+# --- Next.js build artifacts ---
+.next/
+out/
+build/
+dist/
+.swc/
+.turbo/
+
+# --- Environment files (keep template) ---
+.env
+.env.*
+!.env.example
+!.env.schema
+
+# --- Logs ---
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- Caches ---
+.cache/
+.eslintcache
+.stylelintcache
+.parcel-cache/
+
+# --- Testing / Coverage / E2E ---
+coverage/
+.nyc_output/
+test-results/
+jest-cache/
+jest-html-reporters-*.html
+playwright-report/
+playwright/.cache/
+cypress/videos/
+cypress/screenshots/
+
+# --- TypeScript ---
+*.tsbuildinfo
+
+# --- Tool/Host-specific ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+*.iml
+
+# --- Hosting / CI (local project files) ---
+.vercel/
+.netlify/
